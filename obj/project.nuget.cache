@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LfeXEB3xRkpGnWp6NTRpekm3NH+NiveOk+QmQLNCku79tsIyUpzNsYiAp7uV+Ms7XhWOr9GPNTRZwkMw178sDw==",
+  "dgSpecHash": "cSUF28+vp5a52uGfAvEIZxrCue4yfCKEbqRJrr3ffL4A8zITEzpwCJPZG12LFyNQ6zYBQONPSI3VvPx9y7YX5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\iray3\\source\\repos\\PrasadPuvvala\\AppiumWinApp\\AppiumWinApp\\AppiumWinApp.csproj",
+  "projectFilePath": "C:\\Users\\iray3\\source\\repos\\PrasadPuvvala\\sandr\\AppiumWinApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iray3\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\iray3\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
