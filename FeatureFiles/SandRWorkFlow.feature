@@ -27,9 +27,9 @@ Scenario Outline: 01Test Case 1537268: Verify that battery ADL data is restored 
 
 	| DeviceId   | DeviceLeftSlNo | FlashHI | DeviceRight | DeviceLeft |
     #| LT961-DRW-UP | 2000800436   | Yes     | Right       | Left       |
-	| RE962-DRW |   2049043374   | Yes     | Right       | Left       |
+	#| RE962-DRW |   2049043374   | Yes     | Right       | Left       |
 	#| RE962-DRWT | 2000803069     | Yes     | Right       | Left       |
-	 #| RT962-DRW | 2000800269     | Yes     | Right       | Left       |
+	 | RT962-DRW | 2000800269     | Yes     | Right       | Left       |
 	#| LT988-DW | 1600804970     | Yes     | Right       | Left       |
 	#| RT961-DRWC | 2000816934     | Yes     | Right       | Left       | 
 
