@@ -1,0 +1,1 @@
+C:\Users\iray3\source\repos\PrasadPuvvala\AppiumWinApp\AppiumWinApp\obj\RELEASE\netcoreapp3.1\AppiumWinApp.csproj.AssemblyReference.cache
