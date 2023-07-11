@@ -56,7 +56,7 @@ namespace AppiumWinApp.StepDefinitions
         }
 
         /** This is to clear exisisting dump image files in the c drive **/
-        
+        //
         [Given(@"\[Cleaning up dumps before execution starts]")]
         public void GivenCleaningUpDumpsBeforeExecutionStarts()
         {
