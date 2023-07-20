@@ -43,7 +43,7 @@ Scenario Outline: 02Test Case 1103972: Verify device information is shown correc
 	When [Launch SandR "<DeviceId>" and "<DeviceLeftSlNo>"]
 	When [Go to Device Info tab and capture device info in excel then verify the device information is shown correctly]
 	When [Come back to Settings and wait till controls enabled]
-	Then [Close SandR tool]
+	#Then [Close SandR tool]
 	
 
 
