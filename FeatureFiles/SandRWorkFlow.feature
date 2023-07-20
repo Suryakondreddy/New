@@ -182,35 +182,35 @@ Scenario Outline: 07Test Case 1142328: PC_Verify HI can be PC programmed properl
 ##
 ##
 ##
-##@tag9
-##Scenario Outline: 09Test Case 1105498: Verify that S&R Tool properly sets listening test settings
-##		        
-##				When [Create a Patient and add programs to HI In FSW "<AlterFSW>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
-##				Given [Change channel side in FDTS<DeviceLeft>]
-##    			Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceLeftSlNo>" and "<FlashHI>" and "<DeviceLeft>"
-##				Given [Change channel side in FDTS<DeviceRight>]    
-##				Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceSlNo>" and "<FlashHI>" and "<DeviceRight>"
-##				When [Create a Patient and add programs to HI In FSW "<AlterFSW>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
-##				When [Launch SandR "<DeviceId>" and "<DeviceLeftSlNo>"]
-##				When [Go to Device Info tab and capture device info in excel then verify the device information is shown correctly]
-##				When [Come back to Settings and wait till controls enabled]
-##				When [Perform Capture with listening test settings]
-##				Then [Launch FSW and check the added programs "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
-##
-##
-##	Examples:
-##	| DeviceId   | DeviceLeftSlNo | FlashHI | DeviceRight | DeviceLeft | DeviceSlNo | 
-##     | LT961-DRW-UP | 2000800436   | Yes     | Right       | Left       |1700800900|
-##	 | RE962-DRWT | 2000803069     | Yes     | Right       | Left       | 2000803066 |
-##	 | RE962-DRW |    2049043374  | Yes     | Right       | Left       | 2026484509 |
-##	 | RT962-DRW | 2000800269     | Yes     | Right       | Left       | 2000800246 |
-##	 | LT988-DW | 1600804970     | Yes     | Right       | Left       | 1600804918 |
-##	 | RT961-DRWC  | 2000816934     | Yes     | Right       | Left       | 2000816936 | 
-##
-##
-##
-##
-##
+@tag9
+Scenario Outline: 09Test Case 1105498: Verify that S&R Tool properly sets listening test settings
+		        
+				When [Create a Patient and add programs to HI In FSW "<AlterFSW>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
+				Given [Change channel side in FDTS<DeviceLeft>]
+    			Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceLeftSlNo>" and "<FlashHI>" and "<DeviceLeft>"
+				Given [Change channel side in FDTS<DeviceRight>]    
+				Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceSlNo>" and "<FlashHI>" and "<DeviceRight>"
+				When [Create a Patient and add programs to HI In FSW "<AlterFSW>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
+				When [Launch SandR "<DeviceId>" and "<DeviceLeftSlNo>"]
+				When [Go to Device Info tab and capture device info in excel then verify the device information is shown correctly]
+				When [Come back to Settings and wait till controls enabled]
+				When [Perform Capture with listening test settings]
+				Then [Launch FSW and check the added programs "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
+
+
+	Examples:
+	| DeviceId   | DeviceLeftSlNo | FlashHI | DeviceRight | DeviceLeft | DeviceSlNo | 
+     #| LT961-DRW-UP | 2000800436   | Yes     | Right       | Left       |1700800900|
+	 #| RE962-DRWT | 2000803069     | Yes     | Right       | Left       | 2000803066 |
+	 | RE962-DRW |    2049043374  | Yes     | Right       | Left       | 2026484509 |
+	 #| RT962-DRW | 2000800269     | Yes     | Right       | Left       | 2000800246 |
+	 #| LT988-DW | 1600804970     | Yes     | Right       | Left       | 1600804918 |
+	 #| RT961-DRWC  | 2000816934     | Yes     | Right       | Left       | 2000816936 | 
+
+
+
+
+
 ##@tag10
 ##Scenario Outline: 10Test Case 1105696: Verify that fitting data is properly restored during restoration on new device (RTS)
 ##	Given [Cleaning up dumps before execution starts]
