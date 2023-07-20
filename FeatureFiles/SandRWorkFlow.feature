@@ -2,32 +2,32 @@
 
 A short summary of the feature
 
-#@tag1
-#Scenario Outline: 01Test Case 1537268: Verify that battery ADL data is restored on original device
-#
-#	Given [Change channel side in FDTS<DeviceLeft>]
-#	Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceLeftSlNo>" and "<FlashHI>" and "<DeviceLeft>"
-#	When [Create a Patient and Fitting HI In FSW "<AlterFSWNo>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
-#    When [Verify StorageLayout Scenario By Changing Date and Confirm Cloud Icon "<DeviceId>" and "<DeviceLeft>" and "<DeviceLeftSlNo>"]
-#	When [Cleaning up Capture and Restore Reports Before Launch SandR]
-#	When [Change communication channel in S and R<DeviceLeft>]
-#	When [Launch SandR "<DeviceId>" and "<DeviceLeftSlNo>"]
-#	When [Go to Device Info tab and capture device info in excel then verify the device information is shown correctly]
-#	When [Come back to Settings and wait till controls enabled]
-#	When [Perform Capture"<DeviceId>"]
-#	When [Go to logs and verify capturing time]
-#	When [Launch algo and alter ADL value "<DeviceId>" and "<DeviceLeftSlNo>"]
-#	When [Perform Restore with above captured image "<DeviceId>" and "<DeviceLeftSlNo>"]
-#	When [Launch algo lab and check the ADL value "<DeviceId>" and "<DeviceLeftSlNo>"]
-#	When [Go to log file for verifying Restore time] 
-#	And  [Open Capture and Restore report and log info in report]
-#	Then [done]
-#
-#	Examples:
-#
-#	| DeviceId   | DeviceLeftSlNo | FlashHI | DeviceRight | DeviceLeft |
-#    #| LT961-DRW-UP | 2000800436   | Yes     | Right       | Left       |
-#	 | RE962-DRW |   2049043374   | Yes     | Right       | Left       |
+@tag1
+Scenario Outline: 01Test Case 1537268: Verify that battery ADL data is restored on original device
+
+	Given [Change channel side in FDTS<DeviceLeft>]
+	Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceLeftSlNo>" and "<FlashHI>" and "<DeviceLeft>"
+	When [Create a Patient and Fitting HI In FSW "<AlterFSWNo>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
+    When [Verify StorageLayout Scenario By Changing Date and Confirm Cloud Icon "<DeviceId>" and "<DeviceLeft>" and "<DeviceLeftSlNo>"]
+	When [Cleaning up Capture and Restore Reports Before Launch SandR]
+	When [Change communication channel in S and R<DeviceLeft>]
+	When [Launch SandR "<DeviceId>" and "<DeviceLeftSlNo>"]
+	When [Go to Device Info tab and capture device info in excel then verify the device information is shown correctly]
+	When [Come back to Settings and wait till controls enabled]
+	When [Perform Capture"<DeviceId>"]
+	When [Go to logs and verify capturing time]
+	When [Launch algo and alter ADL value "<DeviceId>" and "<DeviceLeftSlNo>"]
+	When [Perform Restore with above captured image "<DeviceId>" and "<DeviceLeftSlNo>"]
+	When [Launch algo lab and check the ADL value "<DeviceId>" and "<DeviceLeftSlNo>"]
+	When [Go to log file for verifying Restore time] 
+	And  [Open Capture and Restore report and log info in report]
+	Then [done]
+
+	Examples:
+
+	| DeviceId   | DeviceLeftSlNo | FlashHI | DeviceRight | DeviceLeft |
+   #| LT961-DRW-UP | 2000800436   | Yes     | Right       | Left       |
+	 | RE962-DRW |   2049043374   | Yes     | Right       | Left       |
 	#| RE962-DRWT | 2000803069     | Yes     | Right       | Left       |
 	#| RT962-DRW | 2000800267     | Yes     | Right       | Left       |
 	#| LT988-DW | 1600804970     | Yes     | Right       | Left       |
@@ -139,28 +139,28 @@ Scenario Outline: 06Test Case 1104002: Verify HI capture/restoration report
 ##	| RT961-DRWC | 2000816934     | Yes     | Right       | Left       |
 
 
-##@tag7
-##Scenario Outline: 07Test Case 1142328: PC_Verify HI can be PC programmed properly.
-##
-##	 When [Create a Patient and Fitting HI In FSW "<AlterFSWNo>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
-##	 Given [Change channel side in FDTS<DeviceLeft>]
-##	 Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceLeftSlNo>" and "<FlashHI>" and "<DeviceLeft>"
-##	 When [Create a Patient and Fitting HI In FSW "<AlterFSW>" and "<DeviceId>" and "<DeviceSlNo>" and "<DeviceRight>"]
-##	 Given [Change channel side in FDTS<DeviceRight>]
-##	 Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceSlNo>" and "<FlashHI>" and "<DeviceRight>"
-##
-##	Examples:
-##	| DeviceId     | DeviceLeftSlNo | FlashHI | DeviceRight | DeviceLeft | DeviceSlNo |
+@tag7
+Scenario Outline: 07Test Case 1142328: PC_Verify HI can be PC programmed properly.
+
+	 When [Create a Patient and Fitting HI In FSW "<AlterFSWNo>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
+	 Given [Change channel side in FDTS<DeviceLeft>]
+	 Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceLeftSlNo>" and "<FlashHI>" and "<DeviceLeft>"
+	 When [Create a Patient and Fitting HI In FSW "<AlterFSW>" and "<DeviceId>" and "<DeviceSlNo>" and "<DeviceRight>"]
+	 Given [Change channel side in FDTS<DeviceRight>]
+	 Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceSlNo>" and "<FlashHI>" and "<DeviceRight>"
+
+	Examples:
+	| DeviceId     | DeviceLeftSlNo | FlashHI | DeviceRight | DeviceLeft | DeviceSlNo |
 ##	| LT961-DRW-UP | 2000800436     | Yes     | Right       | Left       |            |
-##	| RE962-DRW    | 2049043374     | Yes     | Right       | Left       | 2026484509 |
+	| RE962-DRW    | 2049043374     | Yes     | Right       | Left       | 2026484509 |
 ##	| RE962-DRWT   | 2000803069     | Yes     | Right       | Left       | 2000803066 |
 ##	| RT962-DRW    | 2000800269     | Yes     | Right       | Left       | 2000800246 |
 ##	| LT988-DW     | 1600804970     | Yes     | Right       | Left       | 1600804918 |
 ##	| RT961-DRWC   | 2000816934     | Yes     | Right       | Left       | 2000816936 |
-##
-##
-##
-##
+
+
+
+
 ##@tag8
 ##Scenario Outline: 08Test Case 1103981: Verify device information is cleared when HI is disconnected
 ##
