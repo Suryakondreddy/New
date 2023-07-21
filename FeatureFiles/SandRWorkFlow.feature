@@ -270,12 +270,12 @@ Scenario Outline: 10Test Case 1105696: Verify that fitting data is properly rest
         
 		
 		#Given [Cleaning up dumps before execution starts]
-  #      Given [Change channel side in FDTS<DeviceLeft>]
-	 #	Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceLeftSlNo>" and "<FlashHI>" and "<DeviceLeft>"
+        #Given [Change channel side in FDTS<DeviceLeft>]
+	    #Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceLeftSlNo>" and "<FlashHI>" and "<DeviceLeft>"
 		#Given [Change channel side in FDTS<DeviceRight>]    
 		#Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceSlNo>" and "<FlashHI>" and "<DeviceRight>"
 		When [Create a Patient and Fitting HI In FSW "<AlterFSW>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
-		When [Get the dump of connected device by storage layout "<DeviceId>" and "<DeviceLeft>" and "<DeviceLeftSlNo>"] 
+	 	When [Get the dump of connected device by storage layout "<DeviceId>" and "<DeviceLeft>" and "<DeviceLeftSlNo>"] 
         When [Cleaning up Capture and Restore Reports Before Launch SandR]
         When [Change communication channel in S and R<DeviceLeft>]
 		When [Create a Patient and Fitting HI In FSW "<AlterFSW>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
