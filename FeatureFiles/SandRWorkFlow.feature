@@ -269,7 +269,7 @@ Scenario Outline: 10Test Case 1105696: Verify that fitting data is properly rest
 	Scenario Outline: 11Test Case 1105669: Verify that fitting data is properly restored during restoration on original device or Clone (SWAP)
         
 		
-		#Given [Cleaning up dumps before execution starts]
+		 Given [Cleaning up dumps before execution starts]
         #Given [Change channel side in FDTS<DeviceLeft>]
 	    #Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceLeftSlNo>" and "<FlashHI>" and "<DeviceLeft>"
 		#Given [Change channel side in FDTS<DeviceRight>]    
