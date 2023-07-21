@@ -186,7 +186,7 @@ Scenario Outline: 07Test Case 1142328: PC_Verify HI can be PC programmed properl
 @tag9
 Scenario Outline: 09Test Case 1105498: Verify that S&R Tool properly sets listening test settings
 		        
-				When [Create a Patient and add programs to HI In FSW "<AlterFSW>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
+				#When [Create a Patient and add programs to HI In FSW "<AlterFSW>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
 				Given [Change channel side in FDTS<DeviceLeft>]
     			Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceLeftSlNo>" and "<FlashHI>" and "<DeviceLeft>"
 				Given [Change channel side in FDTS<DeviceRight>]    
@@ -196,7 +196,7 @@ Scenario Outline: 09Test Case 1105498: Verify that S&R Tool properly sets listen
 				When [Go to Device Info tab and capture device info in excel then verify the device information is shown correctly]
 				When [Come back to Settings and wait till controls enabled]
 				When [Perform Capture with listening test settings]
-				#Then [Launch FSW and check the added programs "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
+			    Then [Launch FSW and check the added programs "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
 
 
 	Examples:
