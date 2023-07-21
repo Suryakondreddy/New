@@ -74,94 +74,6 @@ namespace AppiumWinApp.FeatureFiles
         }
         
         [NUnit.Framework.TestAttribute()]
-        [NUnit.Framework.DescriptionAttribute("01Test Case 1537268: Verify that battery ADL data is restored on original device")]
-        [NUnit.Framework.CategoryAttribute("tag1")]
-        [NUnit.Framework.TestCaseAttribute("RE962-DRW", "2049043374", "Yes", "Right", "Left", null)]
-        public void _01TestCase1537268VerifyThatBatteryADLDataIsRestoredOnOriginalDevice(string deviceId, string deviceLeftSlNo, string flashHI, string deviceRight, string deviceLeft, string[] exampleTags)
-        {
-            string[] @__tags = new string[] {
-                    "tag1"};
-            if ((exampleTags != null))
-            {
-                @__tags = System.Linq.Enumerable.ToArray(System.Linq.Enumerable.Concat(@__tags, exampleTags));
-            }
-            string[] tagsOfScenario = @__tags;
-            System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new System.Collections.Specialized.OrderedDictionary();
-            argumentsOfScenario.Add("DeviceId", deviceId);
-            argumentsOfScenario.Add("DeviceLeftSlNo", deviceLeftSlNo);
-            argumentsOfScenario.Add("FlashHI", flashHI);
-            argumentsOfScenario.Add("DeviceRight", deviceRight);
-            argumentsOfScenario.Add("DeviceLeft", deviceLeft);
-            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("01Test Case 1537268: Verify that battery ADL data is restored on original device", null, tagsOfScenario, argumentsOfScenario, featureTags);
-#line 6
-this.ScenarioInitialize(scenarioInfo);
-#line hidden
-            if ((TagHelper.ContainsIgnoreTag(tagsOfScenario) || TagHelper.ContainsIgnoreTag(featureTags)))
-            {
-                testRunner.SkipScenario();
-            }
-            else
-            {
-                this.ScenarioStart();
-#line 8
- testRunner.Given(string.Format("[Change channel side in FDTS{0}]", deviceLeft), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
-#line hidden
-#line 9
- testRunner.Given(string.Format("Launch FDTS WorkFlow And Flash Device \"{0}\" and \"{1}\" and \"{2}\" and \"{3}\"", deviceId, deviceLeftSlNo, flashHI, deviceLeft), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
-#line hidden
-#line 10
- testRunner.When(string.Format("[Create a Patient and Fitting HI In FSW \"<AlterFSWNo>\" and \"{0}\" and \"{1}\" and \"{" +
-                            "2}\"]", deviceId, deviceLeftSlNo, deviceLeft), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
-#line hidden
-#line 11
-    testRunner.When(string.Format("[Verify StorageLayout Scenario By Changing Date and Confirm Cloud Icon \"{0}\" and " +
-                            "\"{1}\" and \"{2}\"]", deviceId, deviceLeft, deviceLeftSlNo), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
-#line hidden
-#line 12
- testRunner.When("[Cleaning up Capture and Restore Reports Before Launch SandR]", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
-#line hidden
-#line 13
- testRunner.When(string.Format("[Change communication channel in S and R{0}]", deviceLeft), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
-#line hidden
-#line 14
- testRunner.When(string.Format("[Launch SandR \"{0}\" and \"{1}\"]", deviceId, deviceLeftSlNo), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
-#line hidden
-#line 15
- testRunner.When("[Go to Device Info tab and capture device info in excel then verify the device in" +
-                        "formation is shown correctly]", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
-#line hidden
-#line 16
- testRunner.When("[Come back to Settings and wait till controls enabled]", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
-#line hidden
-#line 17
- testRunner.When(string.Format("[Perform Capture\"{0}\"]", deviceId), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
-#line hidden
-#line 18
- testRunner.When("[Go to logs and verify capturing time]", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
-#line hidden
-#line 19
- testRunner.When(string.Format("[Launch algo and alter ADL value \"{0}\" and \"{1}\"]", deviceId, deviceLeftSlNo), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
-#line hidden
-#line 20
- testRunner.When(string.Format("[Perform Restore with above captured image \"{0}\" and \"{1}\"]", deviceId, deviceLeftSlNo), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
-#line hidden
-#line 21
- testRunner.When(string.Format("[Launch algo lab and check the ADL value \"{0}\" and \"{1}\"]", deviceId, deviceLeftSlNo), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
-#line hidden
-#line 22
- testRunner.When("[Go to log file for verifying Restore time]", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
-#line hidden
-#line 23
- testRunner.And("[Open Capture and Restore report and log info in report]", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
-#line hidden
-#line 24
- testRunner.Then("[done]", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
-#line hidden
-            }
-            this.ScenarioCleanup();
-        }
-        
-        [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("02Test Case 1103972: Verify device information is shown correctly")]
         [NUnit.Framework.CategoryAttribute("tag2")]
         [NUnit.Framework.TestCaseAttribute("RE962-DRW", "2049043374", "Yes", "Right", "Left", null)]
@@ -204,9 +116,6 @@ this.ScenarioInitialize(scenarioInfo);
 #line hidden
 #line 45
  testRunner.When("[Come back to Settings and wait till controls enabled]", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
-#line hidden
-#line 46
- testRunner.Then("[Close SandR tool]", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
             }
             this.ScenarioCleanup();
@@ -471,6 +380,232 @@ this.ScenarioInitialize(scenarioInfo);
 #line hidden
 #line 150
   testRunner.Given(string.Format("Launch FDTS WorkFlow And Flash Device \"{0}\" and \"{1}\" and \"{2}\" and \"{3}\"", deviceId, deviceSlNo, flashHI, deviceRight), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+#line hidden
+            }
+            this.ScenarioCleanup();
+        }
+        
+        [NUnit.Framework.TestAttribute()]
+        [NUnit.Framework.DescriptionAttribute("09Test Case 1105498: Verify that S&R Tool properly sets listening test settings")]
+        [NUnit.Framework.CategoryAttribute("tag9")]
+        [NUnit.Framework.TestCaseAttribute("RE962-DRW", "2049043374", "Yes", "Right", "Left", "2026484509", null)]
+        public void _09TestCase1105498VerifyThatSRToolProperlySetsListeningTestSettings(string deviceId, string deviceLeftSlNo, string flashHI, string deviceRight, string deviceLeft, string deviceSlNo, string[] exampleTags)
+        {
+            string[] @__tags = new string[] {
+                    "tag9"};
+            if ((exampleTags != null))
+            {
+                @__tags = System.Linq.Enumerable.ToArray(System.Linq.Enumerable.Concat(@__tags, exampleTags));
+            }
+            string[] tagsOfScenario = @__tags;
+            System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new System.Collections.Specialized.OrderedDictionary();
+            argumentsOfScenario.Add("DeviceId", deviceId);
+            argumentsOfScenario.Add("DeviceLeftSlNo", deviceLeftSlNo);
+            argumentsOfScenario.Add("FlashHI", flashHI);
+            argumentsOfScenario.Add("DeviceRight", deviceRight);
+            argumentsOfScenario.Add("DeviceLeft", deviceLeft);
+            argumentsOfScenario.Add("DeviceSlNo", deviceSlNo);
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("09Test Case 1105498: Verify that S&R Tool properly sets listening test settings", null, tagsOfScenario, argumentsOfScenario, featureTags);
+#line 186
+this.ScenarioInitialize(scenarioInfo);
+#line hidden
+            if ((TagHelper.ContainsIgnoreTag(tagsOfScenario) || TagHelper.ContainsIgnoreTag(featureTags)))
+            {
+                testRunner.SkipScenario();
+            }
+            else
+            {
+                this.ScenarioStart();
+#line 188
+    testRunner.When(string.Format("[Create a Patient and add programs to HI In FSW \"<AlterFSW>\" and \"{0}\" and \"{1}\" " +
+                            "and \"{2}\"]", deviceId, deviceLeftSlNo, deviceLeft), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+#line 189
+    testRunner.Given(string.Format("[Change channel side in FDTS{0}]", deviceLeft), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+#line hidden
+#line 190
+       testRunner.Given(string.Format("Launch FDTS WorkFlow And Flash Device \"{0}\" and \"{1}\" and \"{2}\" and \"{3}\"", deviceId, deviceLeftSlNo, flashHI, deviceLeft), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+#line hidden
+#line 191
+    testRunner.Given(string.Format("[Change channel side in FDTS{0}]", deviceRight), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+#line hidden
+#line 192
+    testRunner.Given(string.Format("Launch FDTS WorkFlow And Flash Device \"{0}\" and \"{1}\" and \"{2}\" and \"{3}\"", deviceId, deviceSlNo, flashHI, deviceRight), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+#line hidden
+#line 193
+    testRunner.When(string.Format("[Create a Patient and add programs to HI In FSW \"<AlterFSW>\" and \"{0}\" and \"{1}\" " +
+                            "and \"{2}\"]", deviceId, deviceLeftSlNo, deviceLeft), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+#line 194
+    testRunner.When(string.Format("[Launch SandR \"{0}\" and \"{1}\"]", deviceId, deviceLeftSlNo), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+#line 195
+    testRunner.When("[Go to Device Info tab and capture device info in excel then verify the device in" +
+                        "formation is shown correctly]", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+#line 196
+    testRunner.When("[Come back to Settings and wait till controls enabled]", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+#line 197
+    testRunner.When("[Perform Capture with listening test settings]", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+            }
+            this.ScenarioCleanup();
+        }
+        
+        [NUnit.Framework.TestAttribute()]
+        [NUnit.Framework.DescriptionAttribute("10Test Case 1105696: Verify that fitting data is properly restored during restora" +
+            "tion on new device (RTS)")]
+        [NUnit.Framework.CategoryAttribute("tag10")]
+        [NUnit.Framework.TestCaseAttribute("RE962-DRW", "Left", "Right", "Device A", "Device B", "Device C", "Temp", "Yes", "No", "2026484509", "NoDev", "2049043374", "Yes", null)]
+        public void _10TestCase1105696VerifyThatFittingDataIsProperlyRestoredDuringRestorationOnNewDeviceRTS(string deviceId, string deviceLeft, string deviceRight, string dumpA, string dumpB, string dumpC, string deviceTemp, string alterFSW, string alterFSWNo, string deviceSlNo, string noDevice, string deviceLeftSlNo, string flashHI, string[] exampleTags)
+        {
+            string[] @__tags = new string[] {
+                    "tag10"};
+            if ((exampleTags != null))
+            {
+                @__tags = System.Linq.Enumerable.ToArray(System.Linq.Enumerable.Concat(@__tags, exampleTags));
+            }
+            string[] tagsOfScenario = @__tags;
+            System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new System.Collections.Specialized.OrderedDictionary();
+            argumentsOfScenario.Add("DeviceId", deviceId);
+            argumentsOfScenario.Add("DeviceLeft", deviceLeft);
+            argumentsOfScenario.Add("DeviceRight", deviceRight);
+            argumentsOfScenario.Add("DumpA", dumpA);
+            argumentsOfScenario.Add("DumpB", dumpB);
+            argumentsOfScenario.Add("DumpC", dumpC);
+            argumentsOfScenario.Add("DeviceTemp", deviceTemp);
+            argumentsOfScenario.Add("AlterFSW", alterFSW);
+            argumentsOfScenario.Add("AlterFSWNo", alterFSWNo);
+            argumentsOfScenario.Add("DeviceSlNo", deviceSlNo);
+            argumentsOfScenario.Add("NoDevice", noDevice);
+            argumentsOfScenario.Add("DeviceLeftSlNo", deviceLeftSlNo);
+            argumentsOfScenario.Add("FlashHI", flashHI);
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("10Test Case 1105696: Verify that fitting data is properly restored during restora" +
+                    "tion on new device (RTS)", null, tagsOfScenario, argumentsOfScenario, featureTags);
+#line 215
+this.ScenarioInitialize(scenarioInfo);
+#line hidden
+            if ((TagHelper.ContainsIgnoreTag(tagsOfScenario) || TagHelper.ContainsIgnoreTag(featureTags)))
+            {
+                testRunner.SkipScenario();
+            }
+            else
+            {
+                this.ScenarioStart();
+#line 216
+ testRunner.Given("[Cleaning up dumps before execution starts]", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+#line hidden
+#line 217
+ testRunner.Given(string.Format("[Change channel side in FDTS{0}]", deviceLeft), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+#line hidden
+#line 218
+ testRunner.Given(string.Format("Launch FDTS WorkFlow And Flash Device \"{0}\" and \"{1}\" and \"{2}\" and \"{3}\"", deviceId, deviceLeftSlNo, flashHI, deviceLeft), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+#line hidden
+#line 219
+ testRunner.Given(string.Format("[Change channel side in FDTS{0}]", deviceRight), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+#line hidden
+#line 220
+ testRunner.Given(string.Format("Launch FDTS WorkFlow And Flash Device \"{0}\" and \"{1}\" and \"{2}\" and \"{3}\"", deviceId, deviceSlNo, flashHI, deviceRight), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+#line hidden
+#line 221
+ testRunner.When(string.Format("[Create a Patient and Fitting HI In FSW \"{0}\" and \"{1}\" and \"{2}\" and \"{3}\"]", alterFSWNo, deviceId, deviceLeftSlNo, deviceLeft), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+#line 222
+ testRunner.When("[Cleaning up Capture and Restore Reports Before Launch SandR]", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+#line 223
+ testRunner.When(string.Format("[Change communication channel in S and R{0}]", deviceLeft), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+#line 224
+ testRunner.When(string.Format("[Launch SandR \"{0}\" and \"{1}\"]", deviceId, deviceLeftSlNo), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+#line 225
+ testRunner.When("[Go to Device Info tab and capture device info in excel then verify the device in" +
+                        "formation is shown correctly]", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+#line 226
+ testRunner.When("[Come back to Settings and wait till controls enabled]", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+#line 227
+ testRunner.When(string.Format("[Perform Capture\"{0}\"]", deviceId), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+#line 228
+ testRunner.When("[Go to logs and verify capturing time]", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+#line 229
+ testRunner.When(string.Format("[Create a Patient and Fitting HI In FSW \"{0}\" and \"{1}\" and \"{2}\" and \"{3}\"]", alterFSWNo, deviceId, deviceLeftSlNo, deviceLeft), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+#line 230
+    testRunner.When(string.Format("[Get the dump of connected device by storage layout \"{0}\" and \"{1}\" and \"{2}\"]", deviceId, deviceLeft, deviceLeftSlNo), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+#line 231
+ testRunner.And("[Open Capture and Restore report and log info in report]", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+#line hidden
+#line 232
+ testRunner.Given(string.Format("[Change channel side in FDTS{0}]", deviceRight), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+#line hidden
+#line 233
+ testRunner.Given(string.Format("Launch FDTS WorkFlow And Flash Device \"{0}\" and \"{1}\" and \"{2}\" and \"{3}\"", deviceId, deviceSlNo, flashHI, deviceRight), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+#line hidden
+#line 234
+ testRunner.When(string.Format("[Create a Patient and Fitting HI In FSW \"{0}\" and \"{1}\" and \"{2}\" and \"{3}\"]", alterFSW, deviceId, deviceSlNo, deviceRight), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+#line 235
+  testRunner.When(string.Format("[Perform Restore with above captured image using RTS option \"{0}\" and \"{1}\" and \"" +
+                            "{2}\" and \"{3}\"]", deviceLeftSlNo, deviceSlNo, deviceId, deviceRight), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+#line 236
+ testRunner.When(string.Format("[Create a Patient and Fitting HI In FSW \"{0}\" and \"{1}\" and \"{2}\" and \"{3}\"]", alterFSW, deviceId, deviceSlNo, deviceRight), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+#line 237
+    testRunner.When(string.Format("[Get the dump of connected device by storage layout \"{0}\" and \"{1}\" and \"{2}\"]", deviceId, deviceRight, deviceSlNo), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+#line 238
+ testRunner.Then(string.Format("[Do the dump comparison between two device dumps{0}]", dumpB), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+#line hidden
+#line 239
+ testRunner.When(string.Format("[Change communication channel in S and R{0}]", deviceLeft), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+#line 240
+ testRunner.When(string.Format("[Create a Patient and Fitting HI In FSW \"{0}\" and \"{1}\" and \"{2}\" and \"{3}\"]", alterFSWNo, deviceId, deviceLeftSlNo, deviceLeft), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+#line 241
+ testRunner.When(string.Format("[Launch SandR \"{0}\" and \"{1}\"]", deviceId, deviceLeftSlNo), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+#line 242
+ testRunner.When("[Come back to Settings and wait till controls enabled]", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+#line 243
+ testRunner.When(string.Format("[Perform Capture\"{0}\"]", deviceId), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+#line 244
+ testRunner.When("[Go to logs and verify capturing time]", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+#line 245
+ testRunner.When(string.Format("[Create a Patient and Fitting HI In FSW \"{0}\" and \"{1}\" and \"{2}\" and \"{3}\"]", alterFSWNo, deviceId, deviceLeftSlNo, deviceLeft), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+#line 246
+ testRunner.When(string.Format("[Create a Patient and Fitting HI In FSW \"{0}\" and \"{1}\" and \"{2}\" and \"{3}\"]", alterFSW, deviceId, deviceSlNo, deviceRight), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+#line 247
+    testRunner.When(string.Format("[Get the dump of connected device by storage layout \"{0}\" and \"{1}\" and \"{2}\"]", deviceId, deviceTemp, deviceSlNo), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+#line 248
+ testRunner.Then(string.Format("[Do the dump comparison between two device dumps{0}]", dumpC), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+#line hidden
+#line 249
+ testRunner.When(string.Format("[Perform Restore with above captured image using RTS option \"{0}\" and \"{1}\" and \"" +
+                            "{2}\" and \"{3}\"]", deviceLeftSlNo, deviceSlNo, deviceId, deviceRight), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+#line 250
+ testRunner.When(string.Format("[Create a Patient and Fitting HI In FSW \"{0}\" and \"{1}\" and \"{2}\" and \"{3}\"]", alterFSW, deviceId, deviceSlNo, deviceRight), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+#line 251
+    testRunner.When(string.Format("[Get the dump of connected device by storage layout \"{0}\" and \"{1}\" and \"{2}\"]", deviceId, deviceTemp, deviceSlNo), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+#line 252
+ testRunner.Then(string.Format("[Do the dump comparison between two device dumps{0}]", dumpC), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
             }
             this.ScenarioCleanup();
