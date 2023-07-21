@@ -324,26 +324,26 @@ Scenario Outline: 10Test Case 1105696: Verify that fitting data is properly rest
 
 
 
-##@tag12
-##Scenario Outline: 12Test case 1629628: Verify that firmware is upgraded if conditions apply
-##
-##			Given [Change channel side in FDTS<DeviceLeft>]
-##			Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceLeftSlNo>" and "<FlashHI>" and "<DeviceLeft>"
-##			When [Create a Patient and Fitting HI In FSW "<AlterFSW>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
-##			When [Launch SandR "<DeviceId>" and "<DeviceLeftSlNo>"]
-##			When [Come back to Settings and wait till controls enabled]
-##			When [Perform Capture"<DeviceId>"]
-##			When [Perform Restore with above captured image using SWAP option "<DeviceSlNo>" and "<DeviceLeftSlNo>" and "<DeviceId>" and "<DeviceLeft>"]
-##			When [Launch SandR "<DeviceId>" and "<DeviceLeftSlNo>"]
-##			Then [Compare firmware version is upgraded successfully "<DeviceId>"]
-##
-##
-##
-##
-##			Examples:
-##    | DeviceId  | DeviceLeft | DeviceRight | DumpA    | DumpB    | DumpC    | DumpD    | DeviceTemp | AlterFSW | AlterFSWNo | DeviceSlNo | NoDevice | DeviceLeftSlNo | FlashHI |
-##
-##    | RE962-DRW | Left       | Right       | Device A | Device B | Device C | Device D | Temp       | Yes      | No         | 2026484509  | NoDev        | 2049043374     | Yes     |
+@tag12
+Scenario Outline: 12Test case 1629628: Verify that firmware is upgraded if conditions apply
+
+			Given [Change channel side in FDTS<DeviceLeft>]
+			Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceLeftSlNo>" and "<FlashHI>" and "<DeviceLeft>"
+			When [Create a Patient and Fitting HI In FSW "<AlterFSW>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
+			When [Launch SandR "<DeviceId>" and "<DeviceLeftSlNo>"]
+			When [Come back to Settings and wait till controls enabled]
+			When [Perform Capture"<DeviceId>"]
+			When [Perform Restore with above captured image using SWAP option "<DeviceSlNo>" and "<DeviceLeftSlNo>" and "<DeviceId>" and "<DeviceLeft>"]
+			When [Launch SandR "<DeviceId>" and "<DeviceLeftSlNo>"]
+			Then [Compare firmware version is upgraded successfully "<DeviceId>"]
+
+
+
+
+			Examples:
+   | DeviceId  | DeviceLeft | DeviceRight | DumpA    | DumpB    | DumpC    | DumpD    | DeviceTemp | AlterFSW | AlterFSWNo | DeviceSlNo | NoDevice | DeviceLeftSlNo | FlashHI |
+
+    | RE962-DRW | Left       | Right       | Device A | Device B | Device C | Device D | Temp       | Yes      | No         | 2026484509  | NoDev        | 2049043374     | Yes     |
 ##	| RE962-DRWT   | Left       | Right       | Device A| Device B | Device C | Device D | Temp       | Yes      | No         | 2000803066 | NoDev    | 2000803069     | Yes     |
 ##	| LT961-DRW-UP | Left       | Right       | Device A | Device B | Device C | Device D | Temp       | Yes      | No         | 1700800900 | NoDev    | 2000800436     | Yes     |
 ##	| LT988-DW | Left       | Right       | Device A | Device B | Device C | Device D | Temp       | Yes      | No         | 1600804918 | NoDev    | 1600804970     | Yes     |
