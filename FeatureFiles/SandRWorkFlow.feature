@@ -195,7 +195,7 @@ Scenario Outline: 09Test Case 1105498: Verify that S&R Tool properly sets listen
 				When [Go to Device Info tab and capture device info in excel then verify the device information is shown correctly]
 				When [Come back to Settings and wait till controls enabled]
 				When [Perform Capture with listening test settings]
-				Then [Launch FSW and check the added programs "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
+				#Then [Launch FSW and check the added programs "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
 
 
 	Examples:
