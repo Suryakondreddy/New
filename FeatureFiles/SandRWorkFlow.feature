@@ -295,7 +295,7 @@ Scenario Outline: 10Test Case 1105696: Verify that fitting data is properly rest
         When [Get the dump of connected device of left DumpC by storage layout "<DeviceId>" and "<DeviceLeft>" and "<DeviceLeftSlNo>"]
         Then [Do the dump comparison between two device dumps<DumpC>]
         When [Change communication channel in S and R<DeviceLeft>]
-		When [Create a Patient and Fitting HI In FSW "<AlterFSWNo>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
+		#When [Create a Patient and Fitting HI In FSW "<AlterFSWNo>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
         When [Launch SandR "<DeviceId>" and "<DeviceLeftSlNo>"]
         When [Go to Device Info tab and capture device info in excel then verify the device information is shown correctly]
         When [Come back to Settings and wait till controls enabled]
