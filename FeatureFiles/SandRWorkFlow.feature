@@ -254,7 +254,7 @@ Scenario Outline: 10Test Case 1105696: Verify that fitting data is properly rest
 
 	Examples:
 	| DeviceId     | DeviceLeft | DeviceRight | DumpA    | DumpB    | DumpC    | DeviceTemp | AlterFSW | AlterFSWNo | DeviceSlNo | NoDevice | DeviceLeftSlNo   | FlashHI | 
-#
+
 	 | RE962-DRW   | Left       | Right       | Device A | Device B | Device C | Temp       | Yes      | No         | 2026484509 | NoDev    | 2049043374       | Yes     |
 #	 | RE962-DRWT   | Left       | Right       | Device A | Device B | Device C | Temp       | Yes      | No         | 2000803066 | NoDev    | 2000803069       | Yes     |
 #	 | LT961-DRW-UP | Left       | Right       | Device A | Device B | Device C | Temp       | Yes      | No         | 1700800900 | NoDev    | 2000800436       | Yes     |
