@@ -56,7 +56,7 @@ Scenario Outline: 02Test Case 1103972: Verify device information is shown correc
 
 
 
-
+@tag3
 Scenario Outline: 03Test Case 1105474: Verify capture operation is performed within desired time
 
 	When [Create a Patient and Fitting HI In FSW "<AlterFSWNo>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]

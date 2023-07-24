@@ -214,10 +214,17 @@ this.ScenarioInitialize(scenarioInfo);
         
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("03Test Case 1105474: Verify capture operation is performed within desired time")]
+        [NUnit.Framework.CategoryAttribute("tag3")]
         [NUnit.Framework.TestCaseAttribute("LT988-DW", "1600804970", "Yes", "Right", "Left", null)]
         public void _03TestCase1105474VerifyCaptureOperationIsPerformedWithinDesiredTime(string deviceId, string deviceLeftSlNo, string flashHI, string deviceRight, string deviceLeft, string[] exampleTags)
         {
-            string[] tagsOfScenario = exampleTags;
+            string[] @__tags = new string[] {
+                    "tag3"};
+            if ((exampleTags != null))
+            {
+                @__tags = System.Linq.Enumerable.ToArray(System.Linq.Enumerable.Concat(@__tags, exampleTags));
+            }
+            string[] tagsOfScenario = @__tags;
             System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new System.Collections.Specialized.OrderedDictionary();
             argumentsOfScenario.Add("DeviceId", deviceId);
             argumentsOfScenario.Add("DeviceLeftSlNo", deviceLeftSlNo);
