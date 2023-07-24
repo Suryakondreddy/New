@@ -75,7 +75,7 @@ Scenario Outline: 03Test Case 1105474: Verify capture operation is performed wit
 ##	| RT961-DRWC | 2000816934     | Yes     | Right       | Left       | 
 
 
-
+@tag4
 Scenario Outline: 04Test Case 1103482: Verify supported PC configuration
 
 	When [Create a Patient and Fitting HI In FSW "<AlterFSWNo>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
@@ -91,7 +91,7 @@ Scenario Outline: 04Test Case 1103482: Verify supported PC configuration
 	#| RE962-DRW | 2049043374     | Yes     | Right       | Left       |
 ##	| RE962-DRWT | 2000803069     | Yes     | Right       | Left       |
 ##	 | RT962-DRW | 2000800269     | Yes     | Right       | Left       |
-     | LT988-DW | 1600804970     | Yes     | Right       | Left       |
+     | LT988-DW | 1600805306     | Yes     | Right       | Left       |
 ##	| RT961-DRWC | 2000816934     | Yes     | Right       | Left       | 
 
 
@@ -108,7 +108,7 @@ Scenario Outline: 05Test Case 1103833: Verify channel can be changed while S&R t
 	#| RE962-DRW | 2049043374     | Yes     | Right       | Left       |
 ##	| RE962-DRWT | 2000803069     | Yes     | Right       | Left       |
 ##	 | RT962-DRW | 2000800269     | Yes     | Right       | Left       |
-     | LT988-DW | 1600804970     | Yes     | Right       | Left       |
+     | LT988-DW | 1600805306     | Yes     | Right       | Left       |
 ##	| RT961-DRWC | 2000816934     | Yes     | Right       | Left       |
 
 
@@ -133,7 +133,7 @@ Scenario Outline: 06Test Case 1104002: Verify HI capture/restoration report
 	#| RE962-DRW | 2049043374     | Yes     | Right       | Left       |
 ##	 | RE962-DRWT | 2000803069     | Yes     | Right       | Left       |
 ##	 | RT962-DRW | 2000800269     | Yes     | Right       | Left       |
-     | LT988-DW | 1600804970     | Yes     | Right       | Left       |
+     | LT988-DW | 1600805306     | Yes     | Right       | Left       |
 ##	| RT961-DRWC | 2000816934     | Yes     | Right       | Left       |
 
 
@@ -152,7 +152,7 @@ Scenario Outline: 07Test Case 1142328: PC_Verify HI can be PC programmed properl
 ##| RE962-DRW    | 2049043374     | Yes     | Right       | Left       | 2026484509 |
 ##	| RE962-DRWT   | 2000803069     | Yes     | Right       | Left       | 2000803066 |
 ##	| RT962-DRW    | 2000800269     | Yes     | Right       | Left       | 2000800246 |
-    | LT988-DW     | 1600804970     | Yes     | Right       | Left       | 1600804918 |
+    | LT988-DW     | 1600805306     | Yes     | Right       | Left       | 1600804918 |
 ##	| RT961-DRWC   | 2000816934     | Yes     | Right       | Left       | 2000816936 |
 
 
@@ -202,7 +202,7 @@ Scenario Outline: 09Test Case 1105498: Verify that S&R Tool properly sets listen
 	 #| RE962-DRWT | 2000803069     | Yes     | Right       | Left       | 2000803066 |
 	 #| RE962-DRW |    2049043374  | Yes     | Right       | Left       | 2026484509 |
 	 #| RT962-DRW | 2000800269     | Yes     | Right       | Left       | 2000800246 |
-	  | LT988-DW | 1600804970     | Yes     | Right       | Left       | 1600804918 |
+	  | LT988-DW | 1600805306     | Yes     | Right       | Left       | 1600804918 |
 	 #| RT961-DRWC  | 2000816934     | Yes     | Right       | Left       | 2000816936 | 
 
 
@@ -255,7 +255,7 @@ Scenario Outline: 10Test Case 1105696: Verify that fitting data is properly rest
 	 #| RE962-DRW   | Left       | Right       | Device A | Device B | Device C | Temp       | Yes      | No         | 2026484509 | NoDev    | 2049043374       | Yes     |
 #	 | RE962-DRWT   | Left       | Right       | Device A | Device B | Device C | Temp       | Yes      | No         | 2000803066 | NoDev    | 2000803069       | Yes     |
 #	 | LT961-DRW-UP | Left       | Right       | Device A | Device B | Device C | Temp       | Yes      | No         | 1700800900 | NoDev    | 2000800436       | Yes     |
-	  | LT988-DW | Left       | Right       | Device A | Device B | Device C | Temp       | Yes      | No         | 1600804918 | NoDev    | 1600804970       | Yes     |
+	  | LT988-DW | Left       | Right       | Device A | Device B | Device C | Temp       | Yes      | No         | 1600804918 | NoDev    | 1600805306       | Yes     |
 #	 | RE961-DRWC | Left       | Right       | Device A | Device B | Device C | Temp       | Yes      | No         | 2156716945 | NoDev    | 2156716944       | Yes     |
 #	 | RT962-DRW | Left       | Right       | Device A | Device B | Device C | Temp       | Yes      | No         | 2000800246 | NoDev    | 2000800269       | Yes     |
 #	 | RT961-DRWC | Left       | Right       | Device A | Device B | Device C | Temp       | Yes      | No         | 2000816936 | NoDev    | 2000816934       | Yes     |
@@ -313,7 +313,7 @@ Scenario Outline: 10Test Case 1105696: Verify that fitting data is properly rest
 ##| RE962-DRW | Left       | Right       | Device A | Device B | Device C | Device D | Temp       | Yes      | No         | 2026484509  | NoDev        | 2049043374     | Yes     |
 ##	| RE962-DRWT   | Left       | Right       | Device A| Device B | Device C | Device D | Temp       | Yes      | No         | 2000803066 | NoDev    | 2000803069     | Yes     |
 ##	| LT961-DRW-UP | Left       | Right       | Device A | Device B | Device C | Device D | Temp       | Yes      | No         | 1700800900 | NoDev    | 2000800436     | Yes     |
-	| LT988-DW | Left       | Right       | Device A | Device B | Device C | Device D | Temp       | Yes      | No         | 1600804918 | NoDev    | 1600804970     | Yes     |
+	| LT988-DW | Left       | Right       | Device A | Device B | Device C | Device D | Temp       | Yes      | No         | 1600804918 | NoDev    | 1600805306     | Yes     |
 ##	| RE961-DRWC | Left       | Right       | Device A | Device B | Device C | Device D | Temp       | Yes      | No         | 2156716945 | NoDev    | 2156716944       | Yes     |
 ##	 | RT962-DRW | Left       | Right       | Device A | Device B | Device C | Device D | Temp       | Yes      | No         | 2000800269 | NoDev    | 2000800246       | Yes     |
 ##	| RT961-DRWC | Left       | Right       | Device A | Device B | Device C | Device D | Temp       | Yes      | No         | 2000816936 | NoDev    | 2000816934     | Yes     |
