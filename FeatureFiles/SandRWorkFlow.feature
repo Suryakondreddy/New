@@ -213,10 +213,10 @@ Scenario Outline: 09Test Case 1105498: Verify that S&R Tool properly sets listen
 @tag10
 Scenario Outline: 10Test Case 1105696: Verify that fitting data is properly restored during restoration on new device (RTS)
 	Given [Cleaning up dumps before execution starts]
-	#Given [Change channel side in FDTS<DeviceLeft>]
-	#Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceLeftSlNo>" and "<FlashHI>" and "<DeviceLeft>"
-	#Given [Change channel side in FDTS<DeviceRight>]
-	#Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceSlNo>" and "<FlashHI>" and "<DeviceRight>"
+	Given [Change channel side in FDTS<DeviceLeft>]
+	Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceLeftSlNo>" and "<FlashHI>" and "<DeviceLeft>"
+	Given [Change channel side in FDTS<DeviceRight>]
+	Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceSlNo>" and "<FlashHI>" and "<DeviceRight>"
 	When [Create a Patient and Fitting HI In FSW "<AlterFSWNo>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
 	When [Cleaning up Capture and Restore Reports Before Launch SandR]
 	When [Change communication channel in S and R<DeviceLeft>]
