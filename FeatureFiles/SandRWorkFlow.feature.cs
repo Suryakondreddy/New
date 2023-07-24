@@ -264,10 +264,17 @@ this.ScenarioInitialize(scenarioInfo);
         
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("04Test Case 1103482: Verify supported PC configuration")]
+        [NUnit.Framework.CategoryAttribute("tag4")]
         [NUnit.Framework.TestCaseAttribute("LT988-DW", "1600804970", "Yes", "Right", "Left", null)]
         public void _04TestCase1103482VerifySupportedPCConfiguration(string deviceId, string deviceLeftSlNo, string flashHI, string deviceRight, string deviceLeft, string[] exampleTags)
         {
-            string[] tagsOfScenario = exampleTags;
+            string[] @__tags = new string[] {
+                    "tag4"};
+            if ((exampleTags != null))
+            {
+                @__tags = System.Linq.Enumerable.ToArray(System.Linq.Enumerable.Concat(@__tags, exampleTags));
+            }
+            string[] tagsOfScenario = @__tags;
             System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new System.Collections.Specialized.OrderedDictionary();
             argumentsOfScenario.Add("DeviceId", deviceId);
             argumentsOfScenario.Add("DeviceLeftSlNo", deviceLeftSlNo);

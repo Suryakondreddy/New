@@ -75,7 +75,7 @@ Scenario Outline: 03Test Case 1105474: Verify capture operation is performed wit
 ##	| RT961-DRWC | 2000816934     | Yes     | Right       | Left       | 
 
 
-
+@tag4
 Scenario Outline: 04Test Case 1103482: Verify supported PC configuration
 
 	When [Create a Patient and Fitting HI In FSW "<AlterFSWNo>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
