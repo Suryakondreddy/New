@@ -96,7 +96,7 @@ Scenario Outline: 04Test Case 1103482: Verify supported PC configuration
 
 
 
-
+@tag5
 Scenario Outline: 05Test Case 1103833: Verify channel can be changed while S&R tool is running
 
 	When [Create a Patient and Fitting HI In FSW "<AlterFSWNo>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
