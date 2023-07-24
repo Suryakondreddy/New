@@ -113,7 +113,7 @@ Scenario Outline: 05Test Case 1103833: Verify channel can be changed while S&R t
 
 
 
-
+@tag6
 Scenario Outline: 06Test Case 1104002: Verify HI capture/restoration report
 
 	When [Create a Patient and Fitting HI In FSW "<AlterFSWNo>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
