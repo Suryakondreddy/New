@@ -137,6 +137,7 @@ Scenario Outline: 06Test Case 1104002: Verify HI capture/restoration report
 ##	| RT961-DRWC | 2000816934     | Yes     | Right       | Left       |
 
 
+@tag7
 Scenario Outline: 07Test Case 1142328: PC_Verify HI can be PC programmed properly.
 
 	 When [Create a Patient and Fitting HI In FSW "<AlterFSWNo>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
