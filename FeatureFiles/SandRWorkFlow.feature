@@ -2,41 +2,41 @@
 
 A short summary of the feature
 
-#@tag1
-#Scenario Outline: 01Test Case 1537268: Verify that battery ADL data is restored on original device
-#
-#	Given [Change channel side in FDTS<DeviceLeft>]
-#	Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceLeftSlNo>" and "<FlashHI>" and "<DeviceLeft>"
-#	When [Create a Patient and Fitting HI In FSW "<AlterFSWNo>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
-#    When [Verify StorageLayout Scenario By Changing Date and Confirm Cloud Icon "<DeviceId>" and "<DeviceLeft>" and "<DeviceLeftSlNo>"]
-#	When [Cleaning up Capture and Restore Reports Before Launch SandR]
-#	When [Change communication channel in S and R<DeviceLeft>]
-#	When [Launch SandR "<DeviceId>" and "<DeviceLeftSlNo>"]
-#	When [Go to Device Info tab and capture device info in excel then verify the device information is shown correctly]
-#	When [Come back to Settings and wait till controls enabled]
-#	When [Perform Capture"<DeviceId>"]
-#	When [Go to logs and verify capturing time]
-#	When [Launch algo and alter ADL value "<DeviceId>" and "<DeviceLeftSlNo>"]
-#	When [Perform Restore with above captured image "<DeviceId>" and "<DeviceLeftSlNo>"]
-#	When [Launch algo lab and check the ADL value "<DeviceId>" and "<DeviceLeftSlNo>"]
-#	When [Go to log file for verifying Restore time] 
-#	And  [Open Capture and Restore report and log info in report]
-#	Then [done]
-#
-#	Examples:
-#
-#	| DeviceId   | DeviceLeftSlNo | FlashHI | DeviceRight | DeviceLeft |
-#   #| LT961-DRW-UP | 2000800436   | Yes     | Right       | Left       |
-#	 | RE962-DRW |   2049043374   | Yes     | Right       | Left       |
+@tag1
+Scenario Outline: 01Test Case 1537268: Verify that battery ADL data is restored on original device
+
+	Given [Change channel side in FDTS<DeviceLeft>]
+	Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceLeftSlNo>" and "<FlashHI>" and "<DeviceLeft>"
+	When [Create a Patient and Fitting HI In FSW "<AlterFSWNo>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
+    When [Verify StorageLayout Scenario By Changing Date and Confirm Cloud Icon "<DeviceId>" and "<DeviceLeft>" and "<DeviceLeftSlNo>"]
+	When [Cleaning up Capture and Restore Reports Before Launch SandR]
+	When [Change communication channel in S and R<DeviceLeft>]
+	When [Launch SandR "<DeviceId>" and "<DeviceLeftSlNo>"]
+	When [Go to Device Info tab and capture device info in excel then verify the device information is shown correctly]
+	When [Come back to Settings and wait till controls enabled]
+	When [Perform Capture"<DeviceId>"]
+	When [Go to logs and verify capturing time]
+	When [Launch algo and alter ADL value "<DeviceId>" and "<DeviceLeftSlNo>"]
+	When [Perform Restore with above captured image "<DeviceId>" and "<DeviceLeftSlNo>"]
+	When [Launch algo lab and check the ADL value "<DeviceId>" and "<DeviceLeftSlNo>"]
+	When [Go to log file for verifying Restore time] 
+	And  [Open Capture and Restore report and log info in report]
+	Then [done]
+
+	Examples:
+
+	| DeviceId   | DeviceLeftSlNo | FlashHI | DeviceRight | DeviceLeft |
+    #| LT961-DRW-UP | 2000800436   | Yes     | Right       | Left       |
+    #| RE962-DRW |   2049043374   | Yes     | Right       | Left       |
 	#| RE962-DRWT | 2000803069     | Yes     | Right       | Left       |
-	#| RT962-DRW | 2000800267     | Yes     | Right       | Left       |
-	#| LT988-DW | 1600804970     | Yes     | Right       | Left       |
+ 	#| RT962-DRW | 2000800267     | Yes     | Right       | Left       |
+	 | LT988-DW | 1600804970     | Yes     | Right       | Left       |
 	#| RT961-DRWC | 2000816934     | Yes     | Right       | Left       | 
 
 	
 
 
-@tag2
+
 Scenario Outline: 02Test Case 1103972: Verify device information is shown correctly
 
 	When [Create a Patient and Fitting HI In FSW "<AlterFSWNo>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
@@ -48,17 +48,17 @@ Scenario Outline: 02Test Case 1103972: Verify device information is shown correc
 
 
 	Examples:
-	| DeviceId   | DeviceLeftSlNo | FlashHI | DeviceRight | DeviceLeft | 
+	| DeviceId | DeviceLeftSlNo | FlashHI | DeviceRight | DeviceLeft |
     #| LT961-DRW-UP | 2000800436   | Yes     | Right       | Left       |
-	| RE962-DRW | 2049043374     | Yes     | Right       | Left       |
+	#| RE962-DRW | 2049043374     | Yes     | Right       | Left       |
 	#| RE962-DRWT | 2000803069     | Yes     | Right       | Left       |
-	 #| RT962-DRW | 2000800269     | Yes     | Right       | Left       |
-	#| LT988-DW | 1600804970     | Yes     | Right       | Left       |
+	#| RT962-DRW | 2000800269     | Yes     | Right       | Left       |
+	 | LT988-DW | 1600804970     | Yes     | Right       | Left       |
 	#| RT961-DRWC | 2000816934     | Yes     | Right       | Left       | 
 
 
 
-@tag3
+
 Scenario Outline: 03Test Case 1105474: Verify capture operation is performed within desired time
 
 	When [Create a Patient and Fitting HI In FSW "<AlterFSWNo>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
@@ -69,14 +69,15 @@ Scenario Outline: 03Test Case 1105474: Verify capture operation is performed wit
 
 	Examples:
 	| DeviceId  | DeviceLeftSlNo | FlashHI | DeviceRight | DeviceLeft |
-##     | LT961-DRW-UP | 2000800436   | Yes     | Right       | Left       |
-	 | RE962-DRW | 2049043374     | Yes     | Right       | Left       |
-##	 | RE962-DRWT | 2000803069     | Yes     | Right       | Left       |
-##	 | RT962-DRW | 2000800269     | Yes     | Right       | Left       |
-##	 | LT988-DW | 1600804970     | Yes     | Right       | Left       |
-##	 | RT961-DRWC | 2000816934     | Yes     | Right       | Left       | 
+##  | LT961-DRW-UP | 2000800436   | Yes     | Right       | Left       |
+##| RE962-DRW | 2049043374     | Yes     | Right       | Left       |
+##	| RE962-DRWT | 2000803069     | Yes     | Right       | Left       |
+##	| RT962-DRW | 2000800269     | Yes     | Right       | Left       |
+    | LT988-DW | 1600804970     | Yes     | Right       | Left       |
+##	| RT961-DRWC | 2000816934     | Yes     | Right       | Left       | 
 
-@tag4
+
+
 Scenario Outline: 04Test Case 1103482: Verify supported PC configuration
 
 	When [Create a Patient and Fitting HI In FSW "<AlterFSWNo>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
@@ -89,15 +90,15 @@ Scenario Outline: 04Test Case 1103482: Verify supported PC configuration
 
 	| DeviceId   | DeviceLeftSlNo | FlashHI | DeviceRight | DeviceLeft | 
 ##    | LT961-DRW-UP | 2000800436   | Yes     | Right       | Left       |
-	| RE962-DRW | 2049043374     | Yes     | Right       | Left       |
+	#| RE962-DRW | 2049043374     | Yes     | Right       | Left       |
 ##	| RE962-DRWT | 2000803069     | Yes     | Right       | Left       |
 ##	 | RT962-DRW | 2000800269     | Yes     | Right       | Left       |
-##	| LT988-DW | 1600804970     | Yes     | Right       | Left       |
+     | LT988-DW | 1600804970     | Yes     | Right       | Left       |
 ##	| RT961-DRWC | 2000816934     | Yes     | Right       | Left       | 
 
 
 
-@tag5
+
 Scenario Outline: 05Test Case 1103833: Verify channel can be changed while S&R tool is running
 
 	When [Create a Patient and Fitting HI In FSW "<AlterFSWNo>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
@@ -106,16 +107,15 @@ Scenario Outline: 05Test Case 1103833: Verify channel can be changed while S&R t
 	Examples:
 	| DeviceId   | DeviceLeftSlNo | FlashHI | DeviceRight | DeviceLeft | 
 ##    | LT961-DRW-UP | 2000800436   | Yes     | Right       | Left       |
-	| RE962-DRW | 2049043374     | Yes     | Right       | Left       |
+	#| RE962-DRW | 2049043374     | Yes     | Right       | Left       |
 ##	| RE962-DRWT | 2000803069     | Yes     | Right       | Left       |
 ##	 | RT962-DRW | 2000800269     | Yes     | Right       | Left       |
-##	| LT988-DW | 1600804970     | Yes     | Right       | Left       |
+     | LT988-DW | 1600804970     | Yes     | Right       | Left       |
 ##	| RT961-DRWC | 2000816934     | Yes     | Right       | Left       |
 
 
 
 
-@tag6
 Scenario Outline: 06Test Case 1104002: Verify HI capture/restoration report
 
 	When [Create a Patient and Fitting HI In FSW "<AlterFSWNo>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
@@ -131,15 +131,14 @@ Scenario Outline: 06Test Case 1104002: Verify HI capture/restoration report
 
 	Examples:
 	| DeviceId   | DeviceLeftSlNo | FlashHI | DeviceRight | DeviceLeft | 
-##    | LT961-DRW-UP | 2000800436   | Yes     | Right       | Left       |
-	| RE962-DRW | 2049043374     | Yes     | Right       | Left       |
-##	| RE962-DRWT | 2000803069     | Yes     | Right       | Left       |
+##   | LT961-DRW-UP | 2000800436   | Yes     | Right       | Left       |
+	#| RE962-DRW | 2049043374     | Yes     | Right       | Left       |
+##	 | RE962-DRWT | 2000803069     | Yes     | Right       | Left       |
 ##	 | RT962-DRW | 2000800269     | Yes     | Right       | Left       |
-##	| LT988-DW | 1600804970     | Yes     | Right       | Left       |
+     | LT988-DW | 1600804970     | Yes     | Right       | Left       |
 ##	| RT961-DRWC | 2000816934     | Yes     | Right       | Left       |
 
 
-@tag7
 Scenario Outline: 07Test Case 1142328: PC_Verify HI can be PC programmed properly.
 
 	 When [Create a Patient and Fitting HI In FSW "<AlterFSWNo>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
@@ -152,10 +151,10 @@ Scenario Outline: 07Test Case 1142328: PC_Verify HI can be PC programmed properl
 	Examples:
 	| DeviceId     | DeviceLeftSlNo | FlashHI | DeviceRight | DeviceLeft | DeviceSlNo |
 ##	| LT961-DRW-UP | 2000800436     | Yes     | Right       | Left       |            |
-	| RE962-DRW    | 2049043374     | Yes     | Right       | Left       | 2026484509 |
+##| RE962-DRW    | 2049043374     | Yes     | Right       | Left       | 2026484509 |
 ##	| RE962-DRWT   | 2000803069     | Yes     | Right       | Left       | 2000803066 |
 ##	| RT962-DRW    | 2000800269     | Yes     | Right       | Left       | 2000800246 |
-##	| LT988-DW     | 1600804970     | Yes     | Right       | Left       | 1600804918 |
+    | LT988-DW     | 1600804970     | Yes     | Right       | Left       | 1600804918 |
 ##	| RT961-DRWC   | 2000816934     | Yes     | Right       | Left       | 2000816936 |
 
 
@@ -186,7 +185,7 @@ Scenario Outline: 07Test Case 1142328: PC_Verify HI can be PC programmed properl
 @tag9
 Scenario Outline: 09Test Case 1105498: Verify that S&R Tool properly sets listening test settings
 		        
-				#When [Create a Patient and add programs to HI In FSW "<AlterFSW>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
+				When [Create a Patient and add programs to HI In FSW "<AlterFSW>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
 				Given [Change channel side in FDTS<DeviceLeft>]
     			Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceLeftSlNo>" and "<FlashHI>" and "<DeviceLeft>"
 				Given [Change channel side in FDTS<DeviceRight>]    
@@ -203,9 +202,9 @@ Scenario Outline: 09Test Case 1105498: Verify that S&R Tool properly sets listen
 	| DeviceId   | DeviceLeftSlNo | FlashHI | DeviceRight | DeviceLeft | DeviceSlNo | 
      #| LT961-DRW-UP | 2000800436   | Yes     | Right       | Left       |1700800900|
 	 #| RE962-DRWT | 2000803069     | Yes     | Right       | Left       | 2000803066 |
-	 | RE962-DRW |    2049043374  | Yes     | Right       | Left       | 2026484509 |
+	 #| RE962-DRW |    2049043374  | Yes     | Right       | Left       | 2026484509 |
 	 #| RT962-DRW | 2000800269     | Yes     | Right       | Left       | 2000800246 |
-	 #| LT988-DW | 1600804970     | Yes     | Right       | Left       | 1600804918 |
+	  | LT988-DW | 1600804970     | Yes     | Right       | Left       | 1600804918 |
 	 #| RT961-DRWC  | 2000816934     | Yes     | Right       | Left       | 2000816936 | 
 
 
@@ -255,10 +254,10 @@ Scenario Outline: 10Test Case 1105696: Verify that fitting data is properly rest
 	Examples:
 	| DeviceId     | DeviceLeft | DeviceRight | DumpA    | DumpB    | DumpC    | DeviceTemp | AlterFSW | AlterFSWNo | DeviceSlNo | NoDevice | DeviceLeftSlNo   | FlashHI | 
 
-	 | RE962-DRW   | Left       | Right       | Device A | Device B | Device C | Temp       | Yes      | No         | 2026484509 | NoDev    | 2049043374       | Yes     |
+	 #| RE962-DRW   | Left       | Right       | Device A | Device B | Device C | Temp       | Yes      | No         | 2026484509 | NoDev    | 2049043374       | Yes     |
 #	 | RE962-DRWT   | Left       | Right       | Device A | Device B | Device C | Temp       | Yes      | No         | 2000803066 | NoDev    | 2000803069       | Yes     |
 #	 | LT961-DRW-UP | Left       | Right       | Device A | Device B | Device C | Temp       | Yes      | No         | 1700800900 | NoDev    | 2000800436       | Yes     |
-#	  | LT988-DW | Left       | Right       | Device A | Device B | Device C | Temp       | Yes      | No         | 1600804918 | NoDev    | 1600804970       | Yes     |
+	  | LT988-DW | Left       | Right       | Device A | Device B | Device C | Temp       | Yes      | No         | 1600804918 | NoDev    | 1600804970       | Yes     |
 #	 | RE961-DRWC | Left       | Right       | Device A | Device B | Device C | Temp       | Yes      | No         | 2156716945 | NoDev    | 2156716944       | Yes     |
 #	 | RT962-DRW | Left       | Right       | Device A | Device B | Device C | Temp       | Yes      | No         | 2000800246 | NoDev    | 2000800269       | Yes     |
 #	 | RT961-DRWC | Left       | Right       | Device A | Device B | Device C | Temp       | Yes      | No         | 2000816936 | NoDev    | 2000816934       | Yes     |
@@ -313,10 +312,10 @@ Scenario Outline: 10Test Case 1105696: Verify that fitting data is properly rest
      Examples:
     | DeviceId  | DeviceLeft | DeviceRight | DumpA    | DumpB    | DumpC    | DumpD    | DeviceTemp | AlterFSW | AlterFSWNo | DeviceSlNo | NoDevice | DeviceLeftSlNo | FlashHI |
 
-    | RE962-DRW | Left       | Right       | Device A | Device B | Device C | Device D | Temp       | Yes      | No         | 2026484509  | NoDev        | 2049043374     | Yes     |
+##| RE962-DRW | Left       | Right       | Device A | Device B | Device C | Device D | Temp       | Yes      | No         | 2026484509  | NoDev        | 2049043374     | Yes     |
 ##	| RE962-DRWT   | Left       | Right       | Device A| Device B | Device C | Device D | Temp       | Yes      | No         | 2000803066 | NoDev    | 2000803069     | Yes     |
 ##	| LT961-DRW-UP | Left       | Right       | Device A | Device B | Device C | Device D | Temp       | Yes      | No         | 1700800900 | NoDev    | 2000800436     | Yes     |
-##	| LT988-DW | Left       | Right       | Device A | Device B | Device C | Device D | Temp       | Yes      | No         | 1600804918 | NoDev    | 1600804970     | Yes     |
+	| LT988-DW | Left       | Right       | Device A | Device B | Device C | Device D | Temp       | Yes      | No         | 1600804918 | NoDev    | 1600804970     | Yes     |
 ##	| RE961-DRWC | Left       | Right       | Device A | Device B | Device C | Device D | Temp       | Yes      | No         | 2156716945 | NoDev    | 2156716944       | Yes     |
 ##	 | RT962-DRW | Left       | Right       | Device A | Device B | Device C | Device D | Temp       | Yes      | No         | 2000800269 | NoDev    | 2000800246       | Yes     |
 ##	| RT961-DRWC | Left       | Right       | Device A | Device B | Device C | Device D | Temp       | Yes      | No         | 2000816936 | NoDev    | 2000816934     | Yes     |
