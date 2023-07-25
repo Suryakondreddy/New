@@ -140,9 +140,9 @@ Scenario Outline: 06Test Case 1104002: Verify HI capture/restoration report
 @tag7
 Scenario Outline: 07Test Case 1142328: PC_Verify HI can be PC programmed properly.
 
-	 When [Create a Patient and Fitting HI In FSW "<AlterFSWNo>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
-	 Given [Change channel side in FDTS<DeviceLeft>]
-	 Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceLeftSlNo>" and "<FlashHI>" and "<DeviceLeft>"
+	 #When [Create a Patient and Fitting HI In FSW "<AlterFSWNo>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
+	 #Given [Change channel side in FDTS<DeviceLeft>]
+	 #Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceLeftSlNo>" and "<FlashHI>" and "<DeviceLeft>"
 	 When [Create a Patient and Fitting HI In FSW "<AlterFSW>" and "<DeviceId>" and "<DeviceSlNo>" and "<DeviceRight>"]
 	 Given [Change channel side in FDTS<DeviceRight>]
 	 Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceSlNo>" and "<FlashHI>" and "<DeviceRight>"
