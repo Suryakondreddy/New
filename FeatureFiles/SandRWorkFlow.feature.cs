@@ -76,7 +76,7 @@ namespace AppiumWinApp.FeatureFiles
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("01Test Case 1537268: Verify that battery ADL data is restored on original device")]
         [NUnit.Framework.CategoryAttribute("tag1")]
-        [NUnit.Framework.TestCaseAttribute("LT988-DW", "1600804970", "Yes", "Right", "Left", null)]
+        [NUnit.Framework.TestCaseAttribute("RT961-DRWC", "2000816934", "Yes", "Right", "Left", null)]
         public void _01TestCase1537268VerifyThatBatteryADLDataIsRestoredOnOriginalDevice(string deviceId, string deviceLeftSlNo, string flashHI, string deviceRight, string deviceLeft, string[] exampleTags)
         {
             string[] @__tags = new string[] {
@@ -164,7 +164,7 @@ this.ScenarioInitialize(scenarioInfo);
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("02Test Case 1103972: Verify device information is shown correctly")]
         [NUnit.Framework.CategoryAttribute("tag2")]
-        [NUnit.Framework.TestCaseAttribute("LT988-DW", "1600804970", "Yes", "Right", "Left", null)]
+        [NUnit.Framework.TestCaseAttribute("RT961-DRWC", "2000816934", "Yes", "Right", "Left", null)]
         public void _02TestCase1103972VerifyDeviceInformationIsShownCorrectly(string deviceId, string deviceLeftSlNo, string flashHI, string deviceRight, string deviceLeft, string[] exampleTags)
         {
             string[] @__tags = new string[] {
@@ -215,7 +215,7 @@ this.ScenarioInitialize(scenarioInfo);
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("03Test Case 1105474: Verify capture operation is performed within desired time")]
         [NUnit.Framework.CategoryAttribute("tag3")]
-        [NUnit.Framework.TestCaseAttribute("LT988-DW", "1600804970", "Yes", "Right", "Left", null)]
+        [NUnit.Framework.TestCaseAttribute("RT961-DRWC", "2000816934", "Yes", "Right", "Left", null)]
         public void _03TestCase1105474VerifyCaptureOperationIsPerformedWithinDesiredTime(string deviceId, string deviceLeftSlNo, string flashHI, string deviceRight, string deviceLeft, string[] exampleTags)
         {
             string[] @__tags = new string[] {
@@ -265,7 +265,7 @@ this.ScenarioInitialize(scenarioInfo);
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("04Test Case 1103482: Verify supported PC configuration")]
         [NUnit.Framework.CategoryAttribute("tag4")]
-        [NUnit.Framework.TestCaseAttribute("LT988-DW", "1600805306", "Yes", "Right", "Left", null)]
+        [NUnit.Framework.TestCaseAttribute("RT961-DRWC", "2000816934", "Yes", "Right", "Left", null)]
         public void _04TestCase1103482VerifySupportedPCConfiguration(string deviceId, string deviceLeftSlNo, string flashHI, string deviceRight, string deviceLeft, string[] exampleTags)
         {
             string[] @__tags = new string[] {
@@ -315,7 +315,7 @@ this.ScenarioInitialize(scenarioInfo);
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("05Test Case 1103833: Verify channel can be changed while S&R tool is running")]
         [NUnit.Framework.CategoryAttribute("tag5")]
-        [NUnit.Framework.TestCaseAttribute("LT988-DW", "1600805306", "Yes", "Right", "Left", null)]
+        [NUnit.Framework.TestCaseAttribute("RT961-DRWC", "2000816934", "Yes", "Right", "Left", null)]
         public void _05TestCase1103833VerifyChannelCanBeChangedWhileSRToolIsRunning(string deviceId, string deviceLeftSlNo, string flashHI, string deviceRight, string deviceLeft, string[] exampleTags)
         {
             string[] @__tags = new string[] {
@@ -356,7 +356,7 @@ this.ScenarioInitialize(scenarioInfo);
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("06Test Case 1104002: Verify HI capture/restoration report")]
         [NUnit.Framework.CategoryAttribute("tag6")]
-        [NUnit.Framework.TestCaseAttribute("LT988-DW", "1600805306", "Yes", "Right", "Left", null)]
+        [NUnit.Framework.TestCaseAttribute("RT961-DRWC", "2000816934", "Yes", "Right", "Left", null)]
         public void _06TestCase1104002VerifyHICaptureRestorationReport(string deviceId, string deviceLeftSlNo, string flashHI, string deviceRight, string deviceLeft, string[] exampleTags)
         {
             string[] @__tags = new string[] {
@@ -424,7 +424,7 @@ this.ScenarioInitialize(scenarioInfo);
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("07Test Case 1142328: PC_Verify HI can be PC programmed properly.")]
         [NUnit.Framework.CategoryAttribute("tag7")]
-        [NUnit.Framework.TestCaseAttribute("LT988-DW", "1600805306", "Yes", "Right", "Left", "1600804918", null)]
+        [NUnit.Framework.TestCaseAttribute("RT961-DRWC", "2000816934", "Yes", "Right", "Left", "2000816936", null)]
         public void _07TestCase1142328PC_VerifyHICanBePCProgrammedProperly_(string deviceId, string deviceLeftSlNo, string flashHI, string deviceRight, string deviceLeft, string deviceSlNo, string[] exampleTags)
         {
             string[] @__tags = new string[] {
@@ -479,7 +479,7 @@ this.ScenarioInitialize(scenarioInfo);
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("09Test Case 1105498: Verify that S&R Tool properly sets listening test settings")]
         [NUnit.Framework.CategoryAttribute("tag9")]
-        [NUnit.Framework.TestCaseAttribute("LT988-DW", "1600805306", "Yes", "Right", "Left", "1600804918", null)]
+        [NUnit.Framework.TestCaseAttribute("RT961-DRWC", "2000816934", "Yes", "Right", "Left", "2000816936", null)]
         public void _09TestCase1105498VerifyThatSRToolProperlySetsListeningTestSettings(string deviceId, string deviceLeftSlNo, string flashHI, string deviceRight, string deviceLeft, string deviceSlNo, string[] exampleTags)
         {
             string[] @__tags = new string[] {
@@ -551,7 +551,7 @@ this.ScenarioInitialize(scenarioInfo);
         [NUnit.Framework.DescriptionAttribute("10Test Case 1105696: Verify that fitting data is properly restored during restora" +
             "tion on new device (RTS)")]
         [NUnit.Framework.CategoryAttribute("tag10")]
-        [NUnit.Framework.TestCaseAttribute("LT988-DW", "Left", "Right", "Device A", "Device B", "Device C", "Temp", "Yes", "No", "1600804918", "NoDev", "1600805306", "Yes", null)]
+        [NUnit.Framework.TestCaseAttribute("RT961-DRWC", "Left", "Right", "Device A", "Device B", "Device C", "Temp", "Yes", "No", "2000816936", "NoDev", "2000816934", "Yes", null)]
         public void _10TestCase1105696VerifyThatFittingDataIsProperlyRestoredDuringRestorationOnNewDeviceRTS(string deviceId, string deviceLeft, string deviceRight, string dumpA, string dumpB, string dumpC, string deviceTemp, string alterFSW, string alterFSWNo, string deviceSlNo, string noDevice, string deviceLeftSlNo, string flashHI, string[] exampleTags)
         {
             string[] @__tags = new string[] {
@@ -672,7 +672,7 @@ this.ScenarioInitialize(scenarioInfo);
         [NUnit.Framework.DescriptionAttribute("11Test Case 1105669: Verify that fitting data is properly restored during restora" +
             "tion on original device or Clone (SWAP)")]
         [NUnit.Framework.CategoryAttribute("tag11")]
-        [NUnit.Framework.TestCaseAttribute("LT988-DW", "Left", "Right", "Device A", "Device B", "Device C", "Device D", "Temp", "Yes", "No", "1600804918", "NoDev", "1600805306", "Yes", null)]
+        [NUnit.Framework.TestCaseAttribute("RT961-DRWC", "Left", "Right", "Device A", "Device B", "Device C", "Device D", "Temp", "Yes", "No", "2000816936", "NoDev", "2000816934", "Yes", null)]
         public void _11TestCase1105669VerifyThatFittingDataIsProperlyRestoredDuringRestorationOnOriginalDeviceOrCloneSWAP(string deviceId, string deviceLeft, string deviceRight, string dumpA, string dumpB, string dumpC, string dumpD, string deviceTemp, string alterFSW, string alterFSWNo, string deviceSlNo, string noDevice, string deviceLeftSlNo, string flashHI, string[] exampleTags)
         {
             string[] @__tags = new string[] {
@@ -813,7 +813,7 @@ this.ScenarioInitialize(scenarioInfo);
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("12Test case 1629628: Verify that firmware is upgraded if conditions apply")]
         [NUnit.Framework.CategoryAttribute("tag12")]
-        [NUnit.Framework.TestCaseAttribute("RE962-DRW", "Left", "Right", "Device A", "Device B", "Device C", "Device D", "Temp", "Yes", "No", "2026484509", "NoDev", "2049043374", "Yes", null)]
+        [NUnit.Framework.TestCaseAttribute("RT961-DRWC", "Left", "Right", "Device A", "Device B", "Device C", "Device D", "Temp", "Yes", "No", "2000816934", "NoDev", "2000816936", "Yes", null)]
         public void _12TestCase1629628VerifyThatFirmwareIsUpgradedIfConditionsApply(string deviceId, string deviceLeft, string deviceRight, string dumpA, string dumpB, string dumpC, string dumpD, string deviceTemp, string alterFSW, string alterFSWNo, string deviceSlNo, string noDevice, string deviceLeftSlNo, string flashHI, string[] exampleTags)
         {
             string[] @__tags = new string[] {
@@ -884,7 +884,7 @@ this.ScenarioInitialize(scenarioInfo);
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("13Test Case 1629629: Verify that firmware is downgraded if conditions apply")]
         [NUnit.Framework.CategoryAttribute("tag13")]
-        [NUnit.Framework.TestCaseAttribute("RE962-DRW", "Left", "Right", "Device A", "Device B", "Device C", "Device D", "Temp", "Yes", "No", "2026484509", "NoDev", "2049043374", "Yes", null)]
+        [NUnit.Framework.TestCaseAttribute("RT961-DRWC", "Left", "Right", "Device A", "Device B", "Device C", "Device D", "Temp", "Yes", "No", "2000816934", "NoDev", "2000816936", "Yes", null)]
         public void _13TestCase1629629VerifyThatFirmwareIsDowngradedIfConditionsApply(string deviceId, string deviceLeft, string deviceRight, string dumpA, string dumpB, string dumpC, string dumpD, string deviceTemp, string alterFSW, string alterFSWNo, string deviceSlNo, string noDevice, string deviceLeftSlNo, string flashHI, string[] exampleTags)
         {
             string[] @__tags = new string[] {
