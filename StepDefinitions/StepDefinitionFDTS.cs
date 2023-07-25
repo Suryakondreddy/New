@@ -549,7 +549,24 @@ namespace AppiumWinApp.StepDefinitions
                 {
                     if (session.FindElementByName("Unassign").Enabled)
                     {
+                        lib.clickOnAutomationName(session, "Assign Instruments");
+                        Thread.Sleep(5000);
 
+                        var SN = session.FindElementsByClassName("ListBoxItem");
+
+                        Thread.Sleep(10000);
+
+                        foreach (WindowsElement value in SN)
+                        {
+                            string S = value.Text;
+
+                            if (S.Contains(DeviceNo))
+                            {
+                                value.Text.Contains("Assign Left");
+                                value.Click();
+
+                            }
+                        }
                     }
                 }
                 catch (Exception e)
@@ -704,10 +721,10 @@ namespace AppiumWinApp.StepDefinitions
                             waitForMe = new WebDriverWait(session, TimeSpan.FromSeconds(40));
                             waitForMe.Until(ExpectedConditions.ElementToBeClickable(By.ClassName("Button")));
 
-
                         }
                         catch
                         {
+
                         }
 
                     }
