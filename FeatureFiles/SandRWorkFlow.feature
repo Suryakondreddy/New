@@ -197,14 +197,14 @@ Scenario Outline: 09Test Case 1105498: Verify that S&R Tool properly sets listen
 			    Then [Launch FSW and check the added programs "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
 
 
-	Examples:
-	| DeviceId   | DeviceLeftSlNo | FlashHI | DeviceRight | DeviceLeft | DeviceSlNo | 
-     #| LT961-DRW-UP | 2000800436   | Yes     | Right       | Left       |1700800900|
-	 #| RE962-DRWT | 2000803069     | Yes     | Right       | Left       | 2000803066 |
-	 #| RE962-DRW |    2049043374  | Yes     | Right       | Left       | 2026484509 |
-	 #| RT962-DRW | 2000800269     | Yes     | Right       | Left       | 2000800246 |
-	  #| LT988-DW | 1600805306     | Yes     | Right       | Left       | 1600804918 |
-	 | RT961-DRWC  | 2000816934     | Yes     | Right       | Left       | 2000816936 | 
+				Examples:
+				| DeviceId   | DeviceLeftSlNo | FlashHI | DeviceRight | DeviceLeft | DeviceSlNo | 
+				 #| LT961-DRW-UP | 2000800436   | Yes     | Right       | Left       |1700800900|
+				 #| RE962-DRWT | 2000803069     | Yes     | Right       | Left       | 2000803066 |
+				 #| RE962-DRW |    2049043374  | Yes     | Right       | Left       | 2026484509 |
+				 #| RT962-DRW | 2000800269     | Yes     | Right       | Left       | 2000800246 |
+				  #| LT988-DW | 1600805306     | Yes     | Right       | Left       | 1600804918 |
+				 | RT961-DRWC  | 2000816934     | Yes     | Right       | Left       | 2000816936 | 
 
 
 
