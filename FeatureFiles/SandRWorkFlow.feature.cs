@@ -541,7 +541,7 @@ this.ScenarioInitialize(scenarioInfo);
         [NUnit.Framework.DescriptionAttribute("10Test Case 1105696: Verify that fitting data is properly restored during restora" +
             "tion on new device (RTS)")]
         [NUnit.Framework.CategoryAttribute("tag10")]
-        [NUnit.Framework.TestCaseAttribute("RT961-DRWC", "Left", "Right", "Device A", "Device B", "Device C", "Temp", "Yes", "No", "2000816512", "NoDev", "2000816529", "Yes", null)]
+        [NUnit.Framework.TestCaseAttribute("RT961-DRWC", "Left", "Right", "Device A", "Device B", "Device C", "Temp", "Yes", "No", "2000816934", "NoDev", "2000816936", "Yes", null)]
         public void _10TestCase1105696VerifyThatFittingDataIsProperlyRestoredDuringRestorationOnNewDeviceRTS(string deviceId, string deviceLeft, string deviceRight, string dumpA, string dumpB, string dumpC, string deviceTemp, string alterFSW, string alterFSWNo, string deviceSlNo, string noDevice, string deviceLeftSlNo, string flashHI, string[] exampleTags)
         {
             string[] @__tags = new string[] {
