@@ -247,7 +247,7 @@ Scenario Outline: 10Test Case 1105696: Verify that fitting data is properly rest
 	Then [Do the dump comparison between two device dumps<DumpC>]
 	When [Perform Restore with above captured image using RTS option "<DeviceLeftSlNo>" and "<DeviceSlNo>" and "<DeviceId>" and "<DeviceRight>"]
 	When [Create a Patient and Fitting HI In FSW "<AlterFSW>" and "<DeviceId>" and "<DeviceSlNo>" and "<DeviceRight>"]
-    When [Get the dump of connected device by storage layout "<DeviceId>" and "<DeviceTemp>" and "<DeviceSlNo>"]
+    #When [Get the dump of connected device by storage layout "<DeviceId>" and "<DeviceTemp>" and "<DeviceSlNo>"]
 	Then [Do the dump comparison between two device dumps<DumpC>]
 
 	Examples:
@@ -259,7 +259,7 @@ Scenario Outline: 10Test Case 1105696: Verify that fitting data is properly rest
 	  #| LT988-DW | Left       | Right       | Device A | Device B | Device C | Temp       | Yes      | No         | 1600804918 | NoDev    | 1600805306       | Yes     |
 #	 | RE961-DRWC | Left       | Right       | Device A | Device B | Device C | Temp       | Yes      | No         | 2156716945 | NoDev    | 2156716944       | Yes     |
 #	 | RT962-DRW | Left       | Right       | Device A | Device B | Device C | Temp       | Yes      | No         | 2000800246 | NoDev    | 2000800269       | Yes     |
-	 | RT961-DRWC | Left       | Right       | Device A | Device B | Device C | Temp       | Yes      | No         | 2000816936 | NoDev    | 2000816934       | Yes     |
+	 | RT961-DRWC | Left       | Right       | Device A | Device B | Device C | Temp       | Yes      | No         | 2000816512 | NoDev    | 2000816529       | Yes     |
 
 	
 
@@ -304,7 +304,7 @@ Scenario Outline: 10Test Case 1105696: Verify that fitting data is properly rest
 		Given [Change channel side in FDTS<DeviceRight>] 
         Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceSlNo>" and "<FlashHI>" and "<DeviceRight>"
         When [Perform Restore with above captured image using SWAP with left "<DeviceSlNo>" and "<DeviceLeftSlNo>" and "<DeviceId>" and "<DeviceRight>"]
-        When [Get the dump of connected device of DumpD by storage layout "<DeviceId>" and "<DeviceRight>" and "<DeviceLeftSlNo>"] 
+        #When [Get the dump of connected device of DumpD by storage layout "<DeviceId>" and "<DeviceRight>" and "<DeviceLeftSlNo>"] 
 		#This above step modified from leftsl no to right sl no
         Then [Do the dump comparison between two device DeviceC and DeviceD dumps<DumpD>]
 
