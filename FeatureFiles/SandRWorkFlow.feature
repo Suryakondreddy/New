@@ -225,7 +225,7 @@ Scenario Outline: 10Test Case 1105696: Verify that fitting data is properly rest
 	#When [Come back to Settings and wait till controls enabled]
 	#When [Perform Capture"<DeviceId>"]
 	#When [Go to logs and verify capturing time]
-	When [Create a Patient and Fitting HI In FSW "<AlterFSWNo>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
+	#When [Create a Patient and Fitting HI In FSW "<AlterFSWNo>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
     When [Get the dump of connected device by storage layout "<DeviceId>" and "<DeviceLeft>" and "<DeviceLeftSlNo>"] 
 	And  [Open Capture and Restore report and log info in report]
 	Given [Change channel side in FDTS<DeviceRight>]
