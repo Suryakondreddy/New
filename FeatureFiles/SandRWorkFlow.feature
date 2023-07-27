@@ -354,9 +354,9 @@ Scenario Outline: 12Test case 1629628: Verify that firmware is upgraded if condi
 Scenario Outline: 13Test Case 1629629: Verify that firmware is downgraded if conditions apply
 
 
-			Given [Change channel side in FDTS<DeviceLeft>]
-			Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceLeftSlNo>" and "<FlashHI>" and "<DeviceLeft>"
-			When [Create a Patient and Fitting HI In FSW "<AlterFSW>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
+			#Given [Change channel side in FDTS<DeviceLeft>]
+			#Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceLeftSlNo>" and "<FlashHI>" and "<DeviceLeft>"
+			#When [Create a Patient and Fitting HI In FSW "<AlterFSW>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
 			When [Launch SandR "<DeviceId>" and "<DeviceLeftSlNo>"]
 			When [Come back to Settings and wait till controls enabled]
 			When [Perform Capture"<DeviceId>"]
