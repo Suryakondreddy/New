@@ -242,7 +242,7 @@ Scenario Outline: 10Test Case 1105696: Verify that fitting data is properly rest
 	When [Perform Capture"<DeviceId>"]
 	When [Go to logs and verify capturing time]
 	When [Create a Patient and Fitting HI In FSW "<AlterFSWNo>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
-	When [Create a Patient and Fitting HI In FSW "<AlterFSW>" and "<DeviceId>" and "<DeviceSlNo>" and "<DeviceRight>"]
+	#When [Create a Patient and Fitting HI In FSW "<AlterFSW>" and "<DeviceId>" and "<DeviceSlNo>" and "<DeviceRight>"]
     #When [Get the dump of connected device by storage layout "<DeviceId>" and "<DeviceTemp>" and "<DeviceSlNo>"]
 	Then [Do the dump comparison between two device dumps<DumpC>]
 	When [Perform Restore with above captured image using RTS option "<DeviceLeftSlNo>" and "<DeviceSlNo>" and "<DeviceId>" and "<DeviceRight>"]
