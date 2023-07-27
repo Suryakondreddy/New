@@ -5,8 +5,8 @@ A short summary of the feature
 @tag1
 Scenario Outline: 01Test Case 1537268: Verify that battery ADL data is restored on original device
 
-	Given [Change channel side in FDTS<DeviceLeft>]
-	Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceLeftSlNo>" and "<FlashHI>" and "<DeviceLeft>"
+	#Given [Change channel side in FDTS<DeviceLeft>]
+	#Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceLeftSlNo>" and "<FlashHI>" and "<DeviceLeft>"
 	When [Create a Patient and Fitting HI In FSW "<AlterFSWNo>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
     When [Verify StorageLayout Scenario By Changing Date and Confirm Cloud Icon "<DeviceId>" and "<DeviceLeft>" and "<DeviceLeftSlNo>"]
 	When [Cleaning up Capture and Restore Reports Before Launch SandR]
