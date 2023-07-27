@@ -31,7 +31,9 @@ Scenario Outline: 01Test Case 1537268: Verify that battery ADL data is restored 
 	#| RE962-DRWT | 2000803069     | Yes     | Right       | Left       |
  	#| RT962-DRW | 2000800267     | Yes     | Right       | Left       |
 	#| LT988-DW | 1600804970     | Yes     | Right       | Left       |
-	| RT961-DRWC | 2000816934     | Yes     | Right       | Left       | 
+	#| RT961-DRWC | 2000816934     | Yes     | Right       | Left       | 
+	| RU962-DRW | 2100819128     | Yes     | Right       | Left       | 
+
 
 
 @tag2
@@ -52,7 +54,8 @@ Scenario Outline: 02Test Case 1103972: Verify device information is shown correc
 	#| RE962-DRWT | 2000803069     | Yes     | Right       | Left       |
 	#| RT962-DRW | 2000800269     | Yes     | Right       | Left       |
 	#| LT988-DW | 1600804970     | Yes     | Right       | Left       |
-	| RT961-DRWC | 2000816934     | Yes     | Right       | Left       | 
+	#| RT961-DRWC | 2000816934     | Yes     | Right       | Left       | 
+	| RU962-DRW | 2100819128     | Yes     | Right       | Left       | 
 
 
 
@@ -72,7 +75,8 @@ Scenario Outline: 03Test Case 1105474: Verify capture operation is performed wit
 ##	| RE962-DRWT | 2000803069     | Yes     | Right       | Left       |
 ##	| RT962-DRW | 2000800269     | Yes     | Right       | Left       |
     #| LT988-DW | 1600804970     | Yes     | Right       | Left       |
-   | RT961-DRWC | 2000816934     | Yes     | Right       | Left       | 
+   #| RT961-DRWC | 2000816934     | Yes     | Right       | Left       | 
+   | RU962-DRW | 2100819128     | Yes     | Right       | Left       | 
 
 
 @tag4
@@ -92,7 +96,8 @@ Scenario Outline: 04Test Case 1103482: Verify supported PC configuration
 ##	| RE962-DRWT | 2000803069     | Yes     | Right       | Left       |
 ##	 | RT962-DRW | 2000800269     | Yes     | Right       | Left       |
     #| LT988-DW | 1600805306     | Yes     | Right       | Left       |
-    | RT961-DRWC | 2000816934     | Yes     | Right       | Left       | 
+    #| RT961-DRWC | 2000816934     | Yes     | Right       | Left       | 
+	| RU962-DRW | 2100819128     | Yes     | Right       | Left       | 
 
 
 
@@ -109,7 +114,8 @@ Scenario Outline: 05Test Case 1103833: Verify channel can be changed while S&R t
 ##	| RE962-DRWT | 2000803069     | Yes     | Right       | Left       |
 ##	 | RT962-DRW | 2000800269     | Yes     | Right       | Left       |
      #| LT988-DW | 1600805306     | Yes     | Right       | Left       |
-	| RT961-DRWC | 2000816934     | Yes     | Right       | Left       |
+	#| RT961-DRWC | 2000816934     | Yes     | Right       | Left       |
+	| RU962-DRW | 2100819128     | Yes     | Right       | Left       | 
 
 
 
@@ -134,7 +140,8 @@ Scenario Outline: 06Test Case 1104002: Verify HI capture/restoration report
 ##	 | RE962-DRWT | 2000803069     | Yes     | Right       | Left       |
 ##	 | RT962-DRW | 2000800269     | Yes     | Right       | Left       |
     ## | LT988-DW | 1600805306     | Yes     | Right       | Left       |
-	| RT961-DRWC | 2000816934     | Yes     | Right       | Left       |
+	#| RT961-DRWC | 2000816934     | Yes     | Right       | Left       |
+	| RU962-DRW | 2100819128     | Yes     | Right       | Left       |
 
 
 @tag7
