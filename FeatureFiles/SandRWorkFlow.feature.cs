@@ -574,21 +574,6 @@ this.ScenarioInitialize(scenarioInfo);
 #line 222
  testRunner.Given("[Cleaning up dumps before execution starts]", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
 #line hidden
-#line 223
- testRunner.Given(string.Format("[Change channel side in FDTS{0}]", deviceLeft), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
-#line hidden
-#line 224
- testRunner.Given(string.Format("Launch FDTS WorkFlow And Flash Device \"{0}\" and \"{1}\" and \"{2}\" and \"{3}\"", deviceId, deviceLeftSlNo, flashHI, deviceLeft), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
-#line hidden
-#line 225
- testRunner.Given(string.Format("[Change channel side in FDTS{0}]", deviceRight), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
-#line hidden
-#line 226
- testRunner.Given(string.Format("Launch FDTS WorkFlow And Flash Device \"{0}\" and \"{1}\" and \"{2}\" and \"{3}\"", deviceId, deviceSlNo, flashHI, deviceRight), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
-#line hidden
-#line 227
- testRunner.When(string.Format("[Create a Patient and Fitting HI In FSW \"{0}\" and \"{1}\" and \"{2}\" and \"{3}\"]", alterFSWNo, deviceId, deviceLeftSlNo, deviceLeft), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
-#line hidden
 #line 228
  testRunner.When("[Cleaning up Capture and Restore Reports Before Launch SandR]", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
 #line hidden
