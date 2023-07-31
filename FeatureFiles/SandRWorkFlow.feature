@@ -275,13 +275,13 @@ Scenario Outline: 10Test Case 1105696: Verify that fitting data is properly rest
         
 		
 		 Given [Cleaning up dumps before execution starts]
-        #Given [Change channel side in FDTS<DeviceLeft>]
-	    #Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceLeftSlNo>" and "<FlashHI>" and "<DeviceLeft>"
-		#Given [Change channel side in FDTS<DeviceRight>]    
-		#Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceSlNo>" and "<FlashHI>" and "<DeviceRight>"
-		#When [Create a Patient and Fitting HI In FSW "<AlterFSW>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
-	 	#When [Get the dump of connected device by storage layout "<DeviceId>" and "<DeviceLeft>" and "<DeviceLeftSlNo>"] 
-        #When [Cleaning up Capture and Restore Reports Before Launch SandR]
+        Given [Change channel side in FDTS<DeviceLeft>]
+	    Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceLeftSlNo>" and "<FlashHI>" and "<DeviceLeft>"
+		Given [Change channel side in FDTS<DeviceRight>]    
+		Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceSlNo>" and "<FlashHI>" and "<DeviceRight>"
+		When [Create a Patient and Fitting HI In FSW "<AlterFSW>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
+	 	When [Get the dump of connected device by storage layout "<DeviceId>" and "<DeviceLeft>" and "<DeviceLeftSlNo>"] 
+        When [Cleaning up Capture and Restore Reports Before Launch SandR]
         When [Change communication channel in S and R<DeviceLeft>]
 		#When [Create a Patient and Fitting HI In FSW "<AlterFSW>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
 		When [Launch SandR "<DeviceId>" and "<DeviceLeftSlNo>"]
@@ -311,7 +311,7 @@ Scenario Outline: 10Test Case 1105696: Verify that fitting data is properly rest
 		Given [Change channel side in FDTS<DeviceRight>] 
         Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceSlNo>" and "<FlashHI>" and "<DeviceRight>"
         When [Perform Restore with above captured image using SWAP with left "<DeviceSlNo>" and "<DeviceLeftSlNo>" and "<DeviceId>" and "<DeviceRight>"]
-        #When [Get the dump of connected device of DumpD by storage layout "<DeviceId>" and "<DeviceRight>" and "<DeviceLeftSlNo>"] 
+        When [Get the dump of connected device of DumpD by storage layout "<DeviceId>" and "<DeviceRight>" and "<DeviceLeftSlNo>"] 
 		#This above step modified from leftsl no to right sl no
         Then [Do the dump comparison between two device DeviceC and DeviceD dumps<DumpD>]
 
