@@ -76,7 +76,7 @@ namespace AppiumWinApp.FeatureFiles
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("01Test Case 1537268: Verify that battery ADL data is restored on original device")]
         [NUnit.Framework.CategoryAttribute("tag1")]
-        [NUnit.Framework.TestCaseAttribute("RT962-DRW", "2000800246", "Yes", "Right", "Left", null)]
+        [NUnit.Framework.TestCaseAttribute("RE962-DRW", "2049043374", "Yes", "Right", "Left", null)]
         public void _01TestCase1537268VerifyThatBatteryADLDataIsRestoredOnOriginalDevice(string deviceId, string deviceLeftSlNo, string flashHI, string deviceRight, string deviceLeft, string[] exampleTags)
         {
             string[] @__tags = new string[] {
@@ -103,6 +103,12 @@ this.ScenarioInitialize(scenarioInfo);
             else
             {
                 this.ScenarioStart();
+#line 8
+ testRunner.Given(string.Format("[Change channel side in FDTS{0}]", deviceLeft), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+#line hidden
+#line 9
+ testRunner.Given(string.Format("Launch FDTS WorkFlow And Flash Device \"{0}\" and \"{1}\" and \"{2}\" and \"{3}\"", deviceId, deviceLeftSlNo, flashHI, deviceLeft), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+#line hidden
 #line 10
  testRunner.When(string.Format("[Create a Patient and Fitting HI In FSW \"<AlterFSWNo>\" and \"{0}\" and \"{1}\" and \"{" +
                             "2}\"]", deviceId, deviceLeftSlNo, deviceLeft), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
@@ -158,7 +164,7 @@ this.ScenarioInitialize(scenarioInfo);
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("02Test Case 1103972: Verify device information is shown correctly")]
         [NUnit.Framework.CategoryAttribute("tag2")]
-        [NUnit.Framework.TestCaseAttribute("RT962-DRW", "2000800246", "Yes", "Right", "Left", null)]
+        [NUnit.Framework.TestCaseAttribute("RE962-DRW", "2049043374", "Yes", "Right", "Left", null)]
         public void _02TestCase1103972VerifyDeviceInformationIsShownCorrectly(string deviceId, string deviceLeftSlNo, string flashHI, string deviceRight, string deviceLeft, string[] exampleTags)
         {
             string[] @__tags = new string[] {
@@ -209,7 +215,7 @@ this.ScenarioInitialize(scenarioInfo);
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("03Test Case 1105474: Verify capture operation is performed within desired time")]
         [NUnit.Framework.CategoryAttribute("tag3")]
-        [NUnit.Framework.TestCaseAttribute("RT962-DRW", "2000800246", "Yes", "Right", "Left", null)]
+        [NUnit.Framework.TestCaseAttribute("RE962-DRW", "2049043374", "Yes", "Right", "Left", null)]
         public void _03TestCase1105474VerifyCaptureOperationIsPerformedWithinDesiredTime(string deviceId, string deviceLeftSlNo, string flashHI, string deviceRight, string deviceLeft, string[] exampleTags)
         {
             string[] @__tags = new string[] {
@@ -259,7 +265,7 @@ this.ScenarioInitialize(scenarioInfo);
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("04Test Case 1103482: Verify supported PC configuration")]
         [NUnit.Framework.CategoryAttribute("tag4")]
-        [NUnit.Framework.TestCaseAttribute("RT962-DRW", "2000800246", "Yes", "Right", "Left", null)]
+        [NUnit.Framework.TestCaseAttribute("RE962-DRW", "2049043374", "Yes", "Right", "Left", null)]
         public void _04TestCase1103482VerifySupportedPCConfiguration(string deviceId, string deviceLeftSlNo, string flashHI, string deviceRight, string deviceLeft, string[] exampleTags)
         {
             string[] @__tags = new string[] {
@@ -309,7 +315,7 @@ this.ScenarioInitialize(scenarioInfo);
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("05Test Case 1103833: Verify channel can be changed while S&R tool is running")]
         [NUnit.Framework.CategoryAttribute("tag5")]
-        [NUnit.Framework.TestCaseAttribute("RT962-DRW", "2000800246", "Yes", "Right", "Left", null)]
+        [NUnit.Framework.TestCaseAttribute("RE962-DRW", "2049043374", "Yes", "Right", "Left", null)]
         public void _05TestCase1103833VerifyChannelCanBeChangedWhileSRToolIsRunning(string deviceId, string deviceLeftSlNo, string flashHI, string deviceRight, string deviceLeft, string[] exampleTags)
         {
             string[] @__tags = new string[] {
@@ -350,7 +356,7 @@ this.ScenarioInitialize(scenarioInfo);
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("06Test Case 1104002: Verify HI capture/restoration report")]
         [NUnit.Framework.CategoryAttribute("tag6")]
-        [NUnit.Framework.TestCaseAttribute("RT962-DRW", "2000800246", "Yes", "Right", "Left", null)]
+        [NUnit.Framework.TestCaseAttribute("RE962-DRW", "1886538351", "Yes", "Right", "Left", null)]
         public void _06TestCase1104002VerifyHICaptureRestorationReport(string deviceId, string deviceLeftSlNo, string flashHI, string deviceRight, string deviceLeft, string[] exampleTags)
         {
             string[] @__tags = new string[] {
@@ -418,7 +424,7 @@ this.ScenarioInitialize(scenarioInfo);
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("07Test Case 1142328: PC_Verify HI can be PC programmed properly.")]
         [NUnit.Framework.CategoryAttribute("tag7")]
-        [NUnit.Framework.TestCaseAttribute("RT962-DRW", "2000800246", "Yes", "Right", "Left", "2000800269", null)]
+        [NUnit.Framework.TestCaseAttribute("RE962-DRW", "1886538351", "Yes", "Right", "Left", "2000803779", null)]
         public void _07TestCase1142328PC_VerifyHICanBePCProgrammedProperly_(string deviceId, string deviceLeftSlNo, string flashHI, string deviceRight, string deviceLeft, string deviceSlNo, string[] exampleTags)
         {
             string[] @__tags = new string[] {
@@ -446,6 +452,16 @@ this.ScenarioInitialize(scenarioInfo);
             else
             {
                 this.ScenarioStart();
+#line 150
+  testRunner.When(string.Format("[Create a Patient and Fitting HI In FSW \"<AlterFSWNo>\" and \"{0}\" and \"{1}\" and \"{" +
+                            "2}\"]", deviceId, deviceLeftSlNo, deviceLeft), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+#line 151
+  testRunner.Given(string.Format("[Change channel side in FDTS{0}]", deviceLeft), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+#line hidden
+#line 152
+  testRunner.Given(string.Format("Launch FDTS WorkFlow And Flash Device \"{0}\" and \"{1}\" and \"{2}\" and \"{3}\"", deviceId, deviceLeftSlNo, flashHI, deviceLeft), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+#line hidden
 #line 153
   testRunner.When(string.Format("[Create a Patient and Fitting HI In FSW \"<AlterFSW>\" and \"{0}\" and \"{1}\" and \"{2}" +
                             "\"]", deviceId, deviceSlNo, deviceRight), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
