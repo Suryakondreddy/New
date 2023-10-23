@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FlowDocument xml:space="preserve" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+  <Paragraph><Run FontWeight="bold">Pre-Condition: </Run>
+  <LineBreak />Create a new client launch FSW and click on connect button.         
+  <LineBreak />(Monaural / Binaural )</Paragraph></FlowDocument>

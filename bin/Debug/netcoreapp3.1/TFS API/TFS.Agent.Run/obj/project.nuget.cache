@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "KJBAZTLhRowk0OFV3X5zoAJcPtUsub0EsS2AYsyKrQlMe+AaCdeTorwLmMbAYSuETjkRhTjmYGPT87sk/3+Aew==",
+  "success": true,
+  "projectFilePath": "C:\\TFS API\\TFS API\\TFS.Agent.Run\\TFS.Agent.Run.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxsurkon\\.nuget\\packages\\ben.demystifier\\0.1.2\\ben.demystifier.0.1.2.nupkg.sha512",
+    "C:\\Users\\xxsurkon\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.3\\microsoft.aspnet.webapi.client.5.2.3.nupkg.sha512",
+    "C:\\Users\\xxsurkon\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.3\\microsoft.aspnet.webapi.core.5.2.3.nupkg.sha512",
+    "C:\\Users\\xxsurkon\\.nuget\\packages\\microsoft.identitymodel.clients.activedirectory\\3.19.4\\microsoft.identitymodel.clients.activedirectory.3.19.4.nupkg.sha512",
+    "C:\\Users\\xxsurkon\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\5.2.4\\microsoft.identitymodel.jsonwebtokens.5.2.4.nupkg.sha512",
+    "C:\\Users\\xxsurkon\\.nuget\\packages\\microsoft.identitymodel.logging\\5.2.4\\microsoft.identitymodel.logging.5.2.4.nupkg.sha512",
+    "C:\\Users\\xxsurkon\\.nuget\\packages\\microsoft.identitymodel.tokens\\5.2.4\\microsoft.identitymodel.tokens.5.2.4.nupkg.sha512",
+    "C:\\Users\\xxsurkon\\.nuget\\packages\\microsoft.teamfoundation.distributedtask.common.contracts\\16.153.0\\microsoft.teamfoundation.distributedtask.common.contracts.16.153.0.nupkg.sha512",
+    "C:\\Users\\xxsurkon\\.nuget\\packages\\microsoft.teamfoundationserver.client\\16.153.0\\microsoft.teamfoundationserver.client.16.153.0.nupkg.sha512",
+    "C:\\Users\\xxsurkon\\.nuget\\packages\\microsoft.teamfoundationserver.extendedclient\\16.153.0\\microsoft.teamfoundationserver.extendedclient.16.153.0.nupkg.sha512",
+    "C:\\Users\\xxsurkon\\.nuget\\packages\\microsoft.visualstudio.services.client\\16.153.0\\microsoft.visualstudio.services.client.16.153.0.nupkg.sha512",
+    "C:\\Users\\xxsurkon\\.nuget\\packages\\microsoft.visualstudio.services.interactiveclient\\16.153.0\\microsoft.visualstudio.services.interactiveclient.16.153.0.nupkg.sha512",
+    "C:\\Users\\xxsurkon\\.nuget\\packages\\newtonsoft.json\\10.0.3\\newtonsoft.json.10.0.3.nupkg.sha512",
+    "C:\\Users\\xxsurkon\\.nuget\\packages\\system.collections.immutable\\1.4.0\\system.collections.immutable.1.4.0.nupkg.sha512",
+    "C:\\Users\\xxsurkon\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
+    "C:\\Users\\xxsurkon\\.nuget\\packages\\system.identitymodel.tokens.jwt\\5.2.4\\system.identitymodel.tokens.jwt.5.2.4.nupkg.sha512",
+    "C:\\Users\\xxsurkon\\.nuget\\packages\\system.io.compression.zipfile\\4.3.0\\system.io.compression.zipfile.4.3.0.nupkg.sha512",
+    "C:\\Users\\xxsurkon\\.nuget\\packages\\system.reflection.metadata\\1.5.0\\system.reflection.metadata.1.5.0.nupkg.sha512",
+    "C:\\Users\\xxsurkon\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\xxsurkon\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\xxsurkon\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,22 @@
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\RxResultUpdator\bin\Debug\RxResultUpdator.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\RxResultUpdator\bin\Debug\RxResultUpdator.pdb
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\RxResultUpdator\obj\Debug\RxResultUpdator.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\RxResultUpdator\obj\Debug\RxResultUpdator.pdb
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\RxResultUpdator\obj\Debug\RxResultUpdator.csprojAssemblyReference.cache
+F:\TFS API\TFS API\RxResultUpdator\bin\Debug\RxResultUpdator.dll
+F:\TFS API\TFS API\RxResultUpdator\bin\Debug\RxResultUpdator.pdb
+F:\TFS API\TFS API\RxResultUpdator\obj\Debug\RxResultUpdator.csprojAssemblyReference.cache
+F:\TFS API\TFS API\RxResultUpdator\obj\Debug\RxResultUpdator.dll
+F:\TFS API\TFS API\RxResultUpdator\obj\Debug\RxResultUpdator.pdb
+C:\Users\iray3\Downloads\TFS API\TFS API\RxResultUpdator\bin\Debug\RxResultUpdator.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\RxResultUpdator\bin\Debug\RxResultUpdator.pdb
+C:\Users\iray3\Downloads\TFS API\TFS API\RxResultUpdator\obj\Debug\RxResultUpdator.csproj.AssemblyReference.cache
+C:\Users\iray3\Downloads\TFS API\TFS API\RxResultUpdator\obj\Debug\RxResultUpdator.csproj.CoreCompileInputs.cache
+C:\Users\iray3\Downloads\TFS API\TFS API\RxResultUpdator\obj\Debug\RxResultUpdator.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\RxResultUpdator\obj\Debug\RxResultUpdator.pdb
+C:\TFS API\TFS API\RxResultUpdator\bin\Debug\RxResultUpdator.dll
+C:\TFS API\TFS API\RxResultUpdator\bin\Debug\RxResultUpdator.pdb
+C:\TFS API\TFS API\RxResultUpdator\obj\Debug\RxResultUpdator.csproj.AssemblyReference.cache
+C:\TFS API\TFS API\RxResultUpdator\obj\Debug\RxResultUpdator.csproj.CoreCompileInputs.cache
+C:\TFS API\TFS API\RxResultUpdator\obj\Debug\RxResultUpdator.dll
+C:\TFS API\TFS API\RxResultUpdator\obj\Debug\RxResultUpdator.pdb

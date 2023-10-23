@@ -27,7 +27,7 @@ Scenario Outline: 01Test Case 1537268: Verify that battery ADL data is restored 
 
 	| DeviceId  | DeviceLeftSlNo | FlashHI | DeviceRight | DeviceLeft |
     #| LT961-DRW-UP | 2000800436   | Yes     | Right       | Left       |
-    | RE962-DRW |   2049043374   | Yes     | Right       | Left       |
+    | RE962-DRW |   1886538351   | Yes     | Right       | Left       |
 	#| RE962-DRWT | 2000803069     | Yes     | Right       | Left       |
  	#| RT962-DRW | 2000800246    | Yes     | Right       | Left       |
 	#| LT988-DW | 1600804970     | Yes     | Right       | Left       |
@@ -50,7 +50,7 @@ Scenario Outline: 02Test Case 1103972: Verify device information is shown correc
 	Examples:
 	| DeviceId | DeviceLeftSlNo | FlashHI | DeviceRight | DeviceLeft |
     #| LT961-DRW-UP | 2000800436   | Yes     | Right       | Left       |
-	 | RE962-DRW | 2049043374     | Yes     | Right       | Left       |
+	 | RE962-DRW | 1886538351     | Yes     | Right       | Left       |
 	#| RE962-DRWT | 2000803069     | Yes     | Right       | Left       |
 	#| RT962-DRW | 2000800246     | Yes     | Right       | Left       |
 	#| LT988-DW | 1600804970     | Yes     | Right       | Left       |
@@ -71,7 +71,7 @@ Scenario Outline: 03Test Case 1105474: Verify capture operation is performed wit
 	Examples:
 	| DeviceId  | DeviceLeftSlNo | FlashHI | DeviceRight | DeviceLeft |
     #| LT961-DRW-UP | 2000800436   | Yes     | Right       | Left       |
-   | RE962-DRW | 2049043374     | Yes     | Right       | Left       |
+     | RE962-DRW | 1886538351     | Yes     | Right       | Left       |
 	#| RE962-DRWT | 2000803069     | Yes     | Right       | Left       |
 	#| RT962-DRW | 2000800246     | Yes     | Right       | Left       |
     #| LT988-DW | 1600804970     | Yes     | Right       | Left       |
@@ -91,10 +91,10 @@ Scenario Outline: 04Test Case 1103482: Verify supported PC configuration
 	Examples:
 
 	| DeviceId   | DeviceLeftSlNo | FlashHI | DeviceRight | DeviceLeft | 
-##    | LT961-DRW-UP | 2000800436   | Yes     | Right       | Left       |
-	| RE962-DRW | 2049043374     | Yes     | Right       | Left       |
-##	| RE962-DRWT | 2000803069     | Yes     | Right       | Left       |
-	 #| RT962-DRW | 2000800246     | Yes     | Right       | Left       |
+    #| LT961-DRW-UP | 2000800436   | Yes     | Right       | Left       |
+	 | RE962-DRW | 1886538351     | Yes     | Right       | Left       |
+    #| RE962-DRWT | 2000803069     | Yes     | Right       | Left       |
+	#| RT962-DRW | 2000800246     | Yes     | Right       | Left       |
     #| LT988-DW | 1600805306     | Yes     | Right       | Left       |
     #| RT961-DRWC | 2000816934     | Yes     | Right       | Left       | 
 	
@@ -109,11 +109,11 @@ Scenario Outline: 05Test Case 1103833: Verify channel can be changed while S&R t
 
 	Examples:
 	| DeviceId   | DeviceLeftSlNo | FlashHI | DeviceRight | DeviceLeft | 
-##    | LT961-DRW-UP | 2000800436   | Yes     | Right       | Left       |
-	| RE962-DRW | 2049043374     | Yes     | Right       | Left       |
-##	| RE962-DRWT | 2000803069     | Yes     | Right       | Left       |
-	 #| RT962-DRW | 2000800246    | Yes     | Right       | Left       |
-     #| LT988-DW | 1600805306     | Yes     | Right       | Left       |
+   #| LT961-DRW-UP | 2000800436   | Yes     | Right       | Left       |
+	| RE962-DRW | 1886538351     | Yes     | Right       | Left       |
+   #| RE962-DRWT | 2000803069     | Yes     | Right       | Left       |
+   #| RT962-DRW | 2000800246    | Yes     | Right       | Left       |
+   #| LT988-DW | 1600805306     | Yes     | Right       | Left       |
 	#| RT961-DRWC | 2000816934     | Yes     | Right       | Left       |
 	
 
@@ -135,12 +135,12 @@ Scenario Outline: 06Test Case 1104002: Verify HI capture/restoration report
 
 	Examples:
 	| DeviceId   | DeviceLeftSlNo | FlashHI | DeviceRight | DeviceLeft | 
-##   | LT961-DRW-UP | 2000800436   | Yes     | Right       | Left       |
+##  | LT961-DRW-UP | 2000800436   | Yes     | Right       | Left       |
 	| RE962-DRW | 1886538351     | Yes     | Right       | Left       |
-##	 | RE962-DRWT | 2000803069     | Yes     | Right       | Left       |
-	 #| RT962-DRW | 2000800246     | Yes     | Right       | Left       |
-    ## | LT988-DW | 1600805306     | Yes     | Right       | Left       |
-	#| RT961-DRWC | 2000816934     | Yes     | Right       | Left       |
+##	| RE962-DRWT | 2000803069     | Yes     | Right       | Left       |
+#| RT962-DRW | 2000800246     | Yes     | Right       | Left       |
+ ## | LT988-DW | 1600805306     | Yes     | Right       | Left       |
+#| RT961-DRWC | 2000816934     | Yes     | Right       | Left       |
 	
 
 
@@ -157,7 +157,7 @@ Scenario Outline: 07Test Case 1142328: PC_Verify HI can be PC programmed properl
 	Examples:
 	| DeviceId     | DeviceLeftSlNo | FlashHI | DeviceRight | DeviceLeft | DeviceSlNo |
 ##	| LT961-DRW-UP | 2000800436     | Yes     | Right       | Left       |            |
-| RE962-DRW    | 1886538351     | Yes     | Right       | Left       | 2000803779 |
+    | RE962-DRW    | 1886538351     | Yes     | Right       | Left       | 2000803779 |
 ##	| RE962-DRWT   | 2000803069     | Yes     | Right       | Left       | 2000803066 |
 	#| RT962-DRW    | 2000800246     | Yes     | Right       | Left       | 2000800269 |
   ##| LT988-DW     | 1600805306     | Yes     | Right       | Left       | 1600804918 |
@@ -166,27 +166,27 @@ Scenario Outline: 07Test Case 1142328: PC_Verify HI can be PC programmed properl
 
 
 
-##@tag8
-##Scenario Outline: 08Test Case 1103981: Verify device information is cleared when HI is disconnected
-##
-##		When [Launch SandR "<DeviceId>" and "<DeviceLeftSlNo>"]
-##		When [Go to Device Info tab and capture device info in excel then verify the device information is shown correctly]
-##		When [Come back to Settings and wait till controls enabled]
-##		When [Clicks on disconnect and verify device information is cleared]
-##
-##		Examples:b
-##
-##
-##	| DeviceId   | DeviceLeftSlNo | FlashHI | DeviceRight | DeviceLeft | 
-##    | LT961-DRW-UP | 2000800436   | Yes     | Right       | Left       |
-##	| RE962-DRW | 2026335111     | Yes     | Right       | Left       |
-##	| RE962-DRWT | 2000803069     | Yes     | Right       | Left       |
-##	| RT962-DRW | 2000800247     | Yes     | Right       | Left       |
-##	| LT988-DW | 1600806099     | Yes     | Right       | Left       |
-##	| RT961-DRWC | 2000801965     | Yes     | Right       | Left       | 
-##
-##
-##
+#@tag8
+#Scenario Outline: 08Test Case 1103981: Verify device information is cleared when HI is disconnected
+#
+#		When [Launch SandR "<DeviceId>" and "<DeviceLeftSlNo>"]
+#		When [Go to Device Info tab and capture device info in excel then verify the device information is shown correctly]
+#		When [Come back to Settings and wait till controls enabled]
+#		When [Clicks on disconnect and verify device information is cleared]
+#
+#		Examples:b
+#
+#
+#	| DeviceId   | DeviceLeftSlNo | FlashHI | DeviceRight | DeviceLeft | 
+#    | LT961-DRW-UP | 2000800436   | Yes     | Right       | Left       |
+#	| RE962-DRW | 2026335111     | Yes     | Right       | Left       |
+#	| RE962-DRWT | 2000803069     | Yes     | Right       | Left       |
+#	| RT962-DRW | 2000800247     | Yes     | Right       | Left       |
+#	| LT988-DW | 1600806099     | Yes     | Right       | Left       |
+#	| RT961-DRWC | 2000801965     | Yes     | Right       | Left       | 
+#
+#
+#
 
 @tag9
 Scenario Outline: 09Test Case 1105498: Verify that S&R Tool properly sets listening test settings
