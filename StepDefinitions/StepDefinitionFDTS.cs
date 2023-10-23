@@ -868,6 +868,9 @@ namespace AppiumWinApp.StepDefinitions
             Console.WriteLine("Second Scenario");
         }
 
+
+        [AfterScenario]
+
         [Then(@"\[done]")]
         public void ThenDone()
         {
@@ -996,10 +999,6 @@ namespace AppiumWinApp.StepDefinitions
             }
 
         }
-
-
-
-
 
 
     }
