@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="TFSRepositorySchema">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="TestPlan">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TestPlanID">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="TestCaseID">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="TestConfiguration">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element name="TestStepDefinition">
+                                  <xs:complexType>
+                                    <xs:sequence>
+                                      <xs:element name="TestStepID">
+                                        <xs:complexType>
+                                          <xs:sequence>
+                                            <xs:element name="Result" />
+                                          </xs:sequence>
+                                        </xs:complexType>
+                                      </xs:element>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

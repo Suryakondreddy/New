@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <TFSTestResultsSet>
+    <TestPlanID>1193698</TestPlanID>
+    <TestCaseID>1301997</TestCaseID>
+    <TestConfiguration>IS [ENV]: TST</TestConfiguration>
+    <TestStepID>1</TestStepID>
+    <TestStatus>TRUE</TestStatus>
+    <TestStepComment />
+  </TFSTestResultsSet>
+  <TFSTestResultsSet>
+    <TestPlanID>1193698</TestPlanID>
+    <TestCaseID>1301997</TestCaseID>
+    <TestConfiguration>IS [ENV]: TST</TestConfiguration>
+    <TestStepID>2</TestStepID>
+    <TestStatus>TRUE</TestStatus>
+    <TestStepComment />
+  </TFSTestResultsSet>
+</DocumentElement>
