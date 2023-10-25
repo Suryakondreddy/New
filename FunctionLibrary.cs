@@ -24,6 +24,7 @@ using Microsoft.Office.Interop.Excel;
 using Range = Microsoft.Office.Interop.Excel.Range;
 using System.Collections.ObjectModel;
 using TechTalk.SpecFlow;
+using NUnit.Framework.Internal;
 
 namespace AppiumWinApp
 {
@@ -34,7 +35,26 @@ namespace AppiumWinApp
         private static ExtentTest test;
         public static String textDir = Directory.GetCurrentDirectory();
 
+        string testPlanId = "1633245";
+        string testSuiteId = "1633281";
+        string testConfig = "GOP:Dooku2_BTE_RHI(C70)";
 
+        private List<string> xmlFilePaths = new List<string>
+        {
+                 Path.Combine(Directory.GetCurrentDirectory(), @"XML\1537268.xml"),
+                 Path.Combine(Directory.GetCurrentDirectory(), @"XML\1103972.xml"),
+                 Path.Combine(Directory.GetCurrentDirectory(), @"XML\1105474.xml"),
+                 Path.Combine(Directory.GetCurrentDirectory(), @"XML\1103482.xml"),
+                 Path.Combine(Directory.GetCurrentDirectory(), @"XML\1103833.xml"),
+                 Path.Combine(Directory.GetCurrentDirectory(), @"XML\1104002.xml"),
+                 Path.Combine(Directory.GetCurrentDirectory(), @"XML\1142328.xml"),
+                 Path.Combine(Directory.GetCurrentDirectory(), @"XML\1103981.xml"),
+                 Path.Combine(Directory.GetCurrentDirectory(), @"XML\1105498.xml"),
+                 Path.Combine(Directory.GetCurrentDirectory(), @"XML\1105696.xml"),
+                 Path.Combine(Directory.GetCurrentDirectory(), @"XML\1105669.xml"),
+                 Path.Combine(Directory.GetCurrentDirectory(), @"XML\1629628.xml"),
+                 Path.Combine(Directory.GetCurrentDirectory(), @"XML\1629629.xml"),
+        };
 
         /** Click operations by using Automation id's and names **/
         public void clickOnAutomationId(WindowsDriver<WindowsElement> session, string name, string id)
@@ -1610,6 +1630,71 @@ namespace AppiumWinApp
             Console.WriteLine(isSystem);
 
         }/* End of dumpCompare*/
-   
+
+
+
+        public void PassingXML(ExtentTest test)
+
+        {
+
+            foreach (string filePath in xmlFilePaths)
+
+            {
+
+                // Load the XML document
+
+                XmlDocument doc = new XmlDocument();
+
+                doc.Load(filePath);                                                                                                                                                                                                       // Replace with the path to your XML file
+
+                // Select the nodes you want to update
+
+                XmlNodeList nodes = doc.SelectNodes("//TFSTestResultsSet");
+
+                foreach (XmlNode node in nodes)
+
+                {
+                    // Update TestPlanID, TestSuiteID, and TestConfiguration
+
+                    XmlNode testPlanIdNode = node.SelectSingleNode("TestPlanID");
+
+                    XmlNode testSuiteIdNode = node.SelectSingleNode("TestSuitID");
+
+                    XmlNode testConfigNode = node.SelectSingleNode("TestConfiguration");
+
+
+                    if (testPlanIdNode != null)
+
+                    {
+
+                        testPlanIdNode.InnerText = testPlanId;                                                                                      // Replace with the new TestPlanID value
+
+                    }
+
+
+                    if (testSuiteIdNode != null)
+                    {
+
+                        testSuiteIdNode.InnerText = testSuiteId;                                                                                    // Replace with the new TestSuiteID value
+
+                    }
+
+                    if (testConfigNode != null)
+
+                    {
+
+                        testConfigNode.InnerText = testConfig;                                                                   // Replace with the new TestConfiguration value
+
+                    }
+
+                }
+
+
+                doc.Save(filePath);
+
+            }// Save the updated XML document
+
+        }
+
     }
 }

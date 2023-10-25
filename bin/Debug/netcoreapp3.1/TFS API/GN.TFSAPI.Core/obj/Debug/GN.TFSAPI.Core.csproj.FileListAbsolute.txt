@@ -1,0 +1,1634 @@
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\GN.TFSAPI.Core.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\GN.TFSAPI.Core.pdb
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Ben.Demystifier.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Net.Http.Formatting.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Web.Http.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.DistributedTask.Common.Contracts.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Build2.WebApi.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Core.WebApi.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Dashboards.WebApi.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Policy.WebApi.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.SourceControl.WebApi.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Test.WebApi.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.TestManagement.WebApi.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Wiki.WebApi.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Work.WebApi.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Process.WebApi.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.VisualStudio.Services.TestManagement.TestPlanning.WebApi.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.VisualStudio.Services.TestResults.WebApi.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Build.Client.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Build.Common.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Client.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.DeleteTeamProject.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Diff.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Discussion.Client.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Git.Client.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Lab.Client.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Lab.Common.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Lab.TestIntegration.Client.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.ProjectManagement.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.SharePointReporting.Integration.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.TestImpact.Client.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.TestManagement.Client.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.TestManagement.Common.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.VersionControl.Client.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.VersionControl.Common.Integration.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.VersionControl.Common.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Common.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Proxy.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Common.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.VisualStudio.Services.Client.Interactive.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Newtonsoft.Json.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Collections.Immutable.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Reflection.Metadata.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\netstandard.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.AppContext.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Collections.Concurrent.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Collections.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Collections.NonGeneric.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Collections.Specialized.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.ComponentModel.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.ComponentModel.Primitives.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Console.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Data.Common.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Diagnostics.Contracts.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Diagnostics.Debug.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Diagnostics.Process.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Diagnostics.Tools.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Diagnostics.Tracing.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Drawing.Primitives.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Dynamic.Runtime.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Globalization.Calendars.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Globalization.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Globalization.Extensions.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.IO.Compression.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.IO.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.IO.FileSystem.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.IO.IsolatedStorage.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.IO.Pipes.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Linq.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Linq.Expressions.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Linq.Parallel.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Linq.Queryable.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Net.Http.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Net.NameResolution.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Net.NetworkInformation.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Net.Ping.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Net.Primitives.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Net.Requests.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Net.Security.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Net.Sockets.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Net.WebSockets.Client.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Net.WebSockets.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.ObjectModel.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Reflection.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Reflection.Extensions.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Reflection.Primitives.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Resources.Reader.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Resources.ResourceManager.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Resources.Writer.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Runtime.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Runtime.Extensions.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Runtime.Handles.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Runtime.InteropServices.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Runtime.Numerics.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Security.Claims.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Security.Principal.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Security.SecureString.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Text.Encoding.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Text.RegularExpressions.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Threading.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Threading.Overlapped.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Threading.Tasks.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Threading.Thread.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Threading.ThreadPool.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Threading.Timer.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.ValueTuple.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Xml.ReaderWriter.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Xml.XDocument.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Xml.XmlDocument.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Xml.XmlSerializer.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Xml.XPath.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\obj\Debug\GN.TFSAPI.Core.csproj.CopyComplete
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\obj\Debug\GN.TFSAPI.Core.dll
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\obj\Debug\GN.TFSAPI.Core.pdb
+C:\GNR\FSW\Development\Main-AUIT\vNext\AUIT\TFS API\GN.TFSAPI.Core\obj\Debug\GN.TFSAPI.Core.csprojAssemblyReference.cache
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\GN.TFSAPI.Core.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\GN.TFSAPI.Core.pdb
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Ben.Demystifier.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Net.Http.Formatting.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Web.Http.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.IdentityModel.Logging.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.DistributedTask.Common.Contracts.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Build2.WebApi.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Core.WebApi.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Dashboards.WebApi.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Policy.WebApi.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.SourceControl.WebApi.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Test.WebApi.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.TestManagement.WebApi.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Wiki.WebApi.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Work.WebApi.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Process.WebApi.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.VisualStudio.Services.TestManagement.TestPlanning.WebApi.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.VisualStudio.Services.TestResults.WebApi.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Build.Client.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Build.Common.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Client.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.DeleteTeamProject.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Diff.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Discussion.Client.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Git.Client.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Lab.Client.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Lab.Common.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Lab.TestIntegration.Client.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.ProjectManagement.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.SharePointReporting.Integration.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.TestImpact.Client.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.TestManagement.Client.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.TestManagement.Common.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.VersionControl.Client.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.VersionControl.Common.Integration.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.VersionControl.Common.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Common.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Proxy.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Build.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Build.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Lab.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Lab.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Build.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Build.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Lab.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Lab.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Build.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Build.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Lab.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Lab.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Build.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Build.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Lab.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Lab.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Build.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Build.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Lab.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Lab.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Build.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Build.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Lab.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Lab.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Build.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Build.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Lab.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Lab.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Build.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Build.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Lab.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Lab.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Build.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Build.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Lab.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Lab.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Build.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Build.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Lab.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Lab.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Build.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Build.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Lab.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Lab.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Build.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Build.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Lab.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Lab.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Build.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Build.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Lab.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Lab.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Common.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.VisualStudio.Services.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.VisualStudio.Services.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.VisualStudio.Services.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.VisualStudio.Services.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.VisualStudio.Services.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.VisualStudio.Services.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.VisualStudio.Services.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.VisualStudio.Services.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.VisualStudio.Services.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.VisualStudio.Services.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.VisualStudio.Services.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.VisualStudio.Services.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.VisualStudio.Services.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.VisualStudio.Services.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.VisualStudio.Services.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.VisualStudio.Services.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Common.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.WebApi.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.VisualStudio.Services.Client.Interactive.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Newtonsoft.Json.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Collections.Immutable.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Reflection.Metadata.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.Win32.Primitives.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\netstandard.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.AppContext.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Collections.Concurrent.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Collections.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Collections.NonGeneric.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Collections.Specialized.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.ComponentModel.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.ComponentModel.Primitives.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.ComponentModel.TypeConverter.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Console.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Data.Common.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Diagnostics.Contracts.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Diagnostics.Debug.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Diagnostics.Process.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Diagnostics.StackTrace.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Diagnostics.Tools.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Diagnostics.TraceSource.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Diagnostics.Tracing.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Drawing.Primitives.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Dynamic.Runtime.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Globalization.Calendars.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Globalization.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Globalization.Extensions.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.IO.Compression.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.IO.Compression.ZipFile.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.IO.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.IO.FileSystem.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.IO.FileSystem.Watcher.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.IO.IsolatedStorage.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.IO.MemoryMappedFiles.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.IO.Pipes.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Linq.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Linq.Expressions.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Linq.Parallel.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Linq.Queryable.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Net.Http.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Net.NameResolution.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Net.NetworkInformation.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Net.Ping.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Net.Primitives.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Net.Requests.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Net.Security.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Net.Sockets.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Net.WebHeaderCollection.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Net.WebSockets.Client.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Net.WebSockets.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.ObjectModel.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Reflection.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Reflection.Extensions.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Reflection.Primitives.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Resources.Reader.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Resources.ResourceManager.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Resources.Writer.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Runtime.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Runtime.Extensions.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Runtime.Handles.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Runtime.InteropServices.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Runtime.Numerics.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Runtime.Serialization.Formatters.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Runtime.Serialization.Json.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Runtime.Serialization.Primitives.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Runtime.Serialization.Xml.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Security.Claims.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Security.Cryptography.Csp.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Security.Principal.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Security.SecureString.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Text.Encoding.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Text.Encoding.Extensions.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Text.RegularExpressions.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Threading.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Threading.Overlapped.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Threading.Tasks.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Threading.Tasks.Parallel.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Threading.Thread.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Threading.ThreadPool.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Threading.Timer.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.ValueTuple.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Xml.ReaderWriter.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Xml.XDocument.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Xml.XmlDocument.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Xml.XmlSerializer.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Xml.XPath.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Xml.XPath.XDocument.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\obj\Debug\GN.TFSAPI.Core.csprojAssemblyReference.cache
+F:\TFS API\TFS API\GN.TFSAPI.Core\obj\Debug\GN.TFSAPI.Core.csproj.CopyComplete
+F:\TFS API\TFS API\GN.TFSAPI.Core\obj\Debug\GN.TFSAPI.Core.dll
+F:\TFS API\TFS API\GN.TFSAPI.Core\obj\Debug\GN.TFSAPI.Core.pdb
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\GN.TFSAPI.Core.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\GN.TFSAPI.Core.pdb
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Ben.Demystifier.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Web.Http.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.DistributedTask.Common.Contracts.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Build2.WebApi.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Core.WebApi.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Dashboards.WebApi.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Policy.WebApi.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.SourceControl.WebApi.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Test.WebApi.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.TestManagement.WebApi.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Wiki.WebApi.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Work.WebApi.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Process.WebApi.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.VisualStudio.Services.TestManagement.TestPlanning.WebApi.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.VisualStudio.Services.TestResults.WebApi.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Build.Client.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Build.Common.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Client.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.DeleteTeamProject.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Diff.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Discussion.Client.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Git.Client.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Lab.Client.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Lab.Common.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Lab.TestIntegration.Client.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.ProjectManagement.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.SharePointReporting.Integration.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.TestImpact.Client.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.TestManagement.Client.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.TestManagement.Common.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.VersionControl.Client.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.VersionControl.Common.Integration.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.VersionControl.Common.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Common.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Proxy.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Common.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.VisualStudio.Services.Client.Interactive.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Collections.Immutable.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\obj\Debug\GN.TFSAPI.Core.csproj.AssemblyReference.cache
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\obj\Debug\GN.TFSAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\obj\Debug\GN.TFSAPI.Core.csproj.CopyComplete
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\obj\Debug\GN.TFSAPI.Core.dll
+C:\Users\iray3\Downloads\TFS API\TFS API\GN.TFSAPI.Core\obj\Debug\GN.TFSAPI.Core.pdb
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\GN.TFSAPI.Core.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\GN.TFSAPI.Core.pdb
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Ben.Demystifier.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Net.Http.Formatting.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Web.Http.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.DistributedTask.Common.Contracts.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Build2.WebApi.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Core.WebApi.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Dashboards.WebApi.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Policy.WebApi.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.SourceControl.WebApi.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Test.WebApi.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.TestManagement.WebApi.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Wiki.WebApi.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Work.WebApi.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Process.WebApi.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.VisualStudio.Services.TestManagement.TestPlanning.WebApi.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.VisualStudio.Services.TestResults.WebApi.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Build.Client.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Build.Common.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Client.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.DeleteTeamProject.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Diff.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Discussion.Client.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Git.Client.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Lab.Client.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Lab.Common.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Lab.TestIntegration.Client.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.ProjectManagement.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.SharePointReporting.Integration.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.TestImpact.Client.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.TestManagement.Client.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.TestManagement.Common.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.VersionControl.Client.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.VersionControl.Common.Integration.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.VersionControl.Common.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Common.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Proxy.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Build.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Build.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Lab.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Lab.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.TeamFoundation.Common.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.TeamFoundation.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.TeamFoundation.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.TeamFoundation.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.TeamFoundation.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.TeamFoundation.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.TeamFoundation.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.TeamFoundation.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.TeamFoundation.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.TeamFoundation.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.TeamFoundation.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Microsoft.VisualStudio.Services.Client.Interactive.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\cs\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\de\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\es\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\fr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\it\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ja\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ko\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pl\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\ru\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\tr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\Newtonsoft.Json.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Collections.Immutable.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+C:\TFS API\TFS API\GN.TFSAPI.Core\bin\Debug\System.Reflection.Metadata.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\obj\Debug\GN.TFSAPI.Core.csproj.AssemblyReference.cache
+C:\TFS API\TFS API\GN.TFSAPI.Core\obj\Debug\GN.TFSAPI.Core.csproj.CoreCompileInputs.cache
+C:\TFS API\TFS API\GN.TFSAPI.Core\obj\Debug\GN.TFSAPI.Core.csproj.CopyComplete
+C:\TFS API\TFS API\GN.TFSAPI.Core\obj\Debug\GN.TFSAPI.Core.dll
+C:\TFS API\TFS API\GN.TFSAPI.Core\obj\Debug\GN.TFSAPI.Core.pdb

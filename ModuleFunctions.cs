@@ -998,6 +998,7 @@ namespace AppiumWinApp
 
                     session.Keyboard.SendKeys("a");
                     Thread.Sleep(1000);
+                    
                     session.Keyboard.SendKeys(Keys.Enter);
                     Thread.Sleep(1000);
                     session.Keyboard.SendKeys("b");

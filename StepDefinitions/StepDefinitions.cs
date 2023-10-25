@@ -131,6 +131,47 @@ namespace MyNamespace
         }
 
 
+        
+        [BeforeScenario]
+
+
+
+        public static void BeforeScenario()
+
+        {
+
+            /*Extract the TestcseId from the Scenario Context*/
+
+            Console.WriteLine("Starting " + ScenarioContext.Current.ScenarioInfo.Title);
+
+            string test1 = ScenarioContext.Current.ScenarioInfo.Title;
+            string pattern = @"Case ID (\d+)";
+
+            Match match = Regex.Match(test1, pattern);
+            string testcaseID = "";
+
+            if (match.Success)
+
+            {
+                testcaseID = match.Groups[1].Value;
+                ScenarioContext.Current.Set(testcaseID, "TestCaseID");
+
+            }
+
+            Console.WriteLine("Test Case ID: " + testcaseID);
+
+            /*Update XML files with TestPlan,TestSuite,TestConfig*/
+
+
+            FunctionLibrary lib = new FunctionLibrary();
+
+            lib.PassingXML(test);
+
+        }
+
+
+
+
         [AfterFeature]
         public static void afterFeature()
         {
@@ -720,7 +761,7 @@ namespace MyNamespace
                             value.Click();
                         }
                     }
-                    Thread.Sleep(5000);
+                    Thread.Sleep(10000);
                 }
 
                 /** Clicks on Continue buttion **/
