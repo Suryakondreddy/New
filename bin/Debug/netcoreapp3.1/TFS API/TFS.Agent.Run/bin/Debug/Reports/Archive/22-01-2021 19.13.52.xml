@@ -1,0 +1,83 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <TFSTestResultsSet>
+    <TestPlanID>1193698</TestPlanID>
+    <TestCaseID>1304118</TestCaseID>
+    <TestConfiguration>IS [ENV]: TST</TestConfiguration>
+    <TestStepID>1</TestStepID>
+    <TestStatus>TRUE</TestStatus>
+    <TestStepComment />
+  </TFSTestResultsSet>
+  <TFSTestResultsSet>
+    <TestPlanID>1193698</TestPlanID>
+    <TestCaseID>1304118</TestCaseID>
+    <TestConfiguration>IS [ENV]: TST</TestConfiguration>
+    <TestStepID>2</TestStepID>
+    <TestStatus>TRUE</TestStatus>
+    <TestStepComment />
+  </TFSTestResultsSet>
+  <TFSTestResultsSet>
+    <TestPlanID>1193698</TestPlanID>
+    <TestCaseID>1304118</TestCaseID>
+    <TestConfiguration>IS [ENV]: TST</TestConfiguration>
+    <TestStepID>3</TestStepID>
+    <TestStatus>TRUE</TestStatus>
+    <TestStepComment />
+  </TFSTestResultsSet>
+  <TFSTestResultsSet>
+    <TestPlanID>1193698</TestPlanID>
+    <TestCaseID>1304118</TestCaseID>
+    <TestConfiguration>IS [ENV]: TST</TestConfiguration>
+    <TestStepID>4</TestStepID>
+    <TestStatus>TRUE</TestStatus>
+    <TestStepComment />
+  </TFSTestResultsSet>
+  <TFSTestResultsSet>
+    <TestPlanID>1193698</TestPlanID>
+    <TestCaseID>1304118</TestCaseID>
+    <TestConfiguration>IS [ENV]: TST</TestConfiguration>
+    <TestStepID>5</TestStepID>
+    <TestStatus>TRUE</TestStatus>
+    <TestStepComment />
+  </TFSTestResultsSet>
+  <TFSTestResultsSet>
+    <TestPlanID>1193698</TestPlanID>
+    <TestCaseID>1304118</TestCaseID>
+    <TestConfiguration>IS [ENV]: TST</TestConfiguration>
+    <TestStepID>6</TestStepID>
+    <TestStatus>TRUE</TestStatus>
+    <TestStepComment />
+  </TFSTestResultsSet>
+  <TFSTestResultsSet>
+    <TestPlanID>1193698</TestPlanID>
+    <TestCaseID>1304118</TestCaseID>
+    <TestConfiguration>IS [ENV]: TST</TestConfiguration>
+    <TestStepID>7</TestStepID>
+    <TestStatus>TRUE</TestStatus>
+    <TestStepComment />
+  </TFSTestResultsSet>
+  <TFSTestResultsSet>
+    <TestPlanID>1193698</TestPlanID>
+    <TestCaseID>1304118</TestCaseID>
+    <TestConfiguration>IS [ENV]: TST</TestConfiguration>
+    <TestStepID>8</TestStepID>
+    <TestStatus>TRUE</TestStatus>
+    <TestStepComment />
+  </TFSTestResultsSet>
+  <TFSTestResultsSet>
+    <TestPlanID>1193698</TestPlanID>
+    <TestCaseID>1304118</TestCaseID>
+    <TestConfiguration>IS [ENV]: TST</TestConfiguration>
+    <TestStepID>9</TestStepID>
+    <TestStatus>TRUE</TestStatus>
+    <TestStepComment />
+  </TFSTestResultsSet>
+  <TFSTestResultsSet>
+    <TestPlanID>1193698</TestPlanID>
+    <TestCaseID>1304118</TestCaseID>
+    <TestConfiguration>IS [ENV]: TST</TestConfiguration>
+    <TestStepID>10</TestStepID>
+    <TestStatus>TRUE</TestStatus>
+    <TestStepComment />
+  </TFSTestResultsSet>
+</DocumentElement>
