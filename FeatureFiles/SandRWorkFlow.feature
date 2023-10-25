@@ -3,7 +3,7 @@
 A short summary of the feature
 
 @tag1
-Scenario Outline: 01Test Case 1537268: Verify that battery ADL data is restored on original device
+Scenario Outline: 01Test Case ID 1537268: Verify that battery ADL data is restored on original device
 
 	Given [Change channel side in FDTS<DeviceLeft>]
 	Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceLeftSlNo>" and "<FlashHI>" and "<DeviceLeft>"
@@ -37,7 +37,7 @@ Scenario Outline: 01Test Case 1537268: Verify that battery ADL data is restored 
 
 
 
-Scenario Outline: 02Test Case 1103972: Verify device information is shown correctly
+Scenario Outline: 02Test Case ID 1103972: Verify device information is shown correctly
 
 	When [Create a Patient and Fitting HI In FSW "<AlterFSWNo>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
 	When [Launch SandR "<DeviceId>" and "<DeviceLeftSlNo>"]
@@ -59,7 +59,7 @@ Scenario Outline: 02Test Case 1103972: Verify device information is shown correc
 
 
 
-Scenario Outline: 03Test Case 1105474: Verify capture operation is performed within desired time
+Scenario Outline: 03Test Case ID 1105474: Verify capture operation is performed within desired time
 
 	When [Create a Patient and Fitting HI In FSW "<AlterFSWNo>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
 	When [Launch SandR "<DeviceId>" and "<DeviceLeftSlNo>"]
@@ -76,7 +76,7 @@ Scenario Outline: 03Test Case 1105474: Verify capture operation is performed wit
 	 #| LT988-DW | 1600804970     | Yes     | Right       | Left       |
 	 #| RT961-DRWC | 2000816934     | Yes     | Right       | Left       | 
 
-Scenario Outline: 04Test Case 1103482: Verify supported PC configuration
+Scenario Outline: 04Test Case ID 1103482: Verify supported PC configuration
 
 	When [Create a Patient and Fitting HI In FSW "<AlterFSWNo>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
 	When [Launch SandR "<DeviceId>" and "<DeviceLeftSlNo>"]
@@ -96,7 +96,7 @@ Scenario Outline: 04Test Case 1103482: Verify supported PC configuration
 
 
 
-Scenario Outline: 05Test Case 1103833: Verify channel can be changed while S&R tool is running
+Scenario Outline: 05Test Case ID 1103833: Verify channel can be changed while S&R tool is running
 
 	When [Create a Patient and Fitting HI In FSW "<AlterFSWNo>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
 	When [Change communication channel in S and R<DeviceLeft>]
@@ -113,7 +113,7 @@ Scenario Outline: 05Test Case 1103833: Verify channel can be changed while S&R t
 
 
 
-Scenario Outline: 06Test Case 1104002: Verify HI capture/restoration report
+Scenario Outline: 06Test Case ID 1104002: Verify HI capture/restoration report
 
 	When [Create a Patient and Fitting HI In FSW "<AlterFSWNo>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
 	When [Launch SandR "<DeviceId>" and "<DeviceLeftSlNo>"]
@@ -136,7 +136,7 @@ Scenario Outline: 06Test Case 1104002: Verify HI capture/restoration report
 	#| RT961-DRWC | 2000816934     | Yes     | Right       | Left       |
 
 	
-Scenario Outline: 07Test Case 1142328: PC_Verify HI can be PC programmed properly.
+Scenario Outline: 07Test Case ID 1142328: PC_Verify HI can be PC programmed properly.
 
 	 When [Create a Patient and Fitting HI In FSW "<AlterFSWNo>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
 	 Given [Change channel side in FDTS<DeviceLeft>]
@@ -157,7 +157,7 @@ Scenario Outline: 07Test Case 1142328: PC_Verify HI can be PC programmed properl
 
 
 
-Scenario Outline: 08Test Case 1103981: Verify device information is cleared when HI is disconnected
+Scenario Outline: 08Test Case ID 1103981: Verify device information is cleared when HI is disconnected
 
 		When [Launch SandR "<DeviceId>" and "<DeviceLeftSlNo>"]
 		When [Go to Device Info tab and capture device info in excel then verify the device information is shown correctly]
@@ -177,7 +177,7 @@ Scenario Outline: 08Test Case 1103981: Verify device information is cleared when
 
 
 
-Scenario Outline: 09Test Case 1105498: Verify that S&R Tool properly sets listening test settings
+Scenario Outline: 09Test Case ID 1105498: Verify that S&R Tool properly sets listening test settings
 		        
 				When [Create a Patient and add programs to HI In FSW "<AlterFSW>" and "<DeviceId>" and "<DeviceLeftSlNo>" and "<DeviceLeft>"]
 				Given [Change channel side in FDTS<DeviceLeft>]
@@ -205,7 +205,7 @@ Scenario Outline: 09Test Case 1105498: Verify that S&R Tool properly sets listen
 
 
 
-Scenario Outline: 10Test Case 1105696: Verify that fitting data is properly restored during restoration on new device (RTS)
+Scenario Outline: 10Test Case ID 1105696: Verify that fitting data is properly restored during restoration on new device (RTS)
 	Given [Cleaning up dumps before execution starts]
 	Given [Change channel side in FDTS<DeviceLeft>]
 	Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceLeftSlNo>" and "<FlashHI>" and "<DeviceLeft>"
@@ -257,7 +257,7 @@ Scenario Outline: 10Test Case 1105696: Verify that fitting data is properly rest
 
 	
 
-	Scenario Outline: 11Test Case 1105669: Verify that fitting data is properly restored during restoration on original device or Clone (SWAP)
+	Scenario Outline: 11Test Case ID 1105669: Verify that fitting data is properly restored during restoration on original device or Clone (SWAP)
         
 		
 		Given [Cleaning up dumps before execution starts]
@@ -315,7 +315,7 @@ Scenario Outline: 10Test Case 1105696: Verify that fitting data is properly rest
 
 
 
-Scenario Outline: 12Test case 1629628: Verify that firmware is upgraded if conditions apply
+Scenario Outline: 12Test case ID 1629628: Verify that firmware is upgraded if conditions apply
 
 			Given [Change channel side in FDTS<DeviceLeft>]
 			Given Launch FDTS WorkFlow And Flash Device "<DeviceId>" and "<DeviceLeftSlNo>" and "<FlashHI>" and "<DeviceLeft>"
@@ -342,7 +342,7 @@ Scenario Outline: 12Test case 1629628: Verify that firmware is upgraded if condi
 	#| RT961-DRWC | Left       | Right       | Device A | Device B | Device C | Device D | Temp       | Yes      | No         | 2000816934 | NoDev    | 2000816936     | Yes     |
 
 
-Scenario Outline: 13Test Case 1629629: Verify that firmware is downgraded if conditions apply
+Scenario Outline: 13Test Case ID 1629629: Verify that firmware is downgraded if conditions apply
 
 
 			Given [Change channel side in FDTS<DeviceLeft>]
