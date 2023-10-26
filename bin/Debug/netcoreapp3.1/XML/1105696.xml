@@ -120,7 +120,7 @@
     <TestStepID>15</TestStepID>
     <TestStatus>PASS</TestStatus>
   </TFSTestResultsSet>
-   <TFSTestResultsSet>
+  <TFSTestResultsSet>
     <TestPlanID>1633245</TestPlanID>
     <TestSuitID>1633281</TestSuitID>
     <TestCaseID>1537268</TestCaseID>
