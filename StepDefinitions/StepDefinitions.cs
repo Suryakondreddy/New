@@ -301,7 +301,14 @@ namespace MyNamespace
 
                 else if (devName.Contains("RE"))
                 {
-                    session.FindElementByName(devName + " [1] (Final)").Click();
+                    try
+                    {
+                        session.FindElementByName(devName + " [1] (Final)").Click();
+                    }
+                    catch (Exception e)
+                    {
+                        session.FindElementByName(devName + " (Final)").Click();
+                    }
                 }
              
                 session.FindElementByName("Continue >>").Click();
