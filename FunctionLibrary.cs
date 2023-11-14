@@ -25,6 +25,9 @@ using Range = Microsoft.Office.Interop.Excel.Range;
 using System.Collections.ObjectModel;
 using TechTalk.SpecFlow;
 using NUnit.Framework.Internal;
+using Castle.Core.Internal;
+using System.IO.Compression;
+using Xamarin.Forms.Internals;
 
 namespace AppiumWinApp
 {
@@ -1693,6 +1696,753 @@ namespace AppiumWinApp
                 doc.Save(filePath);
 
             }// Save the updated XML document
+
+        }
+
+
+        public void Azurefile(WindowsDriver<WindowsElement> session)
+        {
+
+
+            string directloc = textDir + "\\azurefiles";
+
+            // files list from the root directory and its subdirectories and prints it
+            string[] fyles = Directory.GetFileSystemEntries(directloc, "*", SearchOption.AllDirectories);
+            Console.WriteLine(String.Join(System.Environment.NewLine, fyles));
+            string file = String.Join(System.Environment.NewLine, fyles);
+
+            //test = extent.CreateTest(ScenarioStepContext.Current.StepInfo.Text.ToString());
+            string sourceFile = file;
+
+
+            // Create a FileInfo  
+            System.IO.FileInfo fi = new System.IO.FileInfo(sourceFile);
+
+            //Check if file is there
+
+            if (fi.Exists)
+            {
+
+                fi.MoveTo(file + ".rar");
+                Console.WriteLine("File Renamed." + fi);
+
+            }
+
+            string zipFilePath = textDir + "\\azurefiles\\" + fi.Name;
+            string extractPath = textDir + "\\azurefiles";
+            ZipFile.ExtractToDirectory(zipFilePath, extractPath);
+            Console.WriteLine("ZIP file extracted successfully.");
+            System.IO.FileInfo rarfile = new System.IO.FileInfo(zipFilePath);
+            if (rarfile.Exists)
+            {
+                rarfile.Delete();
+            }
+
+        }
+
+
+        public XmlNodeList SelectNodesInXml(XmlDocument xmlDocument, string xPathQuery)
+        {
+
+            return xmlDocument.SelectNodes(xPathQuery);
+
+        }
+
+
+
+
+        string file2;
+
+        public void AzureFileCompare(WindowsDriver<WindowsElement> session, ExtentTest test)
+
+        {
+
+
+            try
+            {
+                session = ModuleFunctions.launchApp(Directory.GetCurrentDirectory() + "\\LaunchSandR.bat", Directory.GetCurrentDirectory());
+
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+            }
+
+            Thread.Sleep(5000);
+
+            session = ModuleFunctions.sessionInitialize("C:\\Program Files (x86)\\GN Hearing\\Lucan\\App\\Lucan.App.UI.exe", "C:\\Program Files (x86)\\GN Hearing\\Lucan\\App");
+
+            var di = session.FindElementByAccessibilityId("ScrollView");
+
+            ReadOnlyCollection<AppiumWebElement> list = (ReadOnlyCollection<AppiumWebElement>)di.FindElementsByClassName("TextBlock");
+
+            string[] DevicedetailsNames = new string[list.Count];
+
+            foreach (AppiumWebElement element in list)
+            {
+                //Console.WriteLine(element.Text);
+                int P = 1;
+                for (int i = 0; i < list.Count; i++)
+                {
+                    var ss_Parent = session.FindElementsByClassName("TextBlock")[i].Text;
+                    DevicedetailsNames[i] = ss_Parent;
+                    Console.WriteLine(DevicedetailsNames[i]);
+                }
+                break;
+            }
+
+            session.SwitchTo().Window(session.WindowHandles.First());
+            var Dr = session.FindElementByAccessibilityId("ScrollView");
+            ReadOnlyCollection<AppiumWebElement> list1 = (ReadOnlyCollection<AppiumWebElement>)Dr.FindElementsByClassName("TextBox");
+
+            string[] windowvalues = new string[list1.Count];
+
+
+            foreach (AppiumWebElement element in list1)
+            {
+                //Console.WriteLine(element.Text);
+                int P = 1;
+                for (int i = 0; i < list1.Count; i++)
+                {
+                    var ss_Parent1 = session.FindElementsByClassName("TextBox")[i].Text;
+                    windowvalues[i] = ss_Parent1;
+
+                    Console.WriteLine(windowvalues[i]);
+
+                }
+                break;
+            }
+
+            FunctionLibrary lib = new FunctionLibrary();
+
+            lib.Azurefile(session);
+            string directloc1 = textDir + "\\azurefiles";
+            string[] fyles2 = Directory.GetFileSystemEntries(directloc1, "*", SearchOption.AllDirectories);
+            Console.WriteLine(String.Join(System.Environment.NewLine, fyles2));
+
+            //if (fyles2.Count()>1)
+            //{
+            //    file2 = 
+            //}           
+            
+            string sourceFile2;
+
+            if (fyles2.Count() > 1)
+            {
+                sourceFile2 = String.Join(System.Environment.NewLine, fyles2[1]);
+            }
+            else
+            {
+
+                sourceFile2 = String.Join(System.Environment.NewLine, fyles2[0]);
+            }
+
+
+            // Create a FileInfo  
+            System.IO.FileInfo fi2 = new System.IO.FileInfo(sourceFile2);
+            // Check if file is there  
+            if (fi2.Exists)
+            {
+                // Move file with a new name. Hence renamed.  
+                fi2.MoveTo(fi2 + ".Xml");
+                Console.WriteLine("File Renamed.");
+            }
+
+
+            test.Log(Status.Info, "Device information is captured in excel file");
+            XmlNodeList node;
+            XmlDocument xmlDoc = new XmlDocument();
+            string path = fi2.FullName;
+            xmlDoc.Load(path);
+            XmlNodeList Node1 = lib.SelectNodesInXml(xmlDoc, "//DeviceInfos");
+            XmlNodeList Node2 = lib.SelectNodesInXml(xmlDoc, "//ServiceRecord");
+
+
+            if (Node1.IsNullOrEmpty())
+            {
+                node = Node2;
+
+                test.Log(Status.Info, "To Strat the checking of overall Azure data ");
+
+                // Loop through the XML nodes and store attribute values in the array
+
+                foreach (XmlNode node2 in node)
+                {
+                    // Create an array to store the values 
+                    string[] attributeValues = new string[node2.ChildNodes.Count];
+
+                    for (int i = 0; i < node2.ChildNodes.Count; i++)
+                    {
+                        var data = node2.ChildNodes[i].Name;
+                        var data2 = node2.ChildNodes[i].InnerText;
+                        if (data2.IsNullOrEmpty())
+                        {
+                            Console.WriteLine(node2.ChildNodes[i] + "=" + data2);
+                            test.Log(Status.Fail, data + "=" + data2);
+                        }
+                        if (!data2.IsNullOrEmpty())
+                        {
+                            Console.WriteLine(node2.ChildNodes[i] + "=" + data2);
+                            test.Log(Status.Pass, data + "=" + data2);
+                        }
+
+                        attributeValues[i] = node2.ChildNodes[i].InnerText;
+                        Console.WriteLine(attributeValues[i]);
+
+                    }
+
+                    test.Log(Status.Info, "To Completed the verification of overall Azure data");
+
+                    test.Log(Status.Info, "To start the Comparing of S&R Device Information data and Azure data");
+
+                    foreach (var names in DevicedetailsNames)
+                    {
+
+                        switch (names)
+                        {
+                            case "Model Name":
+
+
+                                if (windowvalues[0].Equals(attributeValues[2]))
+                                {
+
+                                    test.Log(Status.Pass, DevicedetailsNames[12] + "=" + windowvalues[0] + "=" + attributeValues[2]);
+                                }
+                                else
+                                {
+                                    test.Log(Status.Fail, DevicedetailsNames[12] + "=" + windowvalues[0] + "=" + attributeValues[2]);
+                                }
+
+                                break;
+
+                            case "Serial Number":
+
+
+                                if (windowvalues[2].Equals(attributeValues[5]))
+                                {
+                                    test.Log(Status.Pass, DevicedetailsNames[14] + "=" + windowvalues[2] + " = " + attributeValues[5]);
+                                }
+                                else
+                                {
+                                    test.Log(Status.Fail, DevicedetailsNames[14] + "=" + windowvalues[2] + " = " + attributeValues[5]);
+                                }
+
+                                break;
+
+                            case "Private Label":
+
+
+                                if (attributeValues[12].Equals("0"))
+                                {
+                                    attributeValues[12] = "No";
+                                }
+
+
+                                if (windowvalues[1].Equals(attributeValues[12]))
+                                {
+                                    test.Log(Status.Pass, DevicedetailsNames[13] + "=" + windowvalues[1] + "=" + attributeValues[12]);
+                                    break;
+
+                                }
+
+                                else
+
+                                {
+                                    test.Log(Status.Fail, DevicedetailsNames[13] + "=" + windowvalues[1] + "=" + attributeValues[12]);
+
+                                }
+
+                                break;
+
+
+                            case "Hybrid S/N":
+
+
+                                if (windowvalues[3].Equals(attributeValues[6]))
+                                {
+                                    test.Log(Status.Pass, DevicedetailsNames[15] + "=" + windowvalues[3] + "=" + attributeValues[6]);
+                                }
+                                else
+                                {
+                                    test.Log(Status.Fail, DevicedetailsNames[15] + "=" + windowvalues[3] + "=" + attributeValues[6]);
+                                }
+                                break;
+
+
+                            case "Hybrid Version":
+
+
+                                if (windowvalues[4].Equals(attributeValues[11]))
+                                {
+                                    test.Log(Status.Pass, DevicedetailsNames[16] + "=" + windowvalues[4] + "=" + attributeValues[11]);
+                                }
+                                else
+                                {
+                                    test.Log(Status.Fail, DevicedetailsNames[16] + "=" + windowvalues[4] + "=" + attributeValues[11]);
+                                }
+
+                                break;
+
+
+                            case "Firmware Version":
+
+
+
+                                if (attributeValues[19].Equals("D1C01180101"))
+                                {
+                                    attributeValues[19] = "[1].18.1.1 (Dooku1)";
+                                }
+
+                                if (windowvalues[5].Equals(attributeValues[19]))
+                                {
+                                    test.Log(Status.Pass, DevicedetailsNames[17] + "=" + windowvalues[5] + "=" + attributeValues[19]);
+                                    break;
+                                }
+                                else
+                                {
+                                    test.Log(Status.Fail, DevicedetailsNames[17] + "=" + windowvalues[5] + "=" + attributeValues[19]);
+                                }
+
+                                break;
+
+
+                            case "Final Test Date":
+
+
+                                if (windowvalues[16].Equals(attributeValues[15]))
+                                {
+                                    test.Log(Status.Pass, DevicedetailsNames[28] + "=" + windowvalues[16] + "=" + attributeValues[15]);
+                                }
+                                else
+                                {
+                                    test.Log(Status.Fail, DevicedetailsNames[28] + "=" + windowvalues[16] + "=" + attributeValues[15]);
+                                }
+
+                               break;
+
+
+                            case "Test Program":
+
+
+
+                                if (windowvalues[17].Equals(attributeValues[18]))
+                                {
+                                    test.Log(Status.Pass, DevicedetailsNames[29] + "=" + windowvalues[17] + "=" + attributeValues[18]);
+                                }
+                                else
+                                {
+                                    test.Log(Status.Fail, DevicedetailsNames[29] + "=" + windowvalues[17] + "=" + attributeValues[18]);
+                                }
+
+                                break;
+
+
+
+                            case "Test Station":
+
+
+                                if (windowvalues[18].Equals(attributeValues[17]))
+                                {
+                                    test.Log(Status.Pass, DevicedetailsNames[30] + "=" + windowvalues[18] + "=" + attributeValues[17]);
+                                }
+                                else
+                                {
+                                    test.Log(Status.Fail, DevicedetailsNames[30] + "=" + windowvalues[18] + "=" + attributeValues[17]);
+                                }
+
+                                break;
+
+
+
+                            case "Test Site":
+
+
+
+                                if (windowvalues[19].Equals(attributeValues[16]))
+                                {
+                                    test.Log(Status.Pass, DevicedetailsNames[31] + "=" + windowvalues[19] + "=" + attributeValues[16]);
+                                }
+                                else
+                                {
+                                    test.Log(Status.Fail, DevicedetailsNames[31] + "=" + windowvalues[19] + "=" + attributeValues[16]);
+                                }
+
+                                break;
+
+
+
+                            case "Fitting Software":
+
+
+                                if (windowvalues[20].Equals(attributeValues[20]))
+                                {
+                                    test.Log(Status.Pass, DevicedetailsNames[32] + "=" + windowvalues[20] + "=" + attributeValues[20]);
+                                }
+                                else
+                                {
+                                    test.Log(Status.Fail, DevicedetailsNames[32] + "=" + windowvalues[20] + "=" + attributeValues[20]);
+                                }
+
+                               break;
+
+
+
+                            case "Fitting Side":
+
+
+
+                                if (windowvalues[21].Equals(attributeValues[21]))
+                                {
+                                    test.Log(Status.Pass, DevicedetailsNames[33] + "=" + windowvalues[21] + "=" + attributeValues[21]);
+                                }
+                                else
+                                {
+                                    test.Log(Status.Fail, DevicedetailsNames[33] + "=" + windowvalues[21] + "=" + attributeValues[21]);
+                                }
+
+                                break;
+
+
+
+                            case "Cloud HIID":
+
+
+                                if (windowvalues[23].Equals(attributeValues[9]))
+                                {
+                                    test.Log(Status.Pass, DevicedetailsNames[33] + "=" + windowvalues[23] + "=" + attributeValues[9]);
+                                }
+                                else
+                                {
+                                    test.Log(Status.Fail, DevicedetailsNames[33] + "=" + windowvalues[23] + "=" + attributeValues[9]);
+                                }
+
+                                break;
+
+                        }
+
+                    }
+
+                }
+
+
+                test.Log(Status.Info, "Azure Xml data and S&R Device Info details Compared Successfully");
+
+            }
+            else
+            {
+                node = Node1;
+
+                test.Log(Status.Info, "To Strat the checking of overall Azure data ");
+
+               // Loop through the XML nodes and store attribute values in the array
+
+                foreach (XmlNode node2 in node)
+                {
+                    // Create an array to store the values 
+                    string[] attributeValues = new string[node2.ChildNodes.Count];
+
+                    for (int i = 0; i < node2.ChildNodes.Count; i++)
+                    {
+                        var data = node2.ChildNodes[i].Name;
+                        var data2 = node2.ChildNodes[i].InnerText;
+                        if (data2.IsNullOrEmpty())
+                        {
+                            Console.WriteLine(node2.ChildNodes[i] + "=" + data2);
+                            test.Log(Status.Fail, data + "=" + data2);
+                        }
+                        if (!data2.IsNullOrEmpty())
+                        {
+                            Console.WriteLine(node2.ChildNodes[i] + "=" + data2);
+                            test.Log(Status.Pass, data + "=" + data2);
+                        }
+
+                        attributeValues[i] = node2.ChildNodes[i].InnerText;
+                        Console.WriteLine(attributeValues[i]);
+
+                    }
+
+                    test.Log(Status.Info, "To Completed the verification of overall Azure data");
+
+                    test.Log(Status.Info, "To start the Comparing of S&R Device Information data and Azure data");
+
+                    foreach (var names in DevicedetailsNames)
+                    {
+
+                        switch (names)
+                        {
+                            case "Model Name":
+
+
+                                if (windowvalues[0].Equals(attributeValues[28]))
+                                {
+                                    test.Log(Status.Pass, DevicedetailsNames[12] + "=" + windowvalues[0] + "=" + attributeValues[28]);
+                                }
+                                else
+                                {
+                                    test.Log(Status.Fail, DevicedetailsNames[12] + "=" + windowvalues[0] + "=" + attributeValues[28]);
+                                }
+                                break;
+
+
+                            case "Serial Number":
+
+                                if (windowvalues[2] == attributeValues[1])
+                                {
+                                    test.Log(Status.Pass, DevicedetailsNames[14] + "=" + windowvalues[2] + " = " + attributeValues[1]);
+                                }
+                                else
+                                {
+                                    test.Log(Status.Fail, DevicedetailsNames[14] + "=" + windowvalues[2] + " = " + attributeValues[1]);
+                                }
+                                break;
+
+                            case "Private Label":
+
+                                if (attributeValues[20] == "0")
+                                {
+                                    attributeValues[20] = "No";
+                                }
+
+                                if (windowvalues[1].Equals(attributeValues[20]))
+                                {
+                                    test.Log(Status.Pass, DevicedetailsNames[13] + "=" + windowvalues[1] + "=" + attributeValues[20]);
+                                    break;
+                                }
+
+                                break;
+
+                            case "Hybrid S/N":
+
+                                if (windowvalues[3].Equals(attributeValues[5]))
+                                {
+                                    test.Log(Status.Pass, DevicedetailsNames[15] + "=" + windowvalues[3] + "=" + attributeValues[5]);
+                                }
+                                else
+                                {
+                                    test.Log(Status.Fail, DevicedetailsNames[15] + "=" + windowvalues[3] + "=" + attributeValues[5]);
+                                }
+
+                                break;
+
+                            case "Hybrid Version":
+
+                                if (windowvalues[4].Equals(attributeValues[10]))
+                                {
+                                    test.Log(Status.Pass, DevicedetailsNames[16] + "=" + windowvalues[4] + "=" + attributeValues[10]);
+                                }
+                                else
+                                {
+                                    test.Log(Status.Fail, DevicedetailsNames[16] + "=" + windowvalues[4] + "=" + attributeValues[10]);
+                                }
+
+                                break;
+
+                            case "Firmware Version":
+
+
+                                if (attributeValues[26].Equals("D1C01180101"))
+                                {
+                                    attributeValues[26] = "[1].18.1.1 (Dooku1)";
+                                }
+                                if (windowvalues[5].Equals(attributeValues[26]))
+                                {
+                                    test.Log(Status.Pass, DevicedetailsNames[17] + "=" + windowvalues[5] + "=" + attributeValues[26]);
+                                    break;
+                                }
+
+                                break;
+
+                            case "Push Button":
+
+
+                                if (attributeValues[16].Equals("True"))
+                                {
+                                    attributeValues[16] = "Yes";
+                                }
+                                if (attributeValues[16].Equals("False"))
+                                {
+                                    attributeValues[16] = "No";
+                                }
+                                if (windowvalues[8].Equals(attributeValues[16]))
+                                {
+                                    test.Log(Status.Pass, DevicedetailsNames[20] + "=" + windowvalues[8] + "=" + attributeValues[16]);
+                                    break;
+                                }
+
+                                break;
+
+                            case "Battery Type":
+
+                                if (attributeValues[31].Equals("True"))
+                                {
+                                    attributeValues[31] = "Varta Li 60L3";
+                                }
+                                if (attributeValues[31].Equals("false"))
+                                {
+                                    attributeValues[31] = " ";
+                                }
+                                if (windowvalues[14].Equals(attributeValues[31]))
+                                {
+                                    test.Log(Status.Pass, DevicedetailsNames[26] + "=" + windowvalues[14] + "=" + attributeValues[31]);
+                                    break;
+                                }
+                                break;
+
+
+                            case "Battery level":
+
+
+                                if ((attributeValues[32] == "8") || attributeValues[32] == "9" || attributeValues[32] == "7" || attributeValues[32] == "6" || attributeValues[32] == "5" || attributeValues[32] == "4" || attributeValues[32] == "3")
+                                {
+                                    attributeValues[32] = attributeValues[32] + "0%";
+                                }
+
+                                if (windowvalues[15].Equals(attributeValues[32]))
+                                {
+                                    test.Log(Status.Pass, DevicedetailsNames[27] + "=" + windowvalues[15] + "=" + attributeValues[32]);
+                                    break;
+                                }
+                                else
+                                {
+                                    test.Log(Status.Fail, DevicedetailsNames[27] + "=" + windowvalues[15] + "=" + attributeValues[32]);
+                                    break;
+                                }
+                                break;
+
+
+                            case "Final Test Date":
+
+                                if (windowvalues[16] == attributeValues[22])
+                                {
+                                    test.Log(Status.Pass, DevicedetailsNames[28] + "=" + windowvalues[16] + "=" + attributeValues[22]);
+                                }
+                                else
+                                {
+                                    test.Log(Status.Fail, DevicedetailsNames[28] + "=" + windowvalues[16] + "=" + attributeValues[22]);
+                                }
+
+                                break;
+
+                            case "Test Program":
+
+                                if (windowvalues[17] == attributeValues[25])
+                                {
+                                    test.Log(Status.Pass, DevicedetailsNames[29] + "=" + windowvalues[17] + "=" + attributeValues[25]);
+                                }
+                                else
+                                {
+                                    test.Log(Status.Fail, DevicedetailsNames[29] + "=" + windowvalues[17] + "=" + attributeValues[25]);
+                                }
+
+                                break;
+
+                            case "Test Station":
+
+                                if (windowvalues[18] == attributeValues[24])
+                                {
+                                    test.Log(Status.Pass, DevicedetailsNames[30] + "=" + windowvalues[18] + "=" + attributeValues[24]);
+                                }
+                                else
+                                {
+                                    test.Log(Status.Fail, DevicedetailsNames[30] + "=" + windowvalues[18] + "=" + attributeValues[24]);
+                                }
+
+                                break;
+
+                            case "Test Site":
+
+
+                                if (windowvalues[19] == attributeValues[23])
+                                {
+                                    test.Log(Status.Pass, DevicedetailsNames[31] + "=" + windowvalues[19] + "=" + attributeValues[23]);
+                                }
+                                else
+                                {
+                                    test.Log(Status.Fail, DevicedetailsNames[31] + "=" + windowvalues[19] + "=" + attributeValues[23]);
+                                }
+
+                                break;
+
+                            case "Fitting Software":
+
+
+                                if (windowvalues[20] == attributeValues[27])
+                                {
+                                    test.Log(Status.Pass, DevicedetailsNames[32] + "=" + windowvalues[20] + "=" + attributeValues[27]);
+                                }
+                                else
+                                {
+                                    test.Log(Status.Fail, DevicedetailsNames[32] + "=" + windowvalues[20] + "=" + attributeValues[27]);
+                                }
+
+                                break;
+
+                            case "Fitting Side":
+
+
+                                if (windowvalues[21] == attributeValues[14])
+                                {
+                                    test.Log(Status.Pass, DevicedetailsNames[33] + "=" + windowvalues[21] + "=" + attributeValues[14]);
+                                }
+                                else
+                                {
+                                    test.Log(Status.Fail, DevicedetailsNames[33] + "=" + windowvalues[21] + "=" + attributeValues[14]);
+                                }
+
+                                break;
+
+                            case "Cloud HIID":
+
+                                if (windowvalues[23] == attributeValues[8])
+                                {
+                                    test.Log(Status.Pass, DevicedetailsNames[33] + "=" + windowvalues[23] + "=" + attributeValues[8]);
+                                }
+                                else
+                                {
+                                    test.Log(Status.Fail, DevicedetailsNames[33] + "=" + windowvalues[23] + "=" + attributeValues[8]);
+                                }
+
+                                break;
+                        }
+
+                    }
+
+                }
+
+                test.Log(Status.Info, "Azure Xml data and S&R Device Info details Compared Successfully");
+
+            }
+            string File;
+            string File2;
+            string path2 = textDir + "\\azurefiles";
+            string[] fyles3 = Directory.GetFileSystemEntries(path2, "*", SearchOption.AllDirectories);
+            Console.WriteLine(String.Join(System.Environment.NewLine, fyles3));
+            string file3 = String.Join(System.Environment.NewLine, fyles3[0]);
+            
+            // Check if file is there    
+            if (fyles3.Count() > 1)
+            {
+
+                File = String.Join(System.Environment.NewLine, fyles3[1]);
+                File2 = file3;
+            }
+            else
+            {
+                File = file3;
+                File2 = null;
+            }
+            System.IO.FileInfo anyfile1 = new System.IO.FileInfo(File);
+            if(File2!= null)
+            {
+                System.IO.DirectoryInfo anyfile = new DirectoryInfo(File2);
+                anyfile.Delete();
+            }           
+            anyfile1.Delete();
+           
+
+
+            var Sandclose = session.FindElementByAccessibilityId("PART_Close");
+            Sandclose.Click();
 
         }
 

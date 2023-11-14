@@ -23,6 +23,8 @@ using Microsoft.VisualStudio.TestPlatform.CommunicationUtilities;
 using Microsoft.VisualStudio.TestPlatform.CommunicationUtilities;
 using Microsoft.VisualStudio.TestPlatform.ObjectModel.Client;
 using Microsoft.VisualStudio.TestPlatform.TestHost;
+using Microsoft.Azure.Storage;
+using Microsoft.Azure.Storage.Blob;
 using NUnit.Framework;
 using NUnit.Framework;
 using OfficeOpenXml.Drawing.Slicer.Style;
@@ -52,6 +54,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Diagnostics;
 using System.Drawing;
+using System.Globalization;
 //using Console = System.Console;
 using System.IO;
 using System.Linq;
@@ -72,6 +75,9 @@ using Xamarin.Forms;
 using Xamarin.Forms;
 using Console = System.Console;
 using Environment = System.Environment;
+using File = System.IO.File;
+using System.Threading.Tasks;
+using OfficeOpenXml.ConditionalFormatting;
 
 namespace MyNamespace
 {
@@ -1194,6 +1200,7 @@ namespace MyNamespace
             Thread.Sleep(5000);
 
             session = ModuleFunctions.sessionInitialize("C:\\Program Files (x86)\\GN Hearing\\Lucan\\App\\Lucan.App.UI.exe", "C:\\Program Files (x86)\\GN Hearing\\Lucan\\App");
+            //Thread.Sleep(10000);
             test.Log(Status.Pass, "S&R Tool launched successfully");
             session.FindElementByName("Device Info").Click();
             Thread.Sleep(2000);
@@ -1250,6 +1257,8 @@ namespace MyNamespace
 
                 test.Log(Status.Pass, "Dook2 Dev");
             }
+
+            
         }
 
 
@@ -1434,7 +1443,7 @@ namespace MyNamespace
 
         [When(@"\[Come back to Settings and wait till controls enabled]")]
         public void WhenComeBackToSettingsAndWaitTillControlsEnabled()
-        {
+         {
             test = extent.CreateTest(ScenarioStepContext.Current.StepInfo.Text.ToString());
             FunctionLibrary lib = new FunctionLibrary();
             Thread.Sleep(2000);
@@ -1446,6 +1455,107 @@ namespace MyNamespace
 
         /** Click on Disconnect button 
          *  Validates device information **/
+
+
+
+        [Given(@"\[Download and verify azure storage files ""([^""]*)"" and ""([^""]*)""]")]
+        public async Task GivenDownloadAndVerifyAzureStorageFilesAsync(string scenarioTitle, string DeviceNo)
+        {
+            //var Sandclose = session.FindElementByAccessibilityId("PART_Close");
+           // Sandclose.Click();
+
+            test = extent.CreateTest(ScenarioStepContext.Current.StepInfo.Text.ToString());
+            // Define the connection string
+            string connectionString = "AccountName=camelotwesteudev;AccountKey=ylFzkolO9hUoR63VeJVr9On4QgnrEIHJPUdv8n1V2One8/7LdnZHfTYLJMVf7Pt7B9EVUIF1Xg/iXxoorXoruw==;EndpointSuffix=core.windows.net;DefaultEndpointsProtocol=https;";
+
+            // Determine the container name based on the scenario title
+            string containerName;
+
+            switch (scenarioTitle.ToLower())
+            {
+                case "capture":
+                    containerName = "camelot-hisettingscapture";
+                    break;
+                case "restore":
+                    containerName = "camelot-hisettingsrestore"; // Replace with the actual container name for "restore"
+                    break;
+                case "service records":
+                    containerName = "lucan-hiservicerecords"; // Replace with the actual container name for "service records"
+                    break;
+                default:
+                    Console.WriteLine("Invalid scenario title.");
+                    return;
+            }
+
+            // Define the destination folder
+            string destinationFolder = Path.Combine(Directory.GetCurrentDirectory(), "azurefiles");
+
+            // Ensure that the destination folder exists
+            Directory.CreateDirectory(destinationFolder);
+
+            // Parse the storage account connection string
+            CloudStorageAccount storageAccount = CloudStorageAccount.Parse(connectionString);
+
+            // Create a blob client
+            CloudBlobClient blobClient = storageAccount.CreateCloudBlobClient();
+
+            // Get a reference to the container
+            CloudBlobContainer container = blobClient.GetContainerReference(containerName);
+
+            // List blobs in the container
+            var blobList = container.ListBlobs(null, true);
+
+            // Filter matching blobs
+            var matchingBlob = blobList
+        .OfType<CloudBlockBlob>()
+        .Where(blob =>
+        {
+            if (containerName == "lucan-hiservicerecords")
+            {
+                // Parse the date from the blob name (assuming the date format is "yyyy-MM-dd")
+                var currentDate = DateTime.UtcNow.Date;
+                var formattedCurrentDate = currentDate.ToString("yyyy-MM-dd");
+
+                return Path.GetDirectoryName(blob.Name) == formattedCurrentDate;
+               
+
+                
+            }
+
+            
+            return !blob.Name.Contains(DeviceNo);
+        })
+        .OrderByDescending(blob => blob.Properties.LastModified)
+        .FirstOrDefault();
+
+            if (matchingBlob != null)
+            {
+                var destinationFilePath = Path.Combine(destinationFolder, Path.GetFileName(matchingBlob.Name));
+
+                // Download the matching blob
+                using (var fileStream = File.OpenWrite(destinationFilePath))
+                {
+                    matchingBlob.DownloadToStream(fileStream);
+                }
+
+                    test.Log(Status.Pass, "Downloaded the file for the current system date to: {destinationFilePath}");
+
+                if (containerName == "lucan-hiservicerecords")
+                {
+                    test.Log(Status.Pass, "Cloud service record is uploaded under today’s date");
+                }
+            }
+            else
+            {
+                test.Log(Status.Fail, "No matching files found for the specified serial number or date in the " + scenarioTitle + " container.");
+            }
+        
+        }
+        
+    
+
+
+        
 
 
 

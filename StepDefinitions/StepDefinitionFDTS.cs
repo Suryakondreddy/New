@@ -28,6 +28,8 @@ using AppiumWinApp.PageFactory;
 using AventStack.ExtentReports.Model;
 using System.Configuration;
 using System.Xml.Linq;
+using OpenQA.Selenium.Appium;
+using System.Collections.ObjectModel;
 
 namespace AppiumWinApp.StepDefinitions
 {
@@ -819,7 +821,24 @@ namespace AppiumWinApp.StepDefinitions
         }
 
 
+        [Then(@"\[Do the Comparison between Azure Data and SandR Data]")]
+        public void ThenDoTheComparisonBetweenAzureDataAndSandRData()
+        {
+            //throw new PendingStepException();
 
+            test = extent.CreateTest(ScenarioStepContext.Current.StepInfo.Text.ToString());
+
+
+            FunctionLibrary lib = new FunctionLibrary();
+
+            Thread.Sleep(15000);
+            //session = lib.waitForElement(session, "Model Name");
+
+            //Thread.Sleep(2000);
+            //session.SwitchTo().Window(session.WindowHandles.First());
+            lib.AzureFileCompare(session, test);
+            
+        }
 
 
         [Given(@"\[Launch FDTS]")]
