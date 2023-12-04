@@ -888,11 +888,12 @@ namespace AppiumWinApp.StepDefinitions
         }
 
 
-        [AfterScenario]
+       // [AfterScenario]
 
         [Then(@"\[done]")]
         public void ThenDone()
         {
+
             Console.WriteLine("This is Done method");
             var scenarioContext = ScenarioContext.Current;
             var testStatus = scenarioContext.TestError == null ? "PASS" : "FAIL";
@@ -976,7 +977,8 @@ namespace AppiumWinApp.StepDefinitions
             try
 
             {
-                string agentPath = Path.Combine(Directory.GetCurrentDirectory(), @"XML\TFS API\TFS.Agent.Run\bin\Debug\TFS.Agent.Run.exe");
+
+                string agentPath = Path.Combine(Directory.GetCurrentDirectory(), @"TFS API\TFS.Agent.Run\bin\Debug\TFS.Agent.Run.exe");
 
                 if (System.IO.File.Exists(agentPath))
                 {
@@ -1005,10 +1007,13 @@ namespace AppiumWinApp.StepDefinitions
 
                     Console.WriteLine("Standard Error:");
                     Console.WriteLine(standardError);
+
+                   
                 }
                 else
                 {
                     Console.WriteLine("TFS agent executable not found at the specified path.");
+                   
                 }
             }
 
@@ -1018,7 +1023,5 @@ namespace AppiumWinApp.StepDefinitions
             }
 
         }
-
-
     }
 }

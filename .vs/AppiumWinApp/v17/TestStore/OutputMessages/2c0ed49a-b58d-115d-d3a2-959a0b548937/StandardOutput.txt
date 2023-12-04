@@ -1,0 +1,534 @@
+FirstBeforeScenario Run
+No scenarios found in the config file.
+Starting scenario: 15Test Case ID 1105521: Verify the data saved during restore in Camelot Cloud
+Starting 15Test Case ID 1105521: Verify the data saved during restore in Camelot Cloud
+Test Case ID: 1105521
+When [Create a Patient and Fitting HI In FSW "<AlterFSWNo>" and "RT961-DRWC" and "2000816936" and "Left"]
+This is When method
+An element could not be located on the page using the given search parameters.
+System.Diagnostics.Process (Idle)
+System.Diagnostics.Process (System)
+System.Diagnostics.Process (Secure System)
+System.Diagnostics.Process (Registry)
+System.Diagnostics.Process (smss)
+System.Diagnostics.Process (csrss)
+System.Diagnostics.Process (wininit)
+System.Diagnostics.Process (csrss)
+System.Diagnostics.Process (services)
+System.Diagnostics.Process (LsaIso)
+System.Diagnostics.Process (lsass)
+System.Diagnostics.Process (winlogon)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (fontdrvhost)
+System.Diagnostics.Process (fontdrvhost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (dwm)
+System.Diagnostics.Process (WUDFHost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (IntelCpHDCPSvc)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (Memory Compression)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (dasHost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (spoolsv)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (wlanext)
+System.Diagnostics.Process (conhost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (AnyDesk)
+System.Diagnostics.Process (Bagu.KLM.Agent.Service)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (OneApp.IGCC.WinService)
+System.Diagnostics.Process (EPWD)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (Lancelot.SystemLogServices.WinService)
+System.Diagnostics.Process (SmartByteNetworkService)
+System.Diagnostics.Process (SmartByteAnalyticsService)
+System.Diagnostics.Process (Merlin.DataTransferServices.Client.WinService)
+System.Diagnostics.Process (RstMwService)
+System.Diagnostics.Process (vncserver)
+System.Diagnostics.Process (sqlwriter)
+System.Diagnostics.Process (MK.AgentService)
+System.Diagnostics.Process (OfficeClickToRun)
+System.Diagnostics.Process (WavesAudioService)
+System.Diagnostics.Process (WavesSysSvc64)
+System.Diagnostics.Process (MsMpEng)
+System.Diagnostics.Process (WMIRegistrationService)
+System.Diagnostics.Process (TracSrvWrapper)
+System.Diagnostics.Process (dasHost)
+System.Diagnostics.Process (jhi_service)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (vncagent)
+System.Diagnostics.Process (ipf_uf)
+System.Diagnostics.Process (conhost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (RAPSService)
+System.Diagnostics.Process (RAPS)
+System.Diagnostics.Process (conhost)
+System.Diagnostics.Process (AggregatorHost)
+System.Diagnostics.Process (sqlservr)
+System.Diagnostics.Process (ReportingServicesService)
+System.Diagnostics.Process (ipf_helper)
+System.Diagnostics.Process (sihost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (taskhostw)
+System.Diagnostics.Process (vncserverui)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (explorer)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (SearchIndexer)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (fdlauncher)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (fdhost)
+System.Diagnostics.Process (conhost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (StartMenuExperienceHost)
+System.Diagnostics.Process (LocationNotificationWindows)
+System.Diagnostics.Process (RuntimeBroker)
+System.Diagnostics.Process (RuntimeBroker)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (dllhost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (ctfmon)
+System.Diagnostics.Process (LockApp)
+System.Diagnostics.Process (RuntimeBroker)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (NisSrv)
+System.Diagnostics.Process (PhoneExperienceHost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (SecurityHealthSystray)
+System.Diagnostics.Process (SecurityHealthService)
+System.Diagnostics.Process (RuntimeBroker)
+System.Diagnostics.Process (WavesSvc64)
+System.Diagnostics.Process (OneDrive)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (Teams)
+System.Diagnostics.Process (Teams)
+System.Diagnostics.Process (Teams)
+System.Diagnostics.Process (Teams)
+System.Diagnostics.Process (TextInputHost)
+System.Diagnostics.Process (Teams)
+System.Diagnostics.Process (XboxPcAppFT)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (ApplicationFrameHost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (msteams)
+System.Diagnostics.Process (RuntimeBroker)
+System.Diagnostics.Process (msedgewebview2)
+System.Diagnostics.Process (msedgewebview2)
+System.Diagnostics.Process (msedgewebview2)
+System.Diagnostics.Process (msedgewebview2)
+System.Diagnostics.Process (msedgewebview2)
+System.Diagnostics.Process (msedgewebview2)
+System.Diagnostics.Process (AnyDesk)
+System.Diagnostics.Process (jusched)
+System.Diagnostics.Process (TrGUI)
+System.Diagnostics.Process (FSNotify)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (devenv)
+System.Diagnostics.Process (PerfWatson2)
+System.Diagnostics.Process (ShellExperienceHost)
+System.Diagnostics.Process (RuntimeBroker)
+System.Diagnostics.Process (Microsoft.ServiceHub.Controller)
+System.Diagnostics.Process (ServiceHub.VSDetouredHost)
+System.Diagnostics.Process (ServiceHub.TestWindowStoreHost)
+System.Diagnostics.Process (ServiceHub.IdentityHost)
+System.Diagnostics.Process (ServiceHub.ThreadedWaitDialog)
+System.Diagnostics.Process (vstest.console)
+System.Diagnostics.Process (conhost)
+System.Diagnostics.Process (ServiceHub.Host.netfx.x86)
+System.Diagnostics.Process (ServiceHub.SettingsHost)
+System.Diagnostics.Process (ServiceHub.RoslynCodeAnalysisService)
+System.Diagnostics.Process (ServiceHub.IndexingService)
+System.Diagnostics.Process (ServiceHub.Host.dotnet.x64)
+System.Diagnostics.Process (ServiceHub.Host.AnyCPU)
+System.Diagnostics.Process (ServiceHub.IntellicodeModelService)
+System.Diagnostics.Process (ServiceHub.Host.dotnet.x64)
+System.Diagnostics.Process (DDVRulesProcessor)
+System.Diagnostics.Process (Dell.D3.WinSvc)
+System.Diagnostics.Process (DellSupportAssistRemedationService)
+System.Diagnostics.Process (WmiPrvSE)
+System.Diagnostics.Process (Dell.TechHub)
+System.Diagnostics.Process (FusionService)
+System.Diagnostics.Process (Dell.TechHub.Diagnostics.SubAgent)
+System.Diagnostics.Process (conhost)
+System.Diagnostics.Process (Dell.TechHub.Analytics.SubAgent)
+System.Diagnostics.Process (conhost)
+System.Diagnostics.Process (Dell.TechHub.DataManager.SubAgent)
+System.Diagnostics.Process (conhost)
+System.Diagnostics.Process (Dell.TechHub.Instrumentation.SubAgent)
+System.Diagnostics.Process (conhost)
+System.Diagnostics.Process (Dell.TechHub.Instrumentation.UserProcess)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (SupportAssistAgent)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (DDVDataCollector)
+System.Diagnostics.Process (DDVCollectorSvcApi)
+System.Diagnostics.Process (SystemSettings)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (UserOOBEBroker)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (SmartByteTelemetry)
+System.Diagnostics.Process (SystemSettingsBroker)
+System.Diagnostics.Process (jucheck)
+System.Diagnostics.Process (Dell.DCF.UA.Bradbury.API.SubAgent)
+System.Diagnostics.Process (conhost)
+System.Diagnostics.Process (ServiceShell)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (dllhost)
+System.Diagnostics.Process (taskhostw)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (FileCoAuth)
+System.Diagnostics.Process (XboxGameBarSpotify)
+System.Diagnostics.Process (RuntimeBroker)
+System.Diagnostics.Process (ServiceHub.DataWarehouseHost)
+System.Diagnostics.Process (WebViewHost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (TracCAPI)
+System.Diagnostics.Process (conhost)
+System.Diagnostics.Process (SearchHost)
+System.Diagnostics.Process (Widgets)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (servicehost)
+System.Diagnostics.Process (uihost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (Teams)
+System.Diagnostics.Process (Teams)
+System.Diagnostics.Process (Teams)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (WinAppDriver)
+System.Diagnostics.Process (conhost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (msedgewebview2)
+System.Diagnostics.Process (msedgewebview2)
+System.Diagnostics.Process (msedgewebview2)
+System.Diagnostics.Process (msedgewebview2)
+System.Diagnostics.Process (msedgewebview2)
+System.Diagnostics.Process (Notepad)
+System.Diagnostics.Process (msedgewebview2)
+System.Diagnostics.Process (msedgewebview2)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (dllhost)
+System.Diagnostics.Process (Socket_Box1)
+System.Diagnostics.Process (conhost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (testhost)
+System.Diagnostics.Process (conhost)
+System.Diagnostics.Process (SmartFitSA)
+System.Diagnostics.Process (WmiPrvSE)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (svchost)
+System.Diagnostics.Process (backgroundTaskHost)
+System.Diagnostics.Process (WmiPrvSE)
+System.Diagnostics.Process (WmiPrvSE)
+-> done: StepDefinitions.WhenCreateAPatientAndFittingHIInFSW("<AlterFSWNo>", "RT961-DRWC", "2000816936", "Left") (298.8s)
+When [Launch SandR "RT961-DRWC" and "2000816936"]
+System.InvalidOperationException: The system cannot find the file specified
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.StartSession(ICapabilities desiredCapabilities)
+   at OpenQA.Selenium.Remote.RemoteWebDriver..ctor(ICommandExecutor commandExecutor, ICapabilities desiredCapabilities)
+   at OpenQA.Selenium.Appium.AppiumDriver`1..ctor(ICommandExecutor commandExecutor, ICapabilities desiredCapabilities)
+   at OpenQA.Selenium.Appium.AppiumDriver`1..ctor(Uri remoteAddress, ICapabilities desiredCapabilities, TimeSpan commandTimeout)
+   at OpenQA.Selenium.Appium.AppiumDriver`1..ctor(Uri remoteAddress, ICapabilities desiredCapabilities)
+   at OpenQA.Selenium.Appium.Windows.WindowsDriver`1..ctor(Uri remoteAddress, DesiredCapabilities desiredCapabilities)
+   at AppiumWinApp.ModuleFunctions.launchApp(String name, String dir) in C:\Users\iray3\source\repos\PrasadPuvvala\sandr\ModuleFunctions.cs:line 93
+   at MyNamespace.StepDefinitions.WhenLaunchSandR(String device, String DeviceNo) in C:\Users\iray3\source\repos\PrasadPuvvala\sandr\StepDefinitions\StepDefinitions.cs:line 1245
+-> done: StepDefinitions.WhenLaunchSandR("RT961-DRWC", "2000816936") (92.5s)
+When [Come back to Settings and wait till controls enabled]
+-> done: StepDefinitions.WhenComeBackToSettingsAndWaitTillControlsEnabled() (2.3s)
+When [Perform Capture"RT961-DRWC"]
+-> done: StepDefinitions.WhenPerformCapture("RT961-DRWC") (64.7s)
+When [Perform Restore with above captured image "RT961-DRWC" and "2000816936"]
+System.InvalidOperationException: The system cannot find the file specified
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.StartSession(ICapabilities desiredCapabilities)
+   at OpenQA.Selenium.Remote.RemoteWebDriver..ctor(ICommandExecutor commandExecutor, ICapabilities desiredCapabilities)
+   at OpenQA.Selenium.Appium.AppiumDriver`1..ctor(ICommandExecutor commandExecutor, ICapabilities desiredCapabilities)
+   at OpenQA.Selenium.Appium.AppiumDriver`1..ctor(Uri remoteAddress, ICapabilities desiredCapabilities, TimeSpan commandTimeout)
+   at OpenQA.Selenium.Appium.AppiumDriver`1..ctor(Uri remoteAddress, ICapabilities desiredCapabilities)
+   at OpenQA.Selenium.Appium.Windows.WindowsDriver`1..ctor(Uri remoteAddress, DesiredCapabilities desiredCapabilities)
+   at AppiumWinApp.ModuleFunctions.launchApp(String name, String dir) in C:\Users\iray3\source\repos\PrasadPuvvala\sandr\ModuleFunctions.cs:line 93
+   at MyNamespace.StepDefinitions.WhenPerformRestoreWithAboveCapturedImage(String device, String DeviceNo) in C:\Users\iray3\source\repos\PrasadPuvvala\sandr\StepDefinitions\StepDefinitions.cs:line 1833
+-> done: StepDefinitions.WhenPerformRestoreWithAboveCapturedImage("RT961-DRWC", "2000816936") (173.2s)
+Given [Download and verify azure storage files "restore" and "2000816936"]
+-> done: StepDefinitions.GivenDownloadAndVerifyAzureStorageFilesAsync("restore", "2000816936") (31.1s)
+When [Launch SandR "RT961-DRWC" and "2000816936"]
+System.InvalidOperationException: The system cannot find the file specified
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.StartSession(ICapabilities desiredCapabilities)
+   at OpenQA.Selenium.Remote.RemoteWebDriver..ctor(ICommandExecutor commandExecutor, ICapabilities desiredCapabilities)
+   at OpenQA.Selenium.Appium.AppiumDriver`1..ctor(ICommandExecutor commandExecutor, ICapabilities desiredCapabilities)
+   at OpenQA.Selenium.Appium.AppiumDriver`1..ctor(Uri remoteAddress, ICapabilities desiredCapabilities, TimeSpan commandTimeout)
+   at OpenQA.Selenium.Appium.AppiumDriver`1..ctor(Uri remoteAddress, ICapabilities desiredCapabilities)
+   at OpenQA.Selenium.Appium.Windows.WindowsDriver`1..ctor(Uri remoteAddress, DesiredCapabilities desiredCapabilities)
+   at AppiumWinApp.ModuleFunctions.launchApp(String name, String dir) in C:\Users\iray3\source\repos\PrasadPuvvala\sandr\ModuleFunctions.cs:line 93
+   at MyNamespace.StepDefinitions.WhenLaunchSandR(String device, String DeviceNo) in C:\Users\iray3\source\repos\PrasadPuvvala\sandr\StepDefinitions\StepDefinitions.cs:line 1245
+-> done: StepDefinitions.WhenLaunchSandR("RT961-DRWC", "2000816936") (95.1s)
+Then [Do the Comparison between Azure Data and SandR Data]
+System.InvalidOperationException: The system cannot find the file specified
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.StartSession(ICapabilities desiredCapabilities)
+   at OpenQA.Selenium.Remote.RemoteWebDriver..ctor(ICommandExecutor commandExecutor, ICapabilities desiredCapabilities)
+   at OpenQA.Selenium.Appium.AppiumDriver`1..ctor(ICommandExecutor commandExecutor, ICapabilities desiredCapabilities)
+   at OpenQA.Selenium.Appium.AppiumDriver`1..ctor(Uri remoteAddress, ICapabilities desiredCapabilities, TimeSpan commandTimeout)
+   at OpenQA.Selenium.Appium.AppiumDriver`1..ctor(Uri remoteAddress, ICapabilities desiredCapabilities)
+   at OpenQA.Selenium.Appium.Windows.WindowsDriver`1..ctor(Uri remoteAddress, DesiredCapabilities desiredCapabilities)
+   at AppiumWinApp.ModuleFunctions.launchApp(String name, String dir) in C:\Users\iray3\source\repos\PrasadPuvvala\sandr\ModuleFunctions.cs:line 93
+   at AppiumWinApp.FunctionLibrary.AzureFileCompare(WindowsDriver`1 session, ExtentTest test) in C:\Users\iray3\source\repos\PrasadPuvvala\sandr\FunctionLibrary.cs:line 1783
+Service & Repair Tool
+
+Disconnect
+Discover
+Connect
+Device Info
+Diagnostics
+Services
+Settings
+Support
+Device Information
+
+Model Name
+Private Label
+Serial Number
+Hybrid S/N
+Hybrid Version
+Firmware Version
+Wireless
+Volume Control
+Push Button
+Telecoil
+DAI
+AutoPhone
+TBR
+RHI Battery Health
+Battery Type
+Battery level
+Final Test Date
+Test Program
+Test Station
+Test Site
+Fitting Software
+RT961-DRWC
+No
+2000816936
+1AC5-50F5-614B
+C6
+[9].60.1.1 (Dooku2)
+Yes
+No
+Yes
+No
+No
+No
+Yes
+Good
+Varta Li 60L3
+90%
+2022-08-01 12:45:54
+70B6-2C2C-A28C
+FSWIRAY112
+99
+SmartFit ?.16.37.0
+Left
+No
+Registered
+SAS3
+C:\Users\iray3\source\repos\PrasadPuvvala\sandr\bin\Debug\netcoreapp3.1\azurefiles\2023-12-04-15-15-15-Left-DK
+File Renamed.C:\Users\iray3\source\repos\PrasadPuvvala\sandr\bin\Debug\netcoreapp3.1\azurefiles\2023-12-04-15-15-15-Left-DK.rar
+ZIP file extracted successfully.
+C:\Users\iray3\source\repos\PrasadPuvvala\sandr\bin\Debug\netcoreapp3.1\azurefiles\2000816936
+C:\Users\iray3\source\repos\PrasadPuvvala\sandr\bin\Debug\netcoreapp3.1\azurefiles\2000816936\2023-12-04-15-15-15-Left-DK
+File Renamed.
+System.Xml.XmlElement=C6
+C6
+System.Xml.XmlElement=2000816936
+2000816936
+System.Xml.XmlElement=0e09540b-0d58-4cb7-9be1-28a590cacf0a
+0e09540b-0d58-4cb7-9be1-28a590cacf0a
+System.Xml.XmlElement=
+
+System.Xml.XmlElement=1086a6ee-ba84-4038-b336-327ab899d35c
+1086a6ee-ba84-4038-b336-327ab899d35c
+System.Xml.XmlElement=1AC5-50F5-614B
+1AC5-50F5-614B
+System.Xml.XmlElement=AYktdfbEX7wAawyXBTz4pEWkQUA
+AYktdfbEX7wAawyXBTz4pEWkQUA
+System.Xml.XmlElement=6Am7XaF8
+6Am7XaF8
+System.Xml.XmlElement=Registered
+Registered
+System.Xml.XmlElement=555158912
+555158912
+System.Xml.XmlElement=C6
+C6
+System.Xml.XmlElement=-823857573
+-823857573
+System.Xml.XmlElement=0
+0
+System.Xml.XmlElement=SAS3
+SAS3
+System.Xml.XmlElement=Left
+Left
+System.Xml.XmlElement=NormalPowerClosed
+NormalPowerClosed
+System.Xml.XmlElement=True
+True
+System.Xml.XmlElement=1288
+1288
+System.Xml.XmlElement=0
+0
+System.Xml.XmlElement=False
+False
+System.Xml.XmlElement=0
+0
+System.Xml.XmlElement=2023-12-04 09:40:04 (SmartFit ?.16.37.0)
+2023-12-04 09:40:04 (SmartFit ?.16.37.0)
+System.Xml.XmlElement=2022-08-01 12:45:54
+2022-08-01 12:45:54
+System.Xml.XmlElement=99
+99
+System.Xml.XmlElement=FSWIRAY112
+FSWIRAY112
+System.Xml.XmlElement=70B6-2C2C-A28C
+70B6-2C2C-A28C
+System.Xml.XmlElement=D2C09600101
+D2C09600101
+System.Xml.XmlElement=SmartFit ?.16.37.0
+SmartFit ?.16.37.0
+System.Xml.XmlElement=RT961-DRWC
+RT961-DRWC
+System.Xml.XmlElement=ReSound ONE 9
+ReSound ONE 9
+System.Xml.XmlElement=RS.D2.Top.CbRIE45DW.9.60.1.1
+RS.D2.Top.CbRIE45DW.9.60.1.1
+System.Xml.XmlElement=True
+True
+System.Xml.XmlElement=9
+9
+C:\Users\iray3\source\repos\PrasadPuvvala\sandr\bin\Debug\netcoreapp3.1\azurefiles\2000816936
+C:\Users\iray3\source\repos\PrasadPuvvala\sandr\bin\Debug\netcoreapp3.1\azurefiles\2000816936\2023-12-04-15-15-15-Left-DK.Xml
+-> done: StepDefinitionFDTS.ThenDoTheComparisonBetweenAzureDataAndSandRData() (84.0s)
+AFter Scenario run

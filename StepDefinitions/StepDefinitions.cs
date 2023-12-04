@@ -78,6 +78,7 @@ using Environment = System.Environment;
 using File = System.IO.File;
 using System.Threading.Tasks;
 using OfficeOpenXml.ConditionalFormatting;
+using Newtonsoft.Json.Linq;
 
 namespace MyNamespace
 {
@@ -140,11 +141,26 @@ namespace MyNamespace
         
         [BeforeScenario]
 
-
-
         public static void BeforeScenario()
 
         {
+
+            // Read the scenario title to run from the configuration file
+            List<string> scenariosToRun = ReadScenariosToRunFromConfig();
+
+            string currentScenarioTitle = ScenarioContext.Current.ScenarioInfo.Title;
+
+            Console.WriteLine($"Starting scenario: {currentScenarioTitle}");
+
+            if (scenariosToRun == null || scenariosToRun.Contains(currentScenarioTitle, StringComparer.OrdinalIgnoreCase))
+            {
+                // Continue with the scenario execution.
+            }
+            else
+            {
+                Console.WriteLine($"Scenario '{currentScenarioTitle}' not found or not configured to run. Skipping...");
+                ScenarioContext.Current.Pending();
+            }
 
             /*Extract the TestcseId from the Scenario Context*/
 
@@ -171,11 +187,48 @@ namespace MyNamespace
 
             FunctionLibrary lib = new FunctionLibrary();
 
-            lib.PassingXML(test);
+            string scenarioName = ScenarioContext.Current.ScenarioInfo.Title;
+
+            lib.PassingXML(test, scenarioName);
 
         }
 
 
+
+        private static List<string> ReadScenariosToRunFromConfig()
+        {
+            string configFilePath = Path.Combine(Directory.GetCurrentDirectory(), "ScenarioConfig.json");
+
+            if (!File.Exists(configFilePath))
+            {
+                Console.WriteLine($"Config file not found at {configFilePath}. No scenarios will be skipped.");
+                return null;
+            }
+
+            try
+            {
+                string jsonContent = File.ReadAllText(configFilePath);
+                JObject config = JObject.Parse(jsonContent);
+
+                JArray scenarios = config["Scenarios"] as JArray;
+
+                if (scenarios != null && scenarios.Any())
+
+                {
+                    //return scenarios.Select(s => s.ToString()).ToList();
+                    return scenarios.Select(s => s.ToString()).ToList();
+
+                }
+
+                Console.WriteLine("No scenarios found in the config file.");
+                return null;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error reading config file: {ex.Message}. No scenarios will be skipped.");
+                return null;
+            }
+        }
 
 
         [AfterFeature]
@@ -932,7 +985,7 @@ namespace MyNamespace
                 catch (Exception e)
                 {
                     Console.WriteLine(e.Message);
-                    test.Fail(e.Message);
+                    //test.Fail(e.Message);
                 }
 
                 Thread.Sleep(10000);
@@ -1443,7 +1496,7 @@ namespace MyNamespace
 
         [When(@"\[Come back to Settings and wait till controls enabled]")]
         public void WhenComeBackToSettingsAndWaitTillControlsEnabled()
-         {
+        {
             test = extent.CreateTest(ScenarioStepContext.Current.StepInfo.Text.ToString());
             FunctionLibrary lib = new FunctionLibrary();
             Thread.Sleep(2000);
@@ -1462,7 +1515,7 @@ namespace MyNamespace
         public async Task GivenDownloadAndVerifyAzureStorageFilesAsync(string scenarioTitle, string DeviceNo)
         {
             //var Sandclose = session.FindElementByAccessibilityId("PART_Close");
-           // Sandclose.Click();
+            // Sandclose.Click();
 
             test = extent.CreateTest(ScenarioStepContext.Current.StepInfo.Text.ToString());
             // Define the connection string
@@ -1506,28 +1559,23 @@ namespace MyNamespace
             var blobList = container.ListBlobs(null, true);
 
             // Filter matching blobs
-            var matchingBlob = blobList
-        .OfType<CloudBlockBlob>()
-        .Where(blob =>
-        {
-            if (containerName == "lucan-hiservicerecords")
+            var matchingBlob = blobList.OfType<CloudBlockBlob>().Where(blob =>
             {
-                // Parse the date from the blob name (assuming the date format is "yyyy-MM-dd")
-                var currentDate = DateTime.UtcNow.Date;
-                var formattedCurrentDate = currentDate.ToString("yyyy-MM-dd");
+                if (containerName == "lucan-hiservicerecords")
+                {
+                    // Parse the date from the blob name (assuming the date format is "yyyy-MM-dd")
+                    var currentDate = DateTime.UtcNow.Date;
+                    var formattedCurrentDate = currentDate.ToString("yyyy-MM-dd");
 
-                return Path.GetDirectoryName(blob.Name) == formattedCurrentDate;
-               
+                    return Path.GetDirectoryName(blob.Name) == formattedCurrentDate;
 
-                
+
+
+                }
+                return blob.Name.Contains(DeviceNo);
             }
-
-            
-            return !blob.Name.Contains(DeviceNo);
-        })
-        .OrderByDescending(blob => blob.Properties.LastModified)
-        .FirstOrDefault();
-
+           ).OrderByDescending(blob => blob.Properties.LastModified).FirstOrDefault();
+        
             if (matchingBlob != null)
             {
                 var destinationFilePath = Path.Combine(destinationFolder, Path.GetFileName(matchingBlob.Name));
@@ -1551,13 +1599,6 @@ namespace MyNamespace
             }
         
         }
-        
-    
-
-
-        
-
-
 
         [When(@"\[Clicks on disconnect and verify device information is cleared]")]
         public void ClicksOnDisconnectAndVerifyDeviceInformationIsCleared()

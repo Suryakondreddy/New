@@ -1384,6 +1384,7 @@ E:\Automation\WiniumTest\sandr\obj\Debug\netcoreapp3.1\AppiumWinApp.csproj.CopyC
 E:\Automation\WiniumTest\sandr\obj\Debug\netcoreapp3.1\AppiumWinApp.dll
 E:\Automation\WiniumTest\sandr\obj\Debug\netcoreapp3.1\AppiumWinApp.pdb
 E:\Automation\WiniumTest\sandr\obj\Debug\netcoreapp3.1\AppiumWinApp.genruntimeconfig.cache
+C:\Users\iray3\source\repos\PrasadPuvvala\sandr\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libcef.dll
 C:\Users\iray3\source\repos\PrasadPuvvala\sandr\bin\Debug\netcoreapp3.1\testhost.dll
 C:\Users\iray3\source\repos\PrasadPuvvala\sandr\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
 C:\Users\iray3\source\repos\PrasadPuvvala\sandr\bin\Debug\netcoreapp3.1\testhost.exe
@@ -1751,7 +1752,6 @@ C:\Users\iray3\source\repos\PrasadPuvvala\sandr\bin\Debug\netcoreapp3.1\runtimes
 C:\Users\iray3\source\repos\PrasadPuvvala\sandr\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\icudtl.dat
 C:\Users\iray3\source\repos\PrasadPuvvala\sandr\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libEGL.dll
 C:\Users\iray3\source\repos\PrasadPuvvala\sandr\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libGLESv2.dll
-C:\Users\iray3\source\repos\PrasadPuvvala\sandr\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libcef.dll
 C:\Users\iray3\source\repos\PrasadPuvvala\sandr\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\af.pak
 C:\Users\iray3\source\repos\PrasadPuvvala\sandr\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\am.pak
 C:\Users\iray3\source\repos\PrasadPuvvala\sandr\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\ar.pak

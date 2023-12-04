@@ -1,50 +1,50 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <DocumentElement>
   <TFSTestResultsSet>
-    <TestPlanID>1633245</TestPlanID>
-    <TestSuitID>1633281</TestSuitID>
-    <TestCaseID>1537268</TestCaseID>
-    <TestConfiguration>GOP:Dooku2_BTE_RHI(C70)</TestConfiguration>
+    <TestPlanID>1331884</TestPlanID>
+    <TestSuitID>1333927</TestSuitID>
+    <TestCaseID>1105474</TestCaseID>
+    <TestConfiguration>GOP:Dooku1_RIE_WL(Salieri)</TestConfiguration>
     <TestStepID>1</TestStepID>
     <TestStatus>PASS</TestStatus>
   </TFSTestResultsSet>
   <TFSTestResultsSet>
-    <TestPlanID>1633245</TestPlanID>
-    <TestSuitID>1633281</TestSuitID>
-    <TestCaseID>1537268</TestCaseID>
-    <TestConfiguration>GOP:Dooku2_BTE_RHI(C70)</TestConfiguration>
+    <TestPlanID>1331884</TestPlanID>
+    <TestSuitID>1333927</TestSuitID>
+    <TestCaseID>1105474</TestCaseID>
+    <TestConfiguration>GOP:Dooku1_RIE_WL(Salieri)</TestConfiguration>
     <TestStepID>2</TestStepID>
     <TestStatus>PASS</TestStatus>
   </TFSTestResultsSet>
   <TFSTestResultsSet>
-    <TestPlanID>1633245</TestPlanID>
-    <TestSuitID>1633281</TestSuitID>
-    <TestCaseID>1537268</TestCaseID>
-    <TestConfiguration>GOP:Dooku2_BTE_RHI(C70)</TestConfiguration>
+    <TestPlanID>1331884</TestPlanID>
+    <TestSuitID>1333927</TestSuitID>
+    <TestCaseID>1105474</TestCaseID>
+    <TestConfiguration>GOP:Dooku1_RIE_WL(Salieri)</TestConfiguration>
     <TestStepID>3</TestStepID>
     <TestStatus>PASS</TestStatus>
   </TFSTestResultsSet>
   <TFSTestResultsSet>
-    <TestPlanID>1633245</TestPlanID>
-    <TestSuitID>1633281</TestSuitID>
-    <TestCaseID>1537268</TestCaseID>
-    <TestConfiguration>GOP:Dooku2_BTE_RHI(C70)</TestConfiguration>
+    <TestPlanID>1331884</TestPlanID>
+    <TestSuitID>1333927</TestSuitID>
+    <TestCaseID>1105474</TestCaseID>
+    <TestConfiguration>GOP:Dooku1_RIE_WL(Salieri)</TestConfiguration>
     <TestStepID>4</TestStepID>
     <TestStatus>PASS</TestStatus>
   </TFSTestResultsSet>
   <TFSTestResultsSet>
-    <TestPlanID>1633245</TestPlanID>
-    <TestSuitID>1633281</TestSuitID>
-    <TestCaseID>1537268</TestCaseID>
-    <TestConfiguration>GOP:Dooku2_BTE_RHI(C70)</TestConfiguration>
+    <TestPlanID>1331884</TestPlanID>
+    <TestSuitID>1333927</TestSuitID>
+    <TestCaseID>1105474</TestCaseID>
+    <TestConfiguration>GOP:Dooku1_RIE_WL(Salieri)</TestConfiguration>
     <TestStepID>5</TestStepID>
     <TestStatus>PASS</TestStatus>
   </TFSTestResultsSet>
   <TFSTestResultsSet>
-    <TestPlanID>1633245</TestPlanID>
-    <TestSuitID>1633281</TestSuitID>
-    <TestCaseID>1537268</TestCaseID>
-    <TestConfiguration>GOP:Dooku2_BTE_RHI(C70)</TestConfiguration>
+    <TestPlanID>1331884</TestPlanID>
+    <TestSuitID>1333927</TestSuitID>
+    <TestCaseID>1105474</TestCaseID>
+    <TestConfiguration>GOP:Dooku1_RIE_WL(Salieri)</TestConfiguration>
     <TestStepID>6</TestStepID>
     <TestStatus>PASS</TestStatus>
   </TFSTestResultsSet>
