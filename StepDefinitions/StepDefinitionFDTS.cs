@@ -888,7 +888,7 @@ namespace AppiumWinApp.StepDefinitions
         }
 
 
-       // [AfterScenario]
+        [AfterScenario]
 
         [Then(@"\[done]")]
         public void ThenDone()
