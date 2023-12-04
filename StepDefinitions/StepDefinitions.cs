@@ -145,7 +145,7 @@ namespace MyNamespace
 
         {
 
-            // Read the scenario title to run from the configuration file
+            // Read the scenario title to run from the configuration file //
             List<string> scenariosToRun = ReadScenariosToRunFromConfig();
 
             string currentScenarioTitle = ScenarioContext.Current.ScenarioInfo.Title;
